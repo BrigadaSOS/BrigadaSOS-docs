@@ -1,0 +1,14 @@
+---
+sidebar_position: 1
+slug: /
+---
+
+# Inicio
+
+<h2>¡Bienvenidos a la Brigada SOS! </h2>
+
+![main-haruhi](../assets/introduction/main_haruhi.gif)
+
+Si quiere aprender japonés de la forma apropiada o si tiene problemas con el método tradicional como lo son las clases, los libros de ayuda o tutores y quiere alcanzar un nivel nativo o cercano a ello, esta guía le será de ayuda.
+
+Aquí no se enseña japonés, **se enseña a aprender japonés.**
