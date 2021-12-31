@@ -1,3 +1,6 @@
+---
+slug: /miscelaneo/contacto
+---
 # Contacto
 
 Si desea ponerse en contacto ya sea para dejar algún comentario, sugerencia, contribución o alguna otra cosa, puede hacerlo a través de:

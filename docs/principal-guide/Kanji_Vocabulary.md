@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+slug: /guia-principal/vocabulario-kanji
 ---
 # Vocabulario y Kanji
 Hemos hablado de los kana, hemos hablado del kanji de forma breve. Para hablar de métodos y el cómo afrontar el kanji, hay que acabar con un problema de raíz que ocurre con la mayoría de aprendices, el problema de no saber la diferencia entre el vocabulario y el Kanji.
@@ -12,15 +13,15 @@ El vocabulario es todo ese conjunto de palabras que tienen una idea, concepto o 
 
 ### ¿Cuál es la diferencia entre el vocabulario y el Kanji?
 
-El Kanji por sí solo, **en el mayor de los casos** no significa "nada". El vocabulario en cambio **SÍ** significa algo. Esto se entiendo mejor con un ejemplo:
+Elementalmente, el vocabulario, la palabra, es un conjunto de sonidos que se refieren a algo **concreto**. Posteriormente, esta palabra puede ser escrita en cierta diversidad de Kanjis. En contraste, el Kanji es un conjunto de trazos visuales que se refieren a un **concepto amplio**, que cuando están en contexto tienen un sentido.
 
 Esto es un kanji: 学 (Educación, aprendizaje, estudio, conocimiento)<br/>
 Esto es otro kanji: 生 (Natural, vida, inexperiencia, entre muchas otras definiciones)<br/>
-Esto es vocabulario: 学生 (Estudiante)
+Esto es vocabulario, la palabra: 学生 (Estudiante)
 
-La combinación de varios kanjis como ocurre en este ejemplo están conformados por una serie de ideas y conceptos para así conformar una palabra, una nueva idea o concepto. Vocabulario. Tampoco hay que olvidar que el vocabulario también pueden ser palabras escritas en Hiragana o Katakana como おかあさん、おとうさん。パン、カメラ。
+La combinación de varios kanjis como ocurre en este ejemplo están conformados por una serie de ideas y conceptos para así conformar una palabra, una nueva idea o concepto **concreto**. Vocabulario. El kanji por sí sólo es un concepto amplio que en este caso, no tiene contexto y por ende, no tiene sentido.
 
-En resumen, la diferencia radica en que el Kanji no contiene conocimientos directamente aplicables, es decir, sabrá que se puede leer de muchas maneras pero no sabrá en que situaciones su lectura se aplica mientras que el vocabulario contiene conocimiento directamente aplicable, conocimiento donde conoce cuál es la lectura apropiada de ese kanji según la combinación de los Kanjis que lo componen.
+Como dato extra no hay que olvidar que el vocabulario también pueden ser palabras escritas en Hiragana o Katakana como おかあさん、おとうさん。パン、カメラ。
 
 ### ¿Cómo aprendo vocabulario?
 Para aprender vocabulario tiene dos opciones:
@@ -103,7 +104,8 @@ Entre ambos métodos queda en usted cuál le conviene más o si prefiere mezclar
 
 **No desista ni menosprecie su memoria sin ANTES EMPEZAR, pruebe el primer método antes de probar el segundo.**
 
-
+### ¿Dónde quedó el Kun-yomi y el On-yomi?
+Para aquellos que no conozcan del tema, los kanjis cuentan dos lecturas; Kun-yomi y On-yomi. Pero el tema es un dolor de cabeza y no sirve de nada saberlo. Con todo lo visto en esta sección, aprender las múltiples lecturas de un kanji no le dará ninguna ventaja, **DEBE** aprender la lectura de un kanji a través del vocabulario.
 
 
 

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+slug: /utilidad/faq
 ---
 
 # Preguntas y respuestas
@@ -75,10 +76,10 @@ En lo personal, cualquiera de los dos está bien pese a que mi preferencia sea p
 El truco es este, la mayoría no sabe la diferencia entre Kun-yomi y On-yomi. Saberlas no le va a dar ninguna ventaja. No se moleste aprendiendo cada lectura para cada kanji, eso es ineficaz. Todo lo que necesita es aprender la lectura de un kanji a través del vocabulario. Consulte [Vocabulario y Kanji](../) para más información.
 
 ### ¿Cómo sé si X anime es bueno para hacer inmersión?
-Cualquier anime está bien, aunque claro, dependiendo de lo que escoja la dificultad cambia. Si eso le preocupa, cualquier anime del género Slice of Life es perfecto pero reitero, la inmersión siempre es dura al inicio así que haga inmersión con un anime que disfrute. La motivación es un factor importante para no rendirse.
+La mayoría de animes están bien, claro, dependiendo de lo que escoja la dificultad cambia. Si eso le preocupa, cualquier anime del género Slice of Life es perfecto pero reitero, la inmersión siempre es dura al inicio así que haga inmersión con un anime que disfrute. La motivación es un factor importante para no rendirse. Puede consultar esta [página](https://jpdb.io/anime-difficulty-list) para ver una lista de animes categorizados por dificultad.
 
 ### ¿Dónde puedo consultar el significado de una palabra en Japonés?
-Si desea usar diccionarios monolingües [Sakura-Paris](https://sakura-paris.org/dict/) es su opción. Para diccionarios bilingües tiene [Jisho](https://jisho.org/) y [Weblio](https://ejje.weblio.jp/). También puede hacer uso de [Yomichan](../various-guide/Yomichan.md)  para buscar en cualquier parte el significado de una palabra.
+Si desea usar diccionarios monolingües [Sakura-Paris](https://sakura-paris.org/dict/) es su opción. Para diccionarios bilingües tiene [Jisho](https://jisho.org/) y [Weblio](https://ejje.weblio.jp/). También puede hacer uso de [Yomichan](../various-guide/Yomichan)  para buscar en cualquier parte el significado de una palabra.
 
 ### ¿Debería guardar nombres y prefecturas en Anki?
 Aunque es bastante opcional, puede hacerlo y dependiendo de lo que usted necesite, puede ser útil.

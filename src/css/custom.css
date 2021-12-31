@@ -54,6 +54,14 @@ html[data-theme='dark'] .navbar-sidebar {
   background-color: #1d1d1d;
 }
 
+html[data-theme='dark'] .navbar__title:hover{
+ color:rgb(255, 255, 255);
+}
+
+html[data-theme='dark'] .navbar__brand:hover{
+  color:rgb(255, 255, 255);
+ }
+ 
 h4{
   font-size: 20px;
 }

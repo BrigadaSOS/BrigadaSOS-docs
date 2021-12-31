@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+slug: /otras-guias/ebook
 ---
 
 # Lectura en libros electrónicos

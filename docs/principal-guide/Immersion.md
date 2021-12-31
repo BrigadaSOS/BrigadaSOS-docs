@@ -1,5 +1,6 @@
 ---
 sidebar_position: 6
+slug: /guia-principal/inmersion
 ---
 # Inmersión
 Llegamos al punto clave de esta guía, hemos hablado de inmersión y ya sabemos de qué va, pero aún no sabemos cómo realizarla ni qué tipos de inmersión hay.

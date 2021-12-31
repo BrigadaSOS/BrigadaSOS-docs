@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+slug: /guia-principal/aprendizaje-adquisicion
 ---
 
 # Aprendizaje y adquisición
@@ -31,8 +32,6 @@ Esto es un error. La tercera hipótesis de Krashen es la hipótesis del monitor,
 ### Ya veo, ¿pero qué es eso del "I+1"? 
 
 I+1 significa Input + 1. Es la cuarta hipótesis de Krashen, que establece que la forma de avanzar en la adquisición del idioma es recibir input que esté por encima del nivel del estudiante, pues si no se enfrentara a contenido que desconoce, no aprendería nada nuevo, ¿lógico, no?
-
-[Insertar imagen gráfica i+1]
 
 ## Conclusión
 
