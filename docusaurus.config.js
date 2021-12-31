@@ -6,6 +6,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+  i18n: {
+    defaultLocale: 'es',
+    locales: ['es'],
+  },
   title: 'Brigada SOS',
   tagline: 'Dinosaurs are cool',
   url: 'https://brigadasos.xyz',
@@ -32,13 +36,13 @@ const config = {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+          editUrl: 'https://github.com/Natsume-197/Natsume-197.github.io/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+          editUrl:  
+            'https://github.com/Natsume-197/Natsume-197.github.io/blob/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

@@ -5,6 +5,15 @@ sidebar_position: 5
 
 Entre más inmersión haga, poco a poco empezará a descifrar la gramática por su propia cuenta, sin necesidad de estudiarla, **pero eso es un proceso extremadamente lento al comienzo**. 
 
+## ¿Qué significa estudiar gramática?
+Muy seguramente, en su vida académica ha aprendido "gramática" del español o incluso del inglés. El problema es que nunca le han explicado qué es realmente la "gramática" ni de dónde viene. Normalmente, se suele considerar a la gramática como un conjunto de reglas, que cayeron del cielo y son siempre ciertas para predecir cómo funciona el lenguaje. 
+
+Y esto no está más alejado de la realidad.
+
+La gramática, es una rama de la linguístca, que describe a través de modelos como funcionan los lenguajes. Estos modelos, como el de la física, provienen de la observación, y parten de abstracciones acordadas. De la misma forma en la que usted jamás vería la energía potencial y cinética al lanzar una pelota, usted jamás verá que el español es un idioma nominativo acusativo.
+
+En síntesis de todo el párrafo anterior, no estudie "reglas gramaticales", estudie las teorías enteras como un todo armonioso y lógico para realmente entenderlas.
+
 ## ¿Estudiar o no estudiar gramática? 
 Tiene toda la libertad de decidir si quiere estudiar o no la gramática. Si decide optar por no estudiar gramática, es probable que le sea demmasiado complicado pasar de la etapa inicial de comprensión. Pero no es imposible. Personas como [Tatsumoto](https://tatsumoto.neocities.org/blog/index.html) lo han logrado con ayuda de la inmersión y [Anki](../various-guide/Anki). 
 

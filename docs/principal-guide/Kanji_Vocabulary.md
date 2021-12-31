@@ -44,22 +44,26 @@ Sólo puede utilizar un deck a la vez. No puede pasar al Tango N4 si no ha final
 
 ### ¿Cómo afrontar el Kanji?
 
-Hay dos formas de afrontar el Kanji. La primera consiste en estudiar el Kanji a través del vocabulario. La segunda consiste en estudiar el Kanji de forma aislada.
+Hay dos métodos de afrontar el Kanji. La primera consiste en estudiar el Kanji a través del vocabulario. La segunda consiste en estudiar el Kanji de forma aislada.
 
 #### Kanji a través del vocabulario
-Esta es la forma más sencilla de afrontar el kanji, también es la forma que yo uso personalmente y la que se recomienda en esta guía. Es tan simple como encontrar una palabra, buscarla en su diccionario de preferencia y aprender el significado (según el contexto) y su lectura. 
+El primer método es bastante simple en pasos pero aún así, para muchos, es complicado de ejecutar al principio. Sin embargo, tarde o temprano tendrá que usar este método para aprender vocabulario y con ello, el Kanji. Esta método consiste en algo tan simple como encontrar una palabra, buscarla en su diccionario de preferencia y aprender el significado (según el contexto), su lectura y el cómo se ve la palabra, es decir, que pueda reconocerla. 
 
 **Ejemplo:**<br/>
 Vocabulario: [先週](https://jisho.org/search/%E5%85%88%E9%80%B1)<br/>
-Lectura según el diccionario: せんしゅう<br/>
+Lectura según el diccionario: せん・しゅう<br/>
 Definición: Semana anterior<br/>
 
-Así de simple, sólo tiene que memorizar esas tres partes. De esta forma aprende vocabulario y kanji al tiempo, entre más y más palabras aprenda, sin que se de cuenta va a poder predecir la lectura de los kanjis que conforman la palabra e incluso definiciones.
+Sólo tiene que memorizar esas tres partes. De esta forma aprende vocabulario y kanji al tiempo, entre más y más palabras aprenda, sin que se de cuenta va a poder predecir la lectura de los kanjis que conforman la palabra e incluso definiciones.
 
 Como ocurre con el ejemplo, pasará con cada palabra que se encuentre. Usted puede comprender y leer esta palabra '[先輩](https://jisho.org/search/%E5%85%88%E8%BC%A9)' o '[学校](https://jisho.org/search/%E5%AD%A6%E6%A0%A1)' sin saber el significado individual de cada kanji. Sólo reconociendo la combinación de los kanjis que lo conforman. 
 
 Cabe destacar que para aprender vocabulario no basta con sólo mirar la palabra una vez. Es muy redundnte pero como todo, hay que verla una y otra vez hasta que haga click en la memoria. Más adelante se entrará en detalles sobre cómo hacerlo.
- 
+
+:::tip Consejo
+Aunque es **totalmente** opcional, es recomendable que antes de realizar este método aprenda los primeros 50 radicales de los Kanjis. Aprender radicales es importante y le ayudará desde un inicio a reconocerlos con mayor facilidad y velocidd. Puede utilizar este [deck](https://ankiweb.net/shared/info/1044119361) para Anki junto a la [guía](../../various-guide/Anki) o puede aprenderlos con el método que prefiera usando esta [lista](http://d20uo2axdbh83k.cloudfront.net/20140609/d9ae264c2ecaf15e7e3163265045b3d0.pdf).
+:::
+
 #### Kanji mediante el estudio aislado
 
 La segunda forma consiste en estudiar el Kanji de forma aislada, en otras palabras, estudiar el significado y la composición individual de un kanji. Esta forma le facilitará las cosas un poco más a la hora de recordar vocabulario. 
