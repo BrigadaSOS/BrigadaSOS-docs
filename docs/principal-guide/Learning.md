@@ -29,7 +29,7 @@ Todo esto significa que para aprender un idioma se necesita *input* («entrada»
 
 Esto es un error. La tercera hipótesis de Krashen es la hipótesis del monitor, que establece que el aprendizaje (es decir, el estudio consciente del idioma) ayuda si se complementa con la inmersión (que es obtener cantidades masivas de *input*), funcionando en el cerebro como un monitor (no de *pantalla*, sino monitor de *monitorizar*) que gestiona los conocimientos adquiridos de forma inconsciente. Por poner un ejemplo en el que se entienda esto, cuando hacemos *output* (que significa «salida» en inglés: hablar o escribir en el idioma objetivo), nuestros conocimientos adquiridos de forma inconsciente se ponen en marcha, y si vamos a cometer un error, nuestros conocimientos aprendidos de forma consciente se ponen en marcha para corregirlo. No solo eso, sino que saber cosas como gramática básica puede ayudar a avanzar más rápido en el idioma. Pero siempre se debe poner considerablemente más importancia en la inmersión que en el aprendizaje.
 
-### «Ya veo, pero ¿qué es eso del "I+1"?» 
+### «Ya veo, pero ¿qué es eso del “I+1”?» 
 
 «I+1» significa «input más uno». Es la cuarta hipótesis de Krashen, que establece que la forma de avanzar en la adquisición del idioma es recibir *input* que esté por encima del nivel actual del estudiante; pues, si no se enfrentara a contenido que desconoce, no aprendería nada nuevo. ¿Lógico, no?
 
