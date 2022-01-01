@@ -2,26 +2,28 @@
 sidebar_position: 4
 slug: /guia-principal/vocabulario-kanji
 ---
-# Vocabulario y Kanji
-Hemos hablado de los kana, hemos hablado del kanji de forma breve. Para hablar de métodos y el cómo afrontar el kanji, hay que acabar con un problema de raíz que ocurre con la mayoría de aprendices, el problema de no saber la diferencia entre el vocabulario y el Kanji.
+# Vocabulario y *kanji*
+Para hablar de métodos para afrontar el kanji, hay que acabar con un problema de raíz que ocurre con la mayoría de aprendices: no saber la diferencia entre el vocabulario y el *kanji*.
 
 ## Vocabulario 
 
 ### ¿Qué es el vocabulario?
 
-El vocabulario es todo ese conjunto de palabras que tienen una idea, concepto o función detrás que es reconocido por las demás personas que hablan el lenguaje. El vocabulario es una parte indispensable dentro de su aprendizaje y aprender vocabulario es algo que estará haciendo una cantidad impresionante de veces. Sin importar el nivel en el que se encuentre, lo más probable es que aprenda nuevo vocabulario todos los días. 
+El vocabulario es el conjunto de palabras que tienen una idea, concepto o función detrás, y que es reconocido por las demás personas que hablan el lenguaje. El vocabulario es una parte indispensable dentro de su aprendizaje, y aprender vocabulario es algo que estará haciendo una cantidad impresionante de veces. Sin importar el nivel en el que se encuentre, lo más probable es que aprenda nuevo vocabulario todos los días. 
 
-### ¿Cuál es la diferencia entre el vocabulario y el Kanji?
+### ¿Cuál es la diferencia entre el vocabulario y el *kanji*?
 
-Elementalmente, el vocabulario, la palabra, es un conjunto de sonidos que se refieren a algo **concreto**. Posteriormente, esta palabra puede ser escrita en cierta diversidad de Kanjis. En contraste, el Kanji es un conjunto de trazos visuales que se refieren a un **concepto amplio**, que cuando están en contexto tienen un sentido.
+Elementalmente, el vocabulario —la palabra— es una unidad que se refiere a algo **concreto** y que puede ser escrita con diferentes *kanji*. En contraste, el *kanji* es un conjunto de trazos visuales que se refieren a un concepto amplio, y que cobran un sentido cuando están en contexto.
 
-Esto es un kanji: 学 (Educación, aprendizaje, estudio, conocimiento)<br/>
-Esto es otro kanji: 生 (Natural, vida, inexperiencia, entre muchas otras definiciones)<br/>
-Esto es vocabulario, la palabra: 学生 (Estudiante)
+Esto es un *kanji*: *学* (que significa «educación», «aprendizaje», «estudio», «conocimiento», entre otras cosas)<br/>
+Esto es otro *kanji*: *生* (que significa «natural», «vida», «inexperiencia», entre otras definiciones)<br/>
+Esto es **vocabulario**: la palabra *学生* («estudiante»)
 
-La combinación de varios kanjis como ocurre en este ejemplo están conformados por una serie de ideas y conceptos para así conformar una palabra, una nueva idea o concepto **concreto**. Vocabulario. El kanji por sí sólo es un concepto amplio que en este caso, no tiene contexto y por ende, no tiene sentido.
+La combinación de varios *kanji*, como ocurre en el ejemplo arriba, une una serie de ideas y conceptos para así conformar una palabra, una nueva idea o concepto concreto: vocabulario. El *kanji* por sí sólo es un concepto amplio que, en este caso, no tiene contexto y, por ende, no tiene mucho sentido.
 
-Como dato extra no hay que olvidar que el vocabulario también pueden ser palabras escritas en Hiragana o Katakana como おかあさん、おとうさん。パン、カメラ。
+Como dato adicional, no hay que olvidar que el vocabulario también pueden ser palabras escritas exclusivamente en uno de los silabarios, como *おかあさん* («madre»), *おとうさん* («padre»), *パン* («pan») y *カメラ* («cámara»).
+
+[test](a "jaime")
 
 ### ¿Cómo aprendo vocabulario?
 Para aprender vocabulario tiene dos opciones:
