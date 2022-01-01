@@ -23,37 +23,35 @@ La combinación de varios *kanji*, como ocurre en el ejemplo arriba, une una ser
 
 Como dato adicional, no hay que olvidar que el vocabulario también pueden ser palabras escritas exclusivamente en uno de los silabarios, como *おかあさん* («madre»), *おとうさん* («padre»), *パン* («pan») y *カメラ* («cámara»).
 
-[test](a "jaime")
-
 ### ¿Cómo aprendo vocabulario?
-Para aprender vocabulario tiene dos opciones:
+Para aprender vocabulario hay varias opciones. Las dos principales son:
 
-- Aprender vocabulario a través de Anki.
-- Aprender vocabulario únicamente a través de lo que hace inmersión.
+- Aprender vocabulario a través de Anki, un programa de repetición espaciada que utiliza tarjetas.
+- Aprender vocabulario a través de la inmersión.
 
-Ya sea de una o la otra forma, debe formarse de un vocabulario básico antes de realizar inmersión, vocabulario que apoyará y hará más fácil su inmersión. Aquí recomendamos que siga la [guía para utilizar Anki](../../various-guide/Anki) y use los Decks conocidos ampliamente como los Tango, empezando por el Tango N5. Pero reiteramos, esto es opcional. Puede aprender vocabulario básico de Internet o de lo que consume.
+Ya sea de una o la otra forma, debe formarse de un vocabulario básico antes de realizar inmersión, así le será más fácil hacerla mientras comienza. Aquí recomendamos que siga la [guía para utilizar Anki](../../various-guide/Anki) y use los mazos (también llamados *decks* por su nombre en inglés) «Tango», empezando por el Tango N5. Pero, reiteramos, esto es opcional. Puede aprender vocabulario básico de Internet o de lo que consume. También es importante aclarar que estas opciones no son mutuamente exclusivas; usted puede combinar su aprendizaje pasivo con Anki.
 
-Decks Tango para Anki:
-- [Tango N5](https://drive.google.com/file/d/1pMlJvSrKQOSaiN8sPLdNDvWP31EClxDO/view)
-- [Tango N4](https://drive.google.com/file/d/1WX9AAKJgiTKN-SySPzuGG8T4nXVhWaSi/view)
+Mazos Tango para Anki:
+- [Tango N5](https://drive.google.com/file/d/1pMlJvSrKQOSaiN8sPLdNDvWP31EClxDO/view).
+- [Tango N4](https://drive.google.com/file/d/1WX9AAKJgiTKN-SySPzuGG8T4nXVhWaSi/view).
 
 :::caution Advertencia
-Sólo puede utilizar un deck a la vez. No puede pasar al Tango N4 si no ha finalizado primero el Tango N5.
+Solo debería utilizar un mazo a la vez. Usar el N5 y el N4 al mismo tiempo podría ser demasiado trabajo.
 :::
 
 --- 
 
-## Kanji
+## *Kanji*
 
-### ¿Cómo afrontar el Kanji?
+### ¿Cómo afrontar el *kanji*?
 
-Hay dos métodos de afrontar el Kanji. La primera consiste en estudiar el Kanji a través del vocabulario. La segunda consiste en estudiar el Kanji de forma aislada.
+Hay dos métodos principales para afrontar el *kanji*. El primero consiste en estudiarlo a través del vocabulario; el segundo consiste en estudiarlo de forma aislada.
 
 #### Kanji a través del vocabulario
-El primer método es bastante simple en pasos pero aún así, para muchos, es complicado de ejecutar al principio. Sin embargo, tarde o temprano tendrá que usar este método para aprender vocabulario y con ello, el Kanji. Esta método consiste en algo tan simple como encontrar una palabra, buscarla en su diccionario de preferencia y aprender el significado (según el contexto), su lectura y el cómo se ve la palabra, es decir, que pueda reconocerla. 
+Esto es bastante simple en pasos, pero, aun así, para muchos es complicado de ejecutar al principio. Sin embargo, es posible que tarde o temprano se vea usando este método para aprender vocabulario y con ello el *kanji*. Consiste en algo tan simple como encontrar una palabra que quiera aprender, buscarla en su diccionario de preferencia y aprender su significado (según el contexto), su lectura y cómo se ve la palabra; es decir, consiste en que usted pueda reconocerla. 
 
 **Ejemplo:**<br/>
-Vocabulario: [先週](https://jisho.org/search/%E5%85%88%E9%80%B1)<br/>
+Vocabulario: <i>[先週](https://jisho.org/search/%E5%85%88%E9%80%B1)</i><br/>
 Lectura según el diccionario: せん・しゅう<br/>
 Definición: Semana anterior<br/>
 
