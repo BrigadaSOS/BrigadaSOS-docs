@@ -17,11 +17,11 @@ Elementalmente, el vocabulario —la palabra— es una unidad que se refiere a a
 
 Esto es un *kanji*: *学* (que significa *educación*, *aprendizaje*, *estudio*, *conocimiento*, entre otras cosas).<br/>
 Esto es otro *kanji*: *生* (que significa *natural*, *vida*, *inexperiencia*, entre otras definiciones).<br/>
-Esto es **vocabulario**: la palabra *学生* (*estudiante*).
+Esto es **vocabulario**: la palabra *学生* *(estudiante)*.
 
 La combinación de varios *kanji*, como ocurre en el ejemplo arriba, une una serie de ideas y conceptos para así conformar una palabra, una nueva idea o concepto concreto: vocabulario. El *kanji* por sí sólo es un concepto amplio que, en este caso, no tiene contexto y, por ende, no tiene mucho sentido.
 
-Como dato adicional, no hay que olvidar que el vocabulario también pueden ser palabras escritas exclusivamente en uno de los silabarios, como *おかあさん* (*madre*), *おとうさん* (*padre*), *パン* (*pan*) y *カメラ* (*cámara*).
+Como dato adicional, no hay que olvidar que el vocabulario también pueden ser palabras escritas exclusivamente en uno de los silabarios, como *おかあさん* *(madre)*, *おとうさん* *(padre)*, *パン* *(pan)* y *カメラ* *(cámara)*.
 
 ### ¿Cómo aprendo vocabulario?
 Para aprender vocabulario hay varias opciones. Las dos principales son:
@@ -57,9 +57,9 @@ Definición: «semana anterior».<br/>
 
 Esos son los tres pasos. De esta forma podrá aprender vocabulario y kanji al tiempo, entre más y más palabras aprenda. Eventualmente, sin que se dé cuenta, va a poder predecir la lectura de los kanjis que conforman la palabras e incluso las definiciones de estas.
 
-Como ocurre con el ejemplo, pasará con cada palabra que se encuentre. Usted puede comprender y leer esta palabra '[先輩](https://jisho.org/search/%E5%85%88%E8%BC%A9)' o '[学校](https://jisho.org/search/%E5%AD%A6%E6%A0%A1)' sin saber el significado individual de cada kanji. Sólo reconociendo la combinación de los kanjis que lo conforman. 
+Como ocurre en el ejemplo, pasará con cada palabra que se encuentre. Usted puede comprender y leer esta palabra *[先輩](https://jisho.org/search/%E5%85%88%E8%BC%A9)* o *[学校](https://jisho.org/search/%E5%AD%A6%E6%A0%A1)* sin saber el significado individual de cada *kanji*, solo reconociendo la combinación de los *kanji* que lo conforman. 
 
-Cabe destacar que para aprender vocabulario no basta con sólo mirar la palabra una vez. Es muy redundnte pero como todo, hay que verla una y otra vez hasta que haga click en la memoria. Más adelante se entrará en detalles sobre cómo hacerlo.
+Cabe destacar que, para aprender vocabulario, no basta con solo mirar la palabra una vez. Es muy redundnte, pero, como todo, hay que verla una y otra vez hasta que «encaje» en la memoria. Más adelante se entrará en detalles sobre cómo hacerlo.
 
 :::tip Consejo
 Aunque es **totalmente** opcional, es recomendable que antes de realizar este método aprenda los primeros 50 radicales de los Kanjis. Aprender radicales es importante y le ayudará desde un inicio a reconocerlos con mayor facilidad y velocidd. Puede utilizar este [deck](https://ankiweb.net/shared/info/1044119361) para Anki junto a la [guía](../../various-guide/Anki) o puede aprenderlos con el método que prefiera usando esta [lista](http://d20uo2axdbh83k.cloudfront.net/20140609/d9ae264c2ecaf15e7e3163265045b3d0.pdf).
