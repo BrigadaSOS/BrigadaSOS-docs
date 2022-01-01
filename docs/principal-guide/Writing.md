@@ -29,12 +29,12 @@ Debe aprender los kana antes de continuar con la guía. Evite el uso del *romaji
 ## *Kanji*
 
 ![kanji](../../assets/main_guide/kanji_first_learners.png)
-<i><small>Algunos </i>kanji<i> básicos enseñados a los japoneses en su primer año de escuela</small></i>
+<small><i>Algunos </i>kanji<i> básicos enseñados a los japoneses en su primer año de escuela</i></small>
 
 El último y tercer sistema de escritura que hay en el lenguaje japonés es el *kanji*. Este es un sistema de escritura logográfico proveniente de China, que utiliza [logogramas](https://es.wikipedia.org/wiki/Logograma) (representaciones gráficas abstractas) para expresar ideas, conceptos, palabras, etc. Es quizás la barrera más grande para todo aprendiz debido a que hay una cantidad impresionante de ellos. En el sistema educativo japonés se enseñan 2136 *kanji*, pero en la vida diaria se utilizan alrededor de 3000 o más. Aun así, no se alarme ni pierda la esperanza. Aunque parezca una locura esa cantidad, eventualmente, entre más avance en el idioma y aprenda más palabras, dejan de suponer un reto. El motivo por el cual muchas personas fallan y desesperan es simplemente por la falta de un método eficiente para encararlos.
 
 ![kanji](../../assets/main_guide/example_kana_kanji.png)
-<i><small>Los tres sistemas de escritura siendo usados en un manga </i>(本好きの下苦情)<i></small></i>
+<small><i>Los tres sistemas de escritura siendo usados en un manga </i>(本好きの下苦情)</small>
 
 ### ¿Cómo aprender *kanji*?
 Esta es una pregunta muy frecuente, así como la oración «estoy aprendiendo kanji», pero niguna de las dos tiene sentido ni en el mejor de los casos. Sean totalmente nuevos en esto o no, antes de abarcar métodos y más información sobre el *kanji*, hay que aprender la diferencia entre *vocabulario* y *kanji*. Este tema es lo suficientemente extenso como para merecer su propia sección.
