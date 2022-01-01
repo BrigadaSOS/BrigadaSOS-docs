@@ -15,13 +15,13 @@ El vocabulario es el conjunto de palabras que tienen una idea, concepto o funci�
 
 Elementalmente, el vocabulario —la palabra— es una unidad que se refiere a algo **concreto** y que puede ser escrita con diferentes *kanji*. En contraste, el *kanji* es un conjunto de trazos visuales que se refieren a un concepto amplio, y que cobran un sentido cuando están en contexto.
 
-Esto es un *kanji*: *学* (que significa «educación», «aprendizaje», «estudio», «conocimiento», entre otras cosas)<br/>
-Esto es otro *kanji*: *生* (que significa «natural», «vida», «inexperiencia», entre otras definiciones)<br/>
-Esto es **vocabulario**: la palabra *学生* («estudiante»)
+Esto es un *kanji*: *学* (que significa *educación*, *aprendizaje*, *estudio*, *conocimiento*, entre otras cosas).<br/>
+Esto es otro *kanji*: *生* (que significa *natural*, *vida*, *inexperiencia*, entre otras definiciones).<br/>
+Esto es **vocabulario**: la palabra *学生* (*estudiante*).
 
 La combinación de varios *kanji*, como ocurre en el ejemplo arriba, une una serie de ideas y conceptos para así conformar una palabra, una nueva idea o concepto concreto: vocabulario. El *kanji* por sí sólo es un concepto amplio que, en este caso, no tiene contexto y, por ende, no tiene mucho sentido.
 
-Como dato adicional, no hay que olvidar que el vocabulario también pueden ser palabras escritas exclusivamente en uno de los silabarios, como *おかあさん* («madre»), *おとうさん* («padre»), *パン* («pan») y *カメラ* («cámara»).
+Como dato adicional, no hay que olvidar que el vocabulario también pueden ser palabras escritas exclusivamente en uno de los silabarios, como *おかあさん* (*madre*), *おとうさん* (*padre*), *パン* (*pan*) y *カメラ* (*cámara*).
 
 ### ¿Cómo aprendo vocabulario?
 Para aprender vocabulario hay varias opciones. Las dos principales son:
@@ -51,11 +51,11 @@ Hay dos métodos principales para afrontar el *kanji*. El primero consiste en es
 Esto es bastante simple en pasos, pero, aun así, para muchos es complicado de ejecutar al principio. Sin embargo, es posible que tarde o temprano se vea usando este método para aprender vocabulario y con ello el *kanji*. Consiste en algo tan simple como encontrar una palabra que quiera aprender, buscarla en su diccionario de preferencia y aprender su significado (según el contexto), su lectura y cómo se ve la palabra; es decir, consiste en que usted pueda reconocerla. 
 
 **Ejemplo:**<br/>
-Vocabulario: <i>[先週](https://jisho.org/search/%E5%85%88%E9%80%B1)</i><br/>
-Lectura según el diccionario: せん・しゅう<br/>
-Definición: Semana anterior<br/>
+Vocabulario: <i>[先週](https://jisho.org/search/%E5%85%88%E9%80%B1)</i>.<br/>
+Lectura según el diccionario: «せん・しゅう».<br/>
+Definición: «semana anterior».<br/>
 
-Sólo tiene que memorizar esas tres partes. De esta forma aprende vocabulario y kanji al tiempo, entre más y más palabras aprenda, sin que se de cuenta va a poder predecir la lectura de los kanjis que conforman la palabra e incluso definiciones.
+Esos son los tres pasos. De esta forma podrá aprender vocabulario y kanji al tiempo, entre más y más palabras aprenda. Eventualmente, sin que se dé cuenta, va a poder predecir la lectura de los kanjis que conforman la palabras e incluso las definiciones de estas.
 
 Como ocurre con el ejemplo, pasará con cada palabra que se encuentre. Usted puede comprender y leer esta palabra '[先輩](https://jisho.org/search/%E5%85%88%E8%BC%A9)' o '[学校](https://jisho.org/search/%E5%AD%A6%E6%A0%A1)' sin saber el significado individual de cada kanji. Sólo reconociendo la combinación de los kanjis que lo conforman. 
 
