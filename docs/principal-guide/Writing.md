@@ -4,37 +4,37 @@ slug: /guia-principal/escritura
 ---
 # Sistemas de escritura
 
-El lenguaje Japonés consta de tres sistemas de escritura principales; Hiragana, Katakana y Kanji. Estos tres se utilizan en conjunto casi siempre así que antes de que pueda realizar inmersión o aprender cualquier otra cosa sobre el lenguaje, debe conocer estos sistemas de escritura antes. Empezando por el kana.
+El lenguaje japonés consta de tres sistemas de escritura principales: *hiragana*, katakana y *kanji*. Estos tres se utilizan en conjunto casi siempre, así que, antes de que pueda realizar inmersión o aprender cualquier otra cosa sobre el lenguaje, debe conocerlos, empezando por los **kana**.
 
 ## Kana
 ![kana](../../assets/main_guide/writing_kana.png)
-_<small>Imagen que contiene los kana (Hiragana y Katakana)</small>_
+<i><small>Los dos silabarios japoneses (kana)</small></i>
 
-El kana es un término que describe el conjunto de dos sistemas de escritura; Hiragana y Katakana. Estos son sistemas de escritura donde el primero se utiliza para escribir palabras o nombres cuyo kanji es muy complicado o no se recuerda y para escribir gramática. El segundo se utiliza para escribir nombres de origen extranjero o en muchos casos para hacer la letra más llamativa (por eso gran parte de los anuncios comerciales japoneses contienen Katakana).
+El kana es un término que describe el conjunto de dos sistemas de escritura silábicos: el *hiragana* y el katakana. El primero se utiliza para escribir palabras o nombres cuyos *kanji* (caracteres chinos, se explicarán más tarde) son muy complicados o no se recuerdan, y para escribir [flexiones](https://es.wikipedia.org/wiki/Flexi%C3%B3n_(ling%C3%BC%C3%ADstica)) (por ejemplo, de verbos), entre otras cosas. El segundo se utiliza para escribir nombres de origen extranjero o en muchos casos para hacer la letra más llamativa (por eso gran parte de los anuncios comerciales japoneses contienen texto escrito en katakana).
 
-### ¿Cómo puedo aprender los Kana?
-Por suerte, el aprendizaje de los kana es totalmente flexible. Puede aprenderlos a través de lapiz y papel, con aplicaciones dedicadas al aprendizaje de los Kana o cualquier método de fuerza bruta. Aprenderse los Kana puede parecer complicado por la cantidad pero descuide, es más fácil de lo que aparenta en un inicio. En cuestión de **una o dos semanas aproximadas** debería ser capaz de aprenderselos. Para aprenderse los Kana puede hacer uso de cualquiera de estos recursos:
+### ¿Cómo puedo aprender los kana?
+Por suerte, el aprendizaje de los kana es totalmente flexible. Puede aprenderlos a través de lapiz y papel, con aplicaciones o con cualquier método que le parezca cómodo. Aprender los kana puede parecer complicado por la cantidad, pero descuide; es más fácil de lo que aparenta en un inicio. En cuestión de **una o dos semanas aproximadas** debería ser capaz de aprenderlos. Para ello, puede hacer uso de cualquiera de estos recursos:
 
-- [Guía corta para aprender Hiragana](http://www.aprenderjapones.com/curso-de-japones/hiragana-basico/) - Pequeña guía que contiene y explica las reglas y pronunciaciones del Hiragana.
-- [Guía corta para aprender Katakana](http://www.aprenderjapones.com/curso-de-japones/katakana-basico/) - Pequeña guía que contiene y explica las reglas y pronunciaciones del Katakana.
-- [Worksheet Hiragana](http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf) - Hoja de trabajo para Hiragana (lapiz y papel).
-- [Worksheet Katakana](http://japanese-lesson.com/resources/pdf/katakana_writing_practice_sheets.pdf) - Hoja de trabajo para Katakana (lapiz y papel).
+- [Guía corta para aprender *hiragana*](http://www.aprenderjapones.com/curso-de-japones/hiragana-basico/): pequeña guía que contiene y explica las reglas y pronunciaciones del *hiragana*.
+- [Guía corta para aprender katakana](http://www.aprenderjapones.com/curso-de-japones/katakana-basico/): pequeña guía que contiene y explica las reglas y pronunciaciones del *katakana*.
+- [Planas para *hiragana*](http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf): planas para aprender a escribir *hiragana* (lapiz y papel).
+- [Planas para katakana](http://japanese-lesson.com/resources/pdf/katakana_writing_practice_sheets.pdf): planas para aprender a escribir katakana (lapiz y papel).
 
-Una vez tenga los Kana aprendidos puede realizar un pequeño examen rápido en la página de [DJT Kana](https://djtguide.neocities.org/kana/index.html) y de esa forma ver en que necesita más repasos. No sea estricto, NO busque la perfección. Si se equivoca rara vez, puede seguir con el resto de la guía. De aquí en adelante los kana los irá reforzando a medida que lea.
+Una vez haya aprendido los kana, puede realizar una pequeño prueba en la página de [DJT Kana](https://djtguide.neocities.org/kana/index.html) y de esa forma ver en qué necesita más repasos. No sea estricto, *no* busque la perfección. Si se equivoca rara vez, puede seguir con el resto de la guía. De aquí en adelante los kana los irá reforzando a medida que lea.
 
 :::warning Advertencia
-Debe aprender los Kana antes de continuar con la guía. Evite el uso del romaji en el proceso, es decir, evite el alfabeto latino o romano y utilice a como de lugar los Kana.
+Debe aprender los kana antes de continuar con la guía. Evite el uso del *romaji* como un sustituto para ellos; es decir, evite transcripciones del japonés al alfabeto latino y utilice a como dé lugar los kana.
 :::
 
-## Kanji
+## *Kanji*
 
 ![kanji](../../assets/main_guide/kanji_first_learners.png)
-_<small>Imagen que contiene algunos kanjis básicos enseñados a los japoneses en su primer año</small>_
+<i><small>Algunos </i>kanji<i> básicos enseñados a los japoneses en su primer año de escuela</small></i>
 
-El último y tercer sistema de escritura que hay en el lenguaje Japonés es el kanji. Este es un sistema de escritura proveniente de china usado para expresar ideas o conceptos, y es quizás la barrera más grande para todo aprendiz debido a que hay una cantidad impresionante de ellos. En el sistema educativo japonés se enseñan 2136 kanjis pero en la vida diaria se utilizan alrededor de 3000 o más. Aun así, no se alarme o pierda la esperanza. Aunque parezca una locura esa cantidad, eventualmente entre más avance en el idioma, el mismo deja de suponer un reto. El motivo por el cual muchas personas fallan y desesperan es simplemente por la falta de un método eficiente para encararlos.
+El último y tercer sistema de escritura que hay en el lenguaje japonés es el *kanji*. Este es un sistema de escritura logográfico proveniente de China, que utiliza [logogramas](https://es.wikipedia.org/wiki/Logograma) (representaciones gráficas abstractas) para expresar ideas, conceptos, palabras, etc. Es quizás la barrera más grande para todo aprendiz debido a que hay una cantidad impresionante de ellos. En el sistema educativo japonés se enseñan 2136 *kanji*, pero en la vida diaria se utilizan alrededor de 3000 o más. Aun así, no se alarme ni pierda la esperanza. Aunque parezca una locura esa cantidad, eventualmente, entre más avance en el idioma y aprenda más palabras, dejan de suponer un reto. El motivo por el cual muchas personas fallan y desesperan es simplemente por la falta de un método eficiente para encararlos.
 
 ![kanji](../../assets/main_guide/example_kana_kanji.png)
-_<small>Imagen donde los tres sistemas de escritura son utilizados en un manga (本好きの下苦情)</small>_
+<i><small>Los tres sistemas de escritura siendo usados en un manga </i>(本好きの下苦情)<i></small></i>
 
-### ¿Cómo puedo aprender Kanji?
-He escuchado esta pregunta muchas veces y muchas veces he escuchado la frase "Estoy aprendiendo kanji". Pero eso no tiene sentido en el mayor de los casos. Sean totalmente nuevos en esto o no, antes de abarcar métodos y más información sobre el kanji, hay que aprender la diferencia entre **vocabulario y kanji**. El tema siguiente es bastante extenso que merece su propia sección.
+### ¿Cómo aprender *kanji*?
+Esta es una pregunta muy frecuente, así como la oración «estoy aprendiendo kanji», pero niguna de las dos tiene sentido ni en el mejor de los casos. Sean totalmente nuevos en esto o no, antes de abarcar métodos y más información sobre el *kanji*, hay que aprender la diferencia entre *vocabulario* y *kanji*. Este tema es lo suficientemente extenso como para merecer su propia sección.
