@@ -27,8 +27,8 @@ La mayoría de recursos disponibles en esta página están en inglés. Con todo 
 - [Cure Dolly](https://www.youtube.com/channel/UCkdmU8hGK4Fg3LghTVtKltQ) - Canal de Youtube que se encarga de explicar el Japonés de la forma más orgánica posible. La mejor guía que existe a día de hoy. En inglés.
 - [Tae Kim](https://itazuraneko.neocities.org/grammar/taekim.html) - Guía muy popular, muy simple, algo vaga, pero aceptable para empezar a agarrar las bases.
 ### Vocabulario
-- [Tango N5 por TheMoeWay](https://drive.google.com/file/d/1pMlJvSrKQOSaiN8sPLdNDvWP31EClxDO/view?usp=sharing) -  Primer deck opcional altamente recomendado para principiantes.
-- [Tango N4 por TheMoeWay](https://drive.google.com/file/d/1WX9AAKJgiTKN-SySPzuGG8T4nXVhWaSi/view?usp=sharing) - Segundo deck opcional altamente recomendado para principiantes.
+- [Tango N5 por TheMoeWay (inglés)](https://drive.google.com/file/d/1pMlJvSrKQOSaiN8sPLdNDvWP31EClxDO/view?usp=sharing) / [ [Versión en español](https://drive.google.com/file/d/1uA6ovkBtBnVbWnvvFtFtznZSqbt1Hbau/view?usp=sharing) ] -  Primer deck opcional altamente recomendado para principiantes.
+- [Tango N4 por TheMoeWay (inglés)](https://drive.google.com/file/d/1WX9AAKJgiTKN-SySPzuGG8T4nXVhWaSi/view?usp=sharing) - Segundo deck opcional altamente recomendado para principiantes.
 
 :::tip Consejo
 Para aprender vocabulario el camino que recomendamos aquí es hacer los Tango N5 y N4 para posterior, aprender vocabulario a través de la inmersión que realize. Consulte **[Inmersión](../principal-guide/Immersion.md)** y **[Anki](../various-guide/Anki.md)** para más información.
