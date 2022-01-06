@@ -21,17 +21,17 @@ const config = {
   projectName: 'Natsume-197.github.io', // Usually your repo name.
   deploymentBranch: 'preview',
   plugins: [
-
+   
   ],
+  scripts: [{
+    src: './src/js/analytics.js',
+    async: true,
+  }],
   presets: [
     [
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        googleAnalytics: {
-          trackingID: 'UA-141789564-1',
-          anonymizeIP: true,
-        },
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
@@ -47,6 +47,9 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        googleAnalytics: {
+          trackingID: 'UA-216507270-1',
+        },
       }),
     ],
   ],
@@ -56,18 +59,18 @@ const config = {
     ({
       algolia: {
         // If Algolia did not provide you any appId, use 'BH4D9OD16A'
-        appId: 'YOUR_APP_ID',
+        appId: '0T5B44QTIC',
   
         // Public API key: it is safe to commit it
-        apiKey: 'YOUR_SEARCH_API_KEY',
+        apiKey: 'be24869760df2d72cea750cde8d163eb',
   
-        indexName: 'YOUR_INDEX_NAME',
+        indexName: 'dev_brigadasos',
   
         // Optional: see doc section below
         contextualSearch: true,
   
         // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
-        externalUrlRegex: 'external\\.com|domain\\.com',
+        externalUrlRegex: 'external\\.com|domain\\.xyz',
   
         // Optional: Algolia search parameters
         searchParameters: {},

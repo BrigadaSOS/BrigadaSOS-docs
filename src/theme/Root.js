@@ -1,4 +1,5 @@
 import React from 'react';
+import BrowserOnly from '@docusaurus/BrowserOnly';
 
 // Default implementation, that you can customize
 function Root({children}) {
