@@ -9,7 +9,7 @@ Bienvenidos a la sección de recursos de la Brigada SOS. Esta sección está div
 :::info INFORMACIÓN
 La mayoría de recursos disponibles en esta página están en inglés. Con todo ello se entiende que el inglés pueda suponer una barrera, pero de ser así considere usar un traductor de calidad como **[DeepL](https://www.deepl.com/es/translator)** para seguir avanzando con contenido de calidad y en el mayor de los casos, únicamente disponibles en inglés.
 :::
-**Fecha de última actualización:** 29/12/2021
+**Fecha de última actualización:** 11/01/2022
 --- 
 ## Aprendizaje
 ### Kana
@@ -64,7 +64,9 @@ Para aprender vocabulario el camino que recomendamos aquí es hacer los Tango N5
 - [Viki](https://www.viki.com/) - Sitio para ver J-Drama, muchos de estos con subtítulos al japonés pero aún así, algo limitado en contenido.
 
 ### Subtítulos
+- [Bangumi](https://bangumi.moe/) - Página que recolecta de múltiples fuentes subtulos en Japonés (que incluyen chino) para anime.
 - [D-Addicts](https://www.d-addicts.com/forums/viewforum.php?f=55) - Foro que contiene subtítulos de J-Dramas y algunas otras series y peliculas asiáticas. Requiere registro.
+- [Kamigami](https://subs.kamigami.org/) - Subtítulos proporcionados por la comunidad china. Usar esta página como **última opción**, esto debido a que la reputación que tienen estos subs no es la mejor debido a lo imprecisa que son algunas veces. Pero funciona.
 - [Itazuraneko](https://itazuraneko.neocities.org/library/sub.html) - Colección de subtítulos para muchos animes, desactualizado pero funcional para muchos animes ya algo antiguos.
 - [Jp-Subbers](http://jpsubbers.xyz/Japanese-Subtitles/%40Mains/) - Página que publica subtítulos para J-Dramas y películas asiaticas de forma periodica. 
 - [Kitsunekko](http://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - La mejor página para encontrar subtitulos para anime, si aquí no está, lo más probable es que no estén en ningún otro lado.
