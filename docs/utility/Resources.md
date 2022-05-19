@@ -7,28 +7,28 @@ slug: /utilidad/recursos
 Bienvenidos a la sección de recursos de la Brigada SOS. Esta sección está dividida en cuatro categorías para facilitar su busqueda: Aprendizaje, Inmersión, Herramientas y Misceláneo.
 
 :::info INFORMACIÓN
-La mayoría de recursos disponibles en esta página están en inglés. Con todo ello se entiende que el inglés pueda suponer una barrera, pero de ser así considere usar un traductor de calidad como **[DeepL](https://www.deepl.com/es/translator)** para seguir avanzando con contenido de calidad y en el mayor de los casos, únicamente disponibles en inglés.
+La mayoría de recursos disponibles en esta página están en inglés. Con todo ello se entiende que el inglés pueda suponer una barrera, pero de ser así considere usar un traductor de calidad como **[DeepL](https://www.deepl.com/es/translator)** para seguir avanzando con contenido de calidad.
 :::
 **Fecha de última actualización:** 11/01/2022
 --- 
 ## Aprendizaje
 ### Kana
-- [Guía corta para aprender Hiragana](http://www.aprenderjapones.com/curso-de-japones/hiragana-basico/) - Pequeña guía que contiene y explica las reglas y pronunciaciones del Hiragana.
-- [Guía corta para aprender Katakana](http://www.aprenderjapones.com/curso-de-japones/katakana-basico/) - Pequeña guía que contiene y explica las reglas y pronunciaciones del Katakana.
-- [DJTKana](https://djtguide.neocities.org/kana/index.html) - Página web para aprender los Kana a través de la repetición de los mismos.
-- [Deck Kana](https://ankiweb.net/shared/info/66384999) - Deck para Anki que contiene los Kana y su pronunciación.
-- [Worksheet Hiragana](http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf) - Hoja de trabajo para Hiragana (lapiz y papel).
-- [Worksheet Katakana](http://japanese-lesson.com/resources/pdf/katakana_writing_practice_sheets.pdf) - Hoja de trabajo para Katakana (lapiz y papel).
-- [KanaTown](https://play.google.com/store/apps/details?id=fr.koridev.kanatown) - Aplicación de Android para aprender los Kana haciendo uso de un SRS.
+- [Mazo de kana](https://ankiweb.net/shared/info/66384999) - Mazo para anki que contiene los Kana y su pronunciación.
+- [DJTKana](https://djtguide.neocities.org/kana/index.html) - Página web para aprender los kana a través de la repetición de los mismos.
+- [Guía corta para aprender hiragana](http://www.aprenderjapones.com/curso-de-japones/hiragana-basico/) - Pequeña guía que contiene y explica las reglas y pronunciaciones del hiragana.
+- [Guía corta para aprender katakana](http://www.aprenderjapones.com/curso-de-japones/katakana-basico/) - Pequeña guía que contiene y explica las reglas y pronunciaciones del katakana.
+- [Hoja de hiragana](http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf) - Plana para hiragana (lápiz y papel).
+- [Hoja de katakana](http://japanese-lesson.com/resources/pdf/katakana_writing_practice_sheets.pdf) - Plana para katakana (lápiz y papel).
+- [KanaTown](https://play.google.com/store/apps/details?id=fr.koridev.kanatown) - Aplicación de Android para aprender los kana haciendo uso de un SRS.
 ### Kanji
-- [Deck Recognition RTK](https://ankiweb.net/shared/info/806367119) - Deck que mejora el reconocimiento y memorizaje de los kanjis en general. Necesario **únicamente** para aquellos que les cuesta demasiado memorizar kanjis.
-- [Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=es_CO&gl=US) - Aplicación de Android para buscar kanjis, orden de trazos y ejemplos.
+- [Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=es_CO&gl=US) - Aplicación de Android para buscar kanjis, órdenes de trazos y ejemplos.
+- [Mazo Recognition RTK](https://ankiweb.net/shared/info/806367119) - Mazo que mejora el reconocimiento y memorizaje de los kanjis en general. Necesario **únicamente** para aquellos que les cuesta demasiado memorizar kanjis.
 ### Gramática
-- [Cure Dolly](https://www.youtube.com/channel/UCkdmU8hGK4Fg3LghTVtKltQ) - Canal de Youtube que se encarga de explicar el Japonés de la forma más orgánica posible. La mejor guía que existe a día de hoy. En inglés.
-- [Tae Kim](https://itazuraneko.neocities.org/grammar/taekim.html) - Guía muy popular, muy simple, algo vaga, pero aceptable para empezar a agarrar las bases.
+- [Cure Dolly](https://www.youtube.com/channel/UCkdmU8hGK4Fg3LghTVtKltQ) - Canal de YouTube que se encarga de explicar el japonés de la forma más orgánica (sencilla y sensata) posible. La mejor guía que existe a día de hoy. En inglés.
+- [Guía de Tae Kim](https://itazuraneko.neocities.org/grammar/taekim.html) - Guía muy popular, algo sobresimplifcada, pero aceptable para empezar a agarrar las bases del japonés. También disponible en [español](https://www.guidetojapanese.org/spanish/).
 ### Vocabulario
-- [Tango N5 por TheMoeWay (inglés)](https://drive.google.com/file/d/1pMlJvSrKQOSaiN8sPLdNDvWP31EClxDO/view?usp=sharing) / [ [Versión en español](https://drive.google.com/file/d/1uA6ovkBtBnVbWnvvFtFtznZSqbt1Hbau/view?usp=sharing) ] -  Primer deck opcional altamente recomendado para principiantes.
-- [Tango N4 por TheMoeWay (inglés)](https://drive.google.com/file/d/1WX9AAKJgiTKN-SySPzuGG8T4nXVhWaSi/view?usp=sharing) - Segundo deck opcional altamente recomendado para principiantes.
+- [Tango N5 por TheMoeWay (inglés)](https://drive.google.com/file/d/1pMlJvSrKQOSaiN8sPLdNDvWP31EClxDO/view?usp=sharing) / [ [Versión en español](https://drive.google.com/file/d/1uA6ovkBtBnVbWnvvFtFtznZSqbt1Hbau/view?usp=sharing) ] -  Primer mazo opcional altamente recomendado para principiantes.
+- [Tango N4 por TheMoeWay (inglés)](https://drive.google.com/file/d/1WX9AAKJgiTKN-SySPzuGG8T4nXVhWaSi/view?usp=sharing) - Segundo mazo opcional altamente recomendado para principiantes.
 
 :::tip Consejo
 Para aprender vocabulario el camino que recomendamos aquí es hacer los Tango N5 y N4 para posterior, aprender vocabulario a través de la inmersión que realize. Consulte **[Inmersión](../principal-guide/Immersion.md)** y **[Anki](../various-guide/Anki.md)** para más información.
