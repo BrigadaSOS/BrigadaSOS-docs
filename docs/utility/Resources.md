@@ -13,38 +13,38 @@ La mayoría de recursos disponibles en esta página están en inglés. Con todo 
 --- 
 ## Aprendizaje
 ### Kana
-- [Mazo de kana](https://ankiweb.net/shared/info/66384999) - Mazo para anki que contiene los Kana y su pronunciación.
 - [DJTKana](https://djtguide.neocities.org/kana/index.html) - Página web para aprender los kana a través de la repetición de los mismos.
 - [Guía corta para aprender hiragana](http://www.aprenderjapones.com/curso-de-japones/hiragana-basico/) - Pequeña guía que contiene y explica las reglas y pronunciaciones del hiragana.
 - [Guía corta para aprender katakana](http://www.aprenderjapones.com/curso-de-japones/katakana-basico/) - Pequeña guía que contiene y explica las reglas y pronunciaciones del katakana.
 - [Hoja de hiragana](http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf) - Plana para hiragana (lápiz y papel).
 - [Hoja de katakana](http://japanese-lesson.com/resources/pdf/katakana_writing_practice_sheets.pdf) - Plana para katakana (lápiz y papel).
 - [KanaTown](https://play.google.com/store/apps/details?id=fr.koridev.kanatown) - Aplicación de Android para aprender los kana haciendo uso de un SRS.
+- [Mazo de kana](https://ankiweb.net/shared/info/66384999) - Mazo para anki que contiene los Kana y su pronunciación.
 ### Kanji
 - [Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=es_CO&gl=US) - Aplicación de Android para buscar kanjis, órdenes de trazos y ejemplos.
-- [Mazo Recognition RTK](https://ankiweb.net/shared/info/806367119) - Mazo que mejora el reconocimiento y memorizaje de los kanjis en general. Necesario **únicamente** para aquellos que les cuesta demasiado memorizar kanjis.
+- [Mazo Recognition RTK](https://ankiweb.net/shared/info/806367119) - Mazo que proporciona mnemotecnias para los kanjis. Recomendado **únicamente** para aquellos que les cuesta demasiado memorizar kanjis.
 ### Gramática
 - [Cure Dolly](https://www.youtube.com/channel/UCkdmU8hGK4Fg3LghTVtKltQ) - Canal de YouTube que se encarga de explicar el japonés de la forma más orgánica (sencilla y sensata) posible. La mejor guía que existe a día de hoy. En inglés.
 - [Guía de Tae Kim](https://itazuraneko.neocities.org/grammar/taekim.html) - Guía muy popular, algo sobresimplifcada, pero aceptable para empezar a agarrar las bases del japonés. También disponible en [español](https://www.guidetojapanese.org/spanish/).
 ### Vocabulario
-- [Tango N5 por TheMoeWay (inglés)](https://drive.google.com/file/d/1pMlJvSrKQOSaiN8sPLdNDvWP31EClxDO/view?usp=sharing) / [ [Versión en español](https://drive.google.com/file/d/1uA6ovkBtBnVbWnvvFtFtznZSqbt1Hbau/view?usp=sharing) ] -  Primer mazo opcional altamente recomendado para principiantes.
-- [Tango N4 por TheMoeWay (inglés)](https://drive.google.com/file/d/1WX9AAKJgiTKN-SySPzuGG8T4nXVhWaSi/view?usp=sharing) - Segundo mazo opcional altamente recomendado para principiantes.
+- [Tango N4 por TheMoeWay (inglés)](https://drive.google.com/file/d/1WX9AAKJgiTKN-SySPzuGG8T4nXVhWaSi/view?usp=sharing) - Segundo mazo opcional de vocabulario, altamente recomendado para principiantes.
+- [Tango N5 por TheMoeWay (español)](https://drive.google.com/file/d/1uA6ovkBtBnVbWnvvFtFtznZSqbt1Hbau/view?usp=sharing) (o [versión en inglés](https://drive.google.com/file/d/1pMlJvSrKQOSaiN8sPLdNDvWP31EClxDO/view?usp=sharing)). - Primer mazo opcional de vocabulario, altamente recomendado para principiantes.
 
 :::tip Consejo
-Para aprender vocabulario el camino que recomendamos aquí es hacer los Tango N5 y N4 para posterior, aprender vocabulario a través de la inmersión que realize. Consulte **[Inmersión](../principal-guide/Immersion.md)** y **[Anki](../various-guide/Anki.md)** para más información.
+Para aprender vocabulario el camino que recomendamos aquí es hacer los Tango N5 y N4 para posteriormente aprender vocabulario a través de la inmersión que realice. Consulte **[Inmersión](../principal-guide/Immersion.md)** y **[Anki](../various-guide/Anki.md)** para más información.
 :::
 ### Diccionarios
-- [Jisho](https://jisho.org/) - Diccionario bilingue basado en el proyecto JMdict. Recomendado para principiantes.
-- [Sakura-Paris](https://sakura-paris.org/dict/) - Conjunto de multiples diccionarios tanto bilingues como monolingues en un sólo lugar. El mejor lugar donde buscar una definición online.
+- [Jisho](https://jisho.org/) - Diccionario bilingüe basado en el proyecto JMdict. Recomendado para principiantes.
+- [Sakura-Paris](https://sakura-paris.org/dict/) - Conjunto de varios diccionarios tanto bilingües como monolingües puestos en una página. El mejor lugar donde buscar una definición en línea.
 
 ### Guías externas
-- [TheMoeWay](https://learnjapanese.moe/) - Posiblemente la mejor guía en inglés que hay para aprender Japonés.
 - [Refold](https://refold.la/) - Sitio web que abarca de forma detallada cómo aprender cualquier lenguaje a través de la inmersión.
+- [TheMoeWay](https://learnjapanese.moe/) - Posiblemente la mejor guía en inglés que hay para aprender japonés.
 
 --- 
 ## Inmersión
 ### Anime
-- [Abema](https://abema.tv/) - Servicio de Streaming (requiere VPN) más popular en Japón. Podrá encontrar desde televisión, peliculas, anime, etc.
+- [Abema](https://abema.tv/) - Servicio de streaming (requiere VPN) más popular en Japón. Podrá encontrar desde televisión, peliculas, anime, etc.
 - [Amazon Video JP](https://www.amazon.co.jp/Prime-Video/b?ie=UTF8&node=3535604051) - Servicio de Streaming proporcionado por Amazon, similar a Netflix. **Amazon de occidente y Amazon de Japón son distintos, debe registrarse nuevamente.**
 - [AniDL](https://anidl.org/) - Sitio web para descargar anime RAW en HD. Sin torrents.
 - [AnimeKaizoku](https://animekaizoku.com/) - Sitio web similar a AniDL para descargar anime RAW en HD. Sin torrents.
