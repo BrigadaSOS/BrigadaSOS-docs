@@ -28,7 +28,7 @@ La mayoría de recursos disponibles en esta página están en inglés. Con todo 
 - [Guía de Tae Kim](https://itazuraneko.neocities.org/grammar/taekim.html) - Guía muy popular, algo sobresimplifcada, pero aceptable para empezar a agarrar las bases del japonés. También disponible en [español](https://www.guidetojapanese.org/spanish/).
 ### Vocabulario
 - [Tango N4 por TheMoeWay (inglés)](https://drive.google.com/file/d/1WX9AAKJgiTKN-SySPzuGG8T4nXVhWaSi/view?usp=sharing) - Segundo mazo opcional de vocabulario, altamente recomendado para principiantes.
-- [Tango N5 por TheMoeWay (español)](https://drive.google.com/file/d/1uA6ovkBtBnVbWnvvFtFtznZSqbt1Hbau/view?usp=sharing) (o [versión en inglés](https://drive.google.com/file/d/1pMlJvSrKQOSaiN8sPLdNDvWP31EClxDO/view?usp=sharing)). - Primer mazo opcional de vocabulario, altamente recomendado para principiantes.
+- [Tango N5 por TheMoeWay (español)](https://drive.google.com/file/d/1uA6ovkBtBnVbWnvvFtFtznZSqbt1Hbau/view?usp=sharing) (o [versión en inglés](https://drive.google.com/file/d/1pMlJvSrKQOSaiN8sPLdNDvWP31EClxDO/view?usp=sharing)) - Primer mazo opcional de vocabulario, altamente recomendado para principiantes.
 
 :::tip Consejo
 Para aprender vocabulario el camino que recomendamos aquí es hacer los Tango N5 y N4 para posteriormente aprender vocabulario a través de la inmersión que realice. Consulte **[Inmersión](../principal-guide/Immersion.md)** y **[Anki](../various-guide/Anki.md)** para más información.
