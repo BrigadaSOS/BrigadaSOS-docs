@@ -49,7 +49,7 @@ Para aprender vocabulario el camino que recomendamos aquí es hacer los Tango N5
 - [AniDL](https://anidl.org/) - Sitio web para descargar anime raw en HD. Sin torrents.
 - [AnimeKaizoku](https://animekaizoku.com/) - Sitio web similar a AniDL para descargar anime raw en HD. Sin torrents.
 - [AnimeRaw](https://animeraw.org/) - Sitio con una interfaz obsoleta pero contiene anime raw tanto viejo como reciente.
-- [B9Good](http://b9dm.com/) - Sitio para ver anime a través de __ en formato raw, página utilizada mucho por japoneses.
+- [B9Good](http://b9dm.com/) - Sitio para ver anime a través de _streaming_ en formato raw, página utilizada mucho por japoneses.
 - [Itazuraneko](https://itazuraneko.neocities.org/library/satuei/anime.html) - Colección de anime raw para descargar de forma directa.
 - [Netflix](https://www.netflix.com/) - Hay contenido japonés disponible en Netflix pero si cuenta con un VPN japonés tendrá acesso a una cantidad impresionante de contenido exclusivo de Japón.
 - [Nyaa.si](https://nyaa.si/) - Sitio por excelencia para obtener torrents, en este caso, de anime raw.
