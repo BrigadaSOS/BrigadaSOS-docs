@@ -7,7 +7,7 @@ slug: /guia-principal/introduccion
 
 ## ¡Bienvenido a la guía SOS de la Brigada! 
 
-:::info Antes de empezar
+:::info Información
 
 La guía en este sitio no sigue un formato tradicional: no espere ver recomendaciones de libros como el *Minna no nihongo* o derivados, ni sesiones asincrónicas para aprender el idioma. Todo lo que aprenderá aquí y fuera de aquí será por su cuenta, sin necesidad de tomar clases. Aquí se enseña a aprender japonés.
 
@@ -32,7 +32,7 @@ La forma en la que aprenderá el lenguaje será consumiéndolo. Contrario a la c
 
 Según [Stephen Krashen](https://www.youtube.com/watch?v=NiTsduRreug), existen dos formas de aprender un lenguaje: *aprendizaje* y *adquisición*. El **aprendizaje** hace referencia al proceso de estudiar un lenguaje de manera formal. Que es, en otras palabras, conocer más del lenguaje: aprender vocabulario o gramática. Por otro lado, la **adquisición** hace referencia al proceso, muchas veces inconsciente, intuitivo y natural donde entendemos el mensaje como un bebé lo haría: mientras observa a sus padres, a su alrededor y al mundo. Este es un proceso que todos hemos hecho y podemos seguir realizando porque esa habilidad no desaparece cuando se llega a la edad adulta. 
 
-:::caution Tenga en cuenta
+:::note Nota
 Si bien esta guía está enfocada en la inmersión, el aprendizaje no es inútil. Krashen, al igual que nosotros, defiende que la adquisición es el único método efectivo que le permitirá construir y alcanzar una base solida en el lenguaje y el único método que le permitirá disfrutar de cualquier contenido nativo hecho por japoneses. Sin embargo, puede aprender un lenguaje más rápido que un niño si hace uso de una mente analítica que priorize la adquisición, y del aprendizaje sin llegar al extremo con este.
 :::
 
@@ -61,6 +61,4 @@ Sea constante y tenga disciplina: perseverancia. El japonés es un lenguaje muy 
 
 ---
 
-Hasta aquí llega la introducción: todo lo importante que debe saber antes de comenzar. De nuevo, ¡no olvide divertirse!, que esto es y será un largo camino. 
-
-ようこそ！
+Hasta aquí llega la introducción: todo lo importante que debe saber antes de comenzar está aquí. De nuevo, ¡no olvide divertirse!, que esto es y será un largo camino. 

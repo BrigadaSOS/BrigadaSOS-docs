@@ -42,12 +42,7 @@ const config = {
           // Please change this to your repo.
           editUrl: 'https://github.com/Natsume-197/Natsume-197.github.io/tree/main/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:  
-            'https://github.com/Natsume-197/Natsume-197.github.io/blob/main/',
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -82,18 +77,7 @@ const config = {
         defaultMode: 'dark',
         disableSwitch: false,
         respectPrefersColorScheme: false,
-        switchConfig: {
-          darkIcon: '🌙',
-          darkIconStyle: {
-            marginLeft: '2px',
-        },
-         // Unicode icons such as '\u2600' will work
-        // Unicode with 5 chars require brackets: '\u{1F602}'
-        lightIcon: '☀',
-        lightIconStyle: {
-          marginLeft: '1px',
-        },
-      },
+
     },
       tableOfContents:{
         maxHeadingLevel: 5,
@@ -101,7 +85,7 @@ const config = {
       navbar: {
         title: 'Brigada SOS Japonés',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Brigada SOS logo',
           src: 'img/favicon.ico',
         },
         items: [
@@ -109,11 +93,10 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Contenido',
+            label: 'Documentación',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://discord.gg/T7BjQpv9vy',
+            href: 'https://discord.gg/ajWm26ADEj',
             label: 'Discord',
             position: 'right',
           },

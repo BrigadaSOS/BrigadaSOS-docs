@@ -37,4 +37,4 @@ El último y tercer sistema de escritura que hay en el lenguaje japonés es el *
 <small><i>Los tres sistemas de escritura siendo usados en un manga </i>(本好きの下苦情)</small>
 
 ### ¿Cómo aprender *kanji*?
-Esta es una pregunta muy frecuente, así como la oración «estoy aprendiendo kanji», pero niguna de las dos tiene sentido ni en el mejor de los casos. Sean totalmente nuevos en esto o no, antes de abarcar métodos y más información sobre el *kanji*, hay que aprender la diferencia entre *vocabulario* y *kanji*. Este tema es lo suficientemente extenso como para merecer su propia sección.
+Esta es una pregunta muy frecuente, así como la oración «estoy aprendiendo kanji», pero ninguna de las dos tiene sentido ni en el mejor de los casos. Sean totalmente nuevos en esto o no, antes de abarcar métodos y más información sobre el *kanji*, hay que aprender la diferencia entre *vocabulario* y *kanji*. Este tema es lo suficientemente extenso como para merecer su propia sección.

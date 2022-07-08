@@ -35,13 +35,13 @@ Mazos Tango para Anki:
 - [Tango N5](https://drive.google.com/file/d/1pMlJvSrKQOSaiN8sPLdNDvWP31EClxDO/view).
 - [Tango N4](https://drive.google.com/file/d/1WX9AAKJgiTKN-SySPzuGG8T4nXVhWaSi/view).
 
-:::caution Advertencia
-Solo debería utilizar un mazo a la vez. Usar el N5 y el N4 al mismo tiempo podría ser demasiado trabajo.
+:::caution Precaución
+Se recomiendo el uso de un mazo a la vez. Utilizar ambos al tiempo es altamente contraproducente en etapas tempranas al no estar familiarizado aún con los kanjis.
 :::
 
 --- 
 
-## *Kanji*
+## Kanji
 
 ### ¿Cómo afrontar el *kanji*?
 
@@ -104,5 +104,5 @@ Entre ambos métodos queda en usted cuál le conviene más o si prefiere mezclar
 
 **No desista ni menosprecie su memoria sin antes empezar; pruebe el primer método antes de probar el segundo.**
 
-### *Kun-yomi* y *on-yomi*
+### Kun-yomi y on-yomi
 Por último, es importante saber que, debido al hecho de que los *kanji* vinieron de China, cuando estos llegaron a Japón, retuvieron su pronunciación extranjera, pero también se les asoció la palabra japonesa con la pronunciación japonesa. Es por esto que cada *kanji* (la mayoría, por lo menos) cuenta con dos pronunciaciones: el _on-yomi_ *(音読み)*, que es la pronunciación originaria de China y que es utilizada usualmente en palabras compuestas, constituidas solamente de *kanji*; y el _kum-yomi_ *(訓読み)*, que es la pronunciación japonesa, que es utilizada cuando el *kanji* está por sí solo o acompañado de *hiragana*, o cuando esto último sucede también en una palabra compuesta. _Memorizar_ las lecturas, como se ha dicho antes, no es muy buena idea, pero es bueno saber que existen varias para entender por qué un kanji puede leerse de diferente manera dependiendo de dónde se encuentre; esto también lo ayudará a deducir lecturas de palabras que no conoce. Ambas lecturas puede consultarlas en un diccionario.

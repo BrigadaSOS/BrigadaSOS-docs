@@ -7,15 +7,13 @@ slug: /utilidad/recursos
 Bienvenidos a la sección de recursos de la Brigada SOS. Esta sección está dividida en cuatro categorías para facilitar su busqueda: Aprendizaje, Inmersión, Herramientas y Misceláneo.
 
 :::info INFORMACIÓN
-La mayoría de recursos disponibles en esta página están en inglés. Con todo ello se entiende que el inglés pueda suponer una barrera, pero de ser así considere usar un traductor de calidad como **[DeepL](https://www.deepl.com/es/translator)** para seguir avanzando con contenido de calidad.
+La mayoría de recursos disponibles en esta página están en inglés. Con todo ello se entiende que varios recursos pueda suponer una barrera, de ser así considere usar un traductor de calidad como **[DeepL](https://www.deepl.com/es/translator)** para seguir avanzando con contenido de calidad y/o únicamente disponible en inglés.
 :::
-**Fecha de última actualización:** 11/01/2022
+**Fecha de última actualización:** 09/07/2022
 --- 
 ## Aprendizaje
 ### Kana
 - [DJTKana](https://djtguide.neocities.org/kana/index.html) - Página web para aprender los kana a través de la repetición de los mismos.
-- [Guía corta para aprender hiragana](http://www.aprenderjapones.com/curso-de-japones/hiragana-basico/) - Pequeña guía que contiene y explica las reglas y pronunciaciones del hiragana.
-- [Guía corta para aprender katakana](http://www.aprenderjapones.com/curso-de-japones/katakana-basico/) - Pequeña guía que contiene y explica las reglas y pronunciaciones del katakana.
 - [Hoja de hiragana](http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf) - Plana para hiragana (lápiz y papel).
 - [Hoja de katakana](http://japanese-lesson.com/resources/pdf/katakana_writing_practice_sheets.pdf) - Plana para katakana (lápiz y papel).
 - [KanaTown](https://play.google.com/store/apps/details?id=fr.koridev.kanatown) - Aplicación de Android para aprender los kana haciendo uso de un SRS.
@@ -28,7 +26,7 @@ La mayoría de recursos disponibles en esta página están en inglés. Con todo 
 - [Guía de Tae Kim](https://itazuraneko.neocities.org/grammar/taekim.html) - Guía muy popular, algo sobresimplifcada, pero aceptable para empezar a agarrar las bases del japonés. También disponible en [español](https://www.guidetojapanese.org/spanish/).
 ### Vocabulario
 - [Tango N4 por TheMoeWay (inglés)](https://drive.google.com/file/d/1WX9AAKJgiTKN-SySPzuGG8T4nXVhWaSi/view?usp=sharing) - Segundo mazo opcional de vocabulario, altamente recomendado para principiantes.
-- [Tango N5 por TheMoeWay (español)](https://drive.google.com/file/d/1uA6ovkBtBnVbWnvvFtFtznZSqbt1Hbau/view?usp=sharing) (o [versión en inglés](https://drive.google.com/file/d/1pMlJvSrKQOSaiN8sPLdNDvWP31EClxDO/view?usp=sharing)) - Primer mazo opcional de vocabulario, altamente recomendado para principiantes.
+- [Tango N5 por TheMoeWay (español)](https://drive.google.com/file/d/1uA6ovkBtBnVbWnvvFtFtznZSqbt1Hbau/view?usp=sharing) ([versión en inglés](https://drive.google.com/file/d/1pMlJvSrKQOSaiN8sPLdNDvWP31EClxDO/view?usp=sharing)) - Primer mazo opcional de vocabulario, altamente recomendado para principiantes.
 
 :::tip Consejo
 Para aprender vocabulario el camino que recomendamos aquí es hacer los Tango N5 y N4 para posteriormente aprender vocabulario a través de la inmersión que realice. Consulte **[Inmersión](../principal-guide/Immersion.md)** y **[Anki](../various-guide/Anki.md)** para más información.
@@ -48,7 +46,6 @@ Para aprender vocabulario el camino que recomendamos aquí es hacer los Tango N5
 - [Amazon Video JP](https://www.amazon.co.jp/Prime-Video/b?ie=UTF8&node=3535604051) - Servicio de _streaming_ de Amazon, similar a Netflix. **Amazon de occidente y Amazon de Japón son distintos, debe registrarse nuevamente.**
 - [AniDL](https://anidl.org/) - Sitio web para descargar anime raw en HD. Sin torrents.
 - [AnimeKaizoku](https://animekaizoku.com/) - Sitio web similar a AniDL para descargar anime raw en HD. Sin torrents.
-- [AnimeRaw](https://animeraw.org/) - Sitio con una interfaz obsoleta pero contiene anime raw tanto viejo como reciente.
 - [B9Good](http://b9dm.com/) - Sitio para ver anime a través de _streaming_ en formato raw, página utilizada mucho por japoneses.
 - [Itazuraneko](https://itazuraneko.neocities.org/library/satuei/anime.html) - Colección de anime raw para descargar de forma directa.
 - [Netflix](https://www.netflix.com/) - Hay contenido japonés disponible en Netflix pero si cuenta con un VPN japonés tendrá acesso a una cantidad impresionante de contenido exclusivo de Japón.
@@ -79,7 +76,6 @@ Las páginas siguientes cuentan, en varios casos, con publicidad excesiva. Consi
 :::
 - [Dl-Raw](https://dl-raw.net/) - Una de las mejores páginas para descargar manga en japonés tanto viejo como reciente. Interfaz en japonés.
 - [Itazuraneko](https://itazuraneko.neocities.org/library/manga.html) - Colección de manga raw para descargar de forma directa.
-- [Manga Zip](http://manga-zip.net/) - Sitio para descargar manga raw que es actualizado con frecuencia.
 - [Mangaraw](https://mangaraw.org/) - Pagína para ver manga en japonés sin necesidad de descargarlo. Una de las mejores.
 - [Nyaa](https://nyaa.si/?f=0&c=3_3&q=) - Sitio por excelencia para obtener torrents, en este caso, de manga raw.
 
@@ -102,13 +98,10 @@ Las páginas siguientes cuentan, en varios casos, con publicidad excesiva. Consi
 - [EasyJapanese](https://easyjapanese.net/) - Noticias sencillas para principiantes, mayormente de actualidad japonesa. 
 - [NHK News](https://www3.nhk.or.jp/news/) - Sitio de noticias formal donde la mayoría de noticias son relativamente cortas.
 
+### Varios
+- [Canales de Youtube #1](https://docs.google.com/document/d/15yXdp0G87KaQz2zNmbruyMTBiJko-FbG7gM83ub2qVQ/) - Pequeña lista de canales seleccionados de Youtube, todo en japonés y dividido por categorías.
+
 ## JLPT
-:::note Nota
-¿Es cierto que el JLPT es un examen que no mide la verdadera habilidad de alguien en el lenguaje? Sí. <br/>
-Pero también sabemos que hay personas que necesitan el JLPT para conseguir alguna beca, algún trabajo, o por cualquier otra razón. Esta sección es para ustedes.
-:::
+
 
 ---
-## Herramientas
-
-### Complementos para Anki
