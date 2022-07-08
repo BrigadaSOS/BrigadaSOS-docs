@@ -3,6 +3,15 @@ sidebar_position: 1
 slug: /utilidad/recursos
 ---
 
+export const Highlight = ({children, color}) => (
+  <a
+    style={{
+      color: color,
+    }}>
+    {children}
+  </a>
+);
+
 # Recursos
 Bienvenidos a la sección de recursos de la Brigada SOS. Esta sección está dividida en cuatro categorías para facilitar su busqueda: Aprendizaje, Inmersión, Herramientas y Misceláneo.
 
@@ -13,7 +22,8 @@ La mayoría de recursos disponibles en esta página están en inglés. Con todo 
 --- 
 ## Aprendizaje
 ### Kana
-- [DJTKana](https://djtguide.neocities.org/kana/index.html) - Página web para aprender los kana a través de la repetición de los mismos.
+
+- [DJTKana](https://djtguide.neocities.org/kana/index.html) - Página web para aprender los kana a través de la repetición de los mismos. 
 - [Hoja de hiragana](http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf) - Plana para hiragana (lápiz y papel).
 - [Hoja de katakana](http://japanese-lesson.com/resources/pdf/katakana_writing_practice_sheets.pdf) - Plana para katakana (lápiz y papel).
 - [KanaTown](https://play.google.com/store/apps/details?id=fr.koridev.kanatown) - Aplicación de Android para aprender los kana haciendo uso de un SRS.
@@ -21,23 +31,37 @@ La mayoría de recursos disponibles en esta página están en inglés. Con todo 
 ### Kanji
 - [Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=es_CO&gl=US) - Aplicación de Android para buscar kanjis, órdenes de trazos y ejemplos.
 - [Mazo Recognition RTK](https://ankiweb.net/shared/info/806367119) - Mazo que proporciona mnemotecnias para los kanjis. Recomendado **únicamente** para aquellos que les cuesta demasiado memorizar kanjis.
+- [Koohii](https://kanji.koohii.com/) - Página que asiste en el aprendizaje de kanji a través de mnemotecnias.
+
 ### Gramática
 - [Cure Dolly](https://www.youtube.com/channel/UCkdmU8hGK4Fg3LghTVtKltQ) - Canal de YouTube que se encarga de explicar el japonés de la forma más orgánica (sencilla y sensata) posible. La mejor guía que existe a día de hoy. En inglés.
 - [Guía de Tae Kim](https://itazuraneko.neocities.org/grammar/taekim.html) - Guía muy popular, algo sobresimplifcada, pero aceptable para empezar a agarrar las bases del japonés. También disponible en [español](https://www.guidetojapanese.org/spanish/).
+- [Sakubi](https://sakubi.neocities.org/) - Guía de gramática que introduce todos los conceptos más importantes para empezar a hacer inmersión.
+
 ### Vocabulario
 - [Tango N4 por TheMoeWay (inglés)](https://drive.google.com/file/d/1WX9AAKJgiTKN-SySPzuGG8T4nXVhWaSi/view?usp=sharing) - Segundo mazo opcional de vocabulario, altamente recomendado para principiantes.
 - [Tango N5 por TheMoeWay (español)](https://drive.google.com/file/d/1uA6ovkBtBnVbWnvvFtFtznZSqbt1Hbau/view?usp=sharing) ([versión en inglés](https://drive.google.com/file/d/1pMlJvSrKQOSaiN8sPLdNDvWP31EClxDO/view?usp=sharing)) - Primer mazo opcional de vocabulario, altamente recomendado para principiantes.
+- [Massif](https://massif.la/ja) - Página para buscar ejemplos de palabras en oraciones usadas en novelas e historias japonesas del sitio [小説家になろう](https://syosetu.com/).
+- [ImmersionKit](https://www.immersionkit.com/) - Sitio que permite la busqueda de oraciones en base a una palabra, mayormente de anime.
 
 :::tip Consejo
 Para aprender vocabulario el camino que recomendamos aquí es hacer los Tango N5 y N4 para posteriormente aprender vocabulario a través de la inmersión que realice. Consulte **[Inmersión](../principal-guide/Immersion.md)** y **[Anki](../various-guide/Anki.md)** para más información.
 :::
+
+### Pitch Accent
+- [Curso de fonética de Dogen](https://nyaa.si/view/1497535) - Un curso de pronunciación y fonética japonesa del youtuber Dogen.
+
 ### Diccionarios
 - [Jisho](https://jisho.org/) - Diccionario bilingüe basado en el proyecto JMdict. Recomendado para principiantes.
 - [Sakura-Paris](https://sakura-paris.org/dict/) - Conjunto de varios diccionarios tanto bilingües como monolingües puestos en una página. El mejor lugar donde buscar una definición en línea.
+- [JED](https://play.google.com/store/apps/details?id=com.umibouzu.jed) - Diccionario japonés-español para Android.
+- [Kotobank](https://kotobank.jp/) - Página que alberga una enorme colección de diccionarios y enciclopedias, para consultar términos y palabras.
+- [Weblio](https://www.weblio.jp/) - Página japonesa con una gran colección de diccionarios monolingües y bilingües, enciclopedias y un tesauro, para consultar palabras.
 
 ### Guías externas
 - [Refold](https://refold.la/) - Sitio web que abarca de forma detallada cómo aprender cualquier lenguaje a través de la inmersión.
 - [TheMoeWay](https://learnjapanese.moe/) - Posiblemente la mejor guía en inglés que hay para aprender japonés.
+- [Tatsumoto](https://tatsumoto.neocities.org/) - Página con recursos y guías para aprender japonés usando el sistema operativo Linux.
 
 --- 
 ## Inmersión
@@ -56,6 +80,7 @@ Para aprender vocabulario el camino que recomendamos aquí es hacer los Tango N5
 - [Amazon Video JP](https://www.amazon.co.jp/Prime-Video/b?ie=UTF8&node=3535604051) - Servicio de _streaming_ proporcionado por Amazon, similar a Netflix. **Amazon de occidente y Amazon de Japón son distintos, debe registrarse nuevamente.**
 - [Bagikuy](https://bagikuy.com/) - Sitio donde encontrar J-drama de forma gratuita.
 - [Carpeta J-Drama Bagikuy](https://drive.google.com/drive/folders/0B4SicD-zZ_Z1SWtNWjlfMmJtRFE?resourcekey=0-Mb-d6oqmNscdL_zO16m4Uw) - J-dramas proporcionados por Bagikuy pero que no se encuentran en la página principal. (Contraseña para extraer los archivos: `bagikuy`).
+- [J-Raws](https://jraws.com/) - Página para descargar dramas y películas japonesas.
 - [Netflix](https://www.netflix.com/) - Hay contenido japonés disponible en Netflix, pero si cuenta con un VPN Japonés tendrá acesso a una cantidad impresionante de contenido exclusivo de Japón.
 - [Nyaa.si](https://nyaa.si/) - Sitio por excelencia para obtener torrents, en este caso, de dramas y peliculas japonesas.
 - [Viki](https://www.viki.com/) - Sitio para ver J-Drama, muchos de estos con subtítulos al japonés pero aún así, algo limitado en contenido.
@@ -74,6 +99,7 @@ Para aprender vocabulario el camino que recomendamos aquí es hacer los Tango N5
 :::tip consejo
 Las páginas siguientes cuentan, en varios casos, con publicidad excesiva. Considere utilizar algún servicio para bloquear anuncios. Nosotros reconmendamos utilizar [uBlock Origin](https://ublockorigin.com/es).
 :::
+- [Bilingual Manga](https://bilingualmanga.net/manga-genre/jp-raw/) - Manga raw y traducida al inglés.
 - [Dl-Raw](https://dl-raw.net/) - Una de las mejores páginas para descargar manga en japonés tanto viejo como reciente. Interfaz en japonés.
 - [Itazuraneko](https://itazuraneko.neocities.org/library/manga.html) - Colección de manga raw para descargar de forma directa.
 - [Mangaraw](https://mangaraw.org/) - Pagína para ver manga en japonés sin necesidad de descargarlo. Una de las mejores.
@@ -85,6 +111,7 @@ Las páginas siguientes cuentan, en varios casos, con publicidad excesiva. Consi
 - [KLManga](https://klmanga.com/index) - Página bastante agradable de ver y usar para leer manga en línea.
 - [Manga Zip](http://manga-zip.net/) - Sí, el nombre del sitio dice manga. Sí, curiosamente también contiene novelas ligeras.
 - [Nyaa](https://nyaa.si/?f=0&c=3_3&q=) - Torrents de novelas ligeras y literatura general de todo tipo, aquí hay una colección impresionante de literatura.
+- [Z-Library](https://es.z-lib.org/) - Página con una enorme colección de libros, estudios y textos de todo tipo. Aquí podrá encontrar novelas ligeras, así como libros occidentales y mucho más.
 
 ### Novelas visuales
 - [CraneAnime](https://docs.google.com/spreadsheets/d/1ECqqhEm2kDS0hgxZ0tD_73e04v5FUxQGkfCbfi0Kb9k/pubhtml#) - Lista de novelas visuales con descargas (la mayoría por MEGA).
@@ -102,6 +129,44 @@ Las páginas siguientes cuentan, en varios casos, con publicidad excesiva. Consi
 - [Canales de Youtube #1](https://docs.google.com/document/d/15yXdp0G87KaQz2zNmbruyMTBiJko-FbG7gM83ub2qVQ/) - Pequeña lista de canales seleccionados de Youtube, todo en japonés y dividido por categorías.
 
 ## JLPT
-
+- [Recursos JLPT](https://www.tanos.co.uk/jlpt/) - Página con varios recursos para puntos de gramática y vocabulario del JLPT.
+- [Recursos para el JLPT](https://mega.nz/folder/fRMB1Y7A#R4xrXXMs8w44jne0pMmOEA) - Carpeta de MEGA con recursos para preparse para el JLPT N1.
+- [Recursos para matemáticas](https://asanonaoki.com/blog/%E9%AB%98%E6%A0%A1%E6%95%B0%E5%AD%A6%E7%84%A1%E6%96%99%E6%95%99%E6%9D%90%EF%BC%88%E6%95%99%E7%A7%91%E6%9B%B8%E3%83%BB%E5%95%8F%E9%A1%8C%EF%BC%89%E3%83%AA%E3%83%B3%E3%82%AF%E9%9B%86/) - Colección de varios recursos para estudiar matemáticas en japonés.
+- [Weeb Library](https://weeblibrary.wordpress.com/) - Página con recursos para prepararse para el JLPT.
 
 ---
+
+## Herramientas
+
+### Yomichan
+[Nivel JLPT vocabulario](https://github.com/stephenmk/yomichan-jlpt-vocab) - Diccionario para Yomichan que muestra el nivel JLPT de las palabras.
+
+### Extensiones Anki
+- [Búsqueda en diccionario](https://ankiweb.net/shared/info/1015321168) - Complemento que añade definiciones de diccionario a las tarjetas.
+- [Cambio de atajos](https://ankiweb.net/shared/info/24411424) - Complemento para cambiar los atajos de teclado de Anki.
+- [Esconder estadísticas](https://ankiweb.net/shared/info/845513255) - Complemento que esconde las estadísticas diarias de repasos y tiempo de la pestaña principal.
+- [Importador de mazos](https://ankiweb.net/shared/info/1263172192) - Complemento que permite importar múltiples mazos al mismo tiempo.
+
+### Registro de inmersión
+- [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - Programa libre y privado para rastrear el uso de programas en el computador propio.
+- [Bookmeter](https://bookmeter.com/) - Página japonesa para registrar libros leídos.
+
+### Varios
+- [Fuentes japonesas](https://nyaa.si/view/120614) - Colección de cientos y cientos de fuentes japonesas para computador.
+
+---
+[Diccionarios para Kindle](https://www.mediafire.com/file/hakovns9dapbjka/Kindle_Dictinoaries.zip/file) - Colección de diccionarios monolingües para usar con un Kindle.
+[Japanese with Shun](https://www.youtube.com/channel/UCu6sZrHyl4hSS2PvlUo2XZA) - Otro canal de conversaciones en japonés.
+[Marugoto](https://nihongo-files.blogspot.com/search/label/Marugoto) - Serie de libros de texto que explican gramática básica de manera sencilla.
+[Natively](https://learnnatively.com/) - Página y comunidad para aprender japonés a través de la lectura de libros de acuerdo al nivel propio.
+[Novelas ligeras yuri](https://booklist.is/booklist/527357/5bd960) - Colección en Z-Library de novelas ligeras de género yuri.
+[Novelas ligeras](https://booklist.is/booklist/606157/c63097) - Colección en Z-Library de muchas novelas ligeras.
+[Novelas](https://booklist.is/booklist/271846/07465c) - Colección en Z-Library de muchas novelas japonesas.
+[Práctica de conjugación](https://baileysnyder.com/jconj/) - Página para practicar las diferentes conjugaciones del japonés.
+[Práctica de escucha para números](https://langpractice.com/japanese/) - El nombre lo dice todo. Página para practicar la escucha de números en japonés.
+[Sun and Moon](https://www.youtube.com/channel/UCoFviorLzr3Xo-7UQ_TgrTA) - Canal con varios videos sobre gramática y vocabulario para prepararse para el JLPT
+[Tabla de kyujitai y shinjitai](https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html.) - Tabla de las formas viejas y nuevas de los kanji. Recomendado como recurso de consulta para intermedios o avanzados que decidan enfocar sus estudios al kanji y su historia.
+[あかね的日本語教室](https://www.youtube.com/channel/UCh-GhnQ7qDQmS6Bz3pGc1Mw) - Conversaciones en japonés.
+[うわさの探偵たち](https://www.youtube.com/channel/UCnKks3KuOeQrKPUXkv8nOzg) - Videos sobre misterios y curiosidades para avanzados.
+[病月ゆかり](https://www.youtube.com/channel/UCyuSHzJq-M2rIOPa3bRMLTg/videos) - Historias narradas con Vocaloid.
+[明日への扉](https://www.youtube.com/user/asuhenotobiraAthome) - Pequeños documentales sobre cultura japonesa.
