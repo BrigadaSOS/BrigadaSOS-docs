@@ -3,15 +3,6 @@ sidebar_position: 1
 slug: /utilidad/recursos
 ---
 
-export const Highlight = ({children, color}) => (
-  <a
-    style={{
-      color: color,
-    }}>
-    {children}
-  </a>
-);
-
 # Recursos
 Bienvenidos a la sección de recursos de la Brigada SOS. Esta sección está dividida en cuatro categorías para facilitar su busqueda: Aprendizaje, Inmersión, Herramientas y Misceláneo.
 
@@ -22,7 +13,6 @@ La mayoría de recursos disponibles en esta página están en inglés. Con todo 
 --- 
 ## Aprendizaje
 ### Kana
-
 - [DJTKana](https://djtguide.neocities.org/kana/index.html) - Página web para aprender los kana a través de la repetición de los mismos. 
 - [Hoja de hiragana](http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf) - Plana para hiragana (lápiz y papel).
 - [Hoja de katakana](http://japanese-lesson.com/resources/pdf/katakana_writing_practice_sheets.pdf) - Plana para katakana (lápiz y papel).
@@ -32,6 +22,7 @@ La mayoría de recursos disponibles en esta página están en inglés. Con todo 
 - [Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=es_CO&gl=US) - Aplicación de Android para buscar kanjis, órdenes de trazos y ejemplos.
 - [Mazo Recognition RTK](https://ankiweb.net/shared/info/806367119) - Mazo que proporciona mnemotecnias para los kanjis. Recomendado **únicamente** para aquellos que les cuesta demasiado memorizar kanjis.
 - [Koohii](https://kanji.koohii.com/) - Página que asiste en el aprendizaje de kanji a través de mnemotecnias.
+- [Tabla de kyujitai y shinjitai](https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html.) - Tabla de las formas viejas y nuevas de los kanji. Recomendado como recurso de consulta para intermedios o avanzados que decidan enfocar sus estudios al kanji y su historia.
 
 ### Gramática
 - [Cure Dolly](https://www.youtube.com/channel/UCkdmU8hGK4Fg3LghTVtKltQ) - Canal de YouTube que se encarga de explicar el japonés de la forma más orgánica (sencilla y sensata) posible. La mejor guía que existe a día de hoy. En inglés.
@@ -110,6 +101,7 @@ Las páginas siguientes cuentan, en varios casos, con publicidad excesiva. Consi
 - [Itazuraneko](https://itazuraneko.neocities.org/library/shousetu.html) - Colección de novelas ligeras raw para descargar de forma directa. Una cantidad impresionante hay aquí y compatible con Yomichan.
 - [KLManga](https://klmanga.com/index) - Página bastante agradable de ver y usar para leer manga en línea.
 - [Manga Zip](http://manga-zip.net/) - Sí, el nombre del sitio dice manga. Sí, curiosamente también contiene novelas ligeras.
+- [Natively](https://learnnatively.com/) - Página y comunidad para aprender japonés a través de la lectura de libros de acuerdo al nivel propio.
 - [Nyaa](https://nyaa.si/?f=0&c=3_3&q=) - Torrents de novelas ligeras y literatura general de todo tipo, aquí hay una colección impresionante de literatura.
 - [Z-Library](https://es.z-lib.org/) - Página con una enorme colección de libros, estudios y textos de todo tipo. Aquí podrá encontrar novelas ligeras, así como libros occidentales y mucho más.
 
@@ -153,20 +145,6 @@ Las páginas siguientes cuentan, en varios casos, con publicidad excesiva. Consi
 
 ### Varios
 - [Fuentes japonesas](https://nyaa.si/view/120614) - Colección de cientos y cientos de fuentes japonesas para computador.
-
----
-[Diccionarios para Kindle](https://www.mediafire.com/file/hakovns9dapbjka/Kindle_Dictinoaries.zip/file) - Colección de diccionarios monolingües para usar con un Kindle.
-[Japanese with Shun](https://www.youtube.com/channel/UCu6sZrHyl4hSS2PvlUo2XZA) - Otro canal de conversaciones en japonés.
-[Marugoto](https://nihongo-files.blogspot.com/search/label/Marugoto) - Serie de libros de texto que explican gramática básica de manera sencilla.
-[Natively](https://learnnatively.com/) - Página y comunidad para aprender japonés a través de la lectura de libros de acuerdo al nivel propio.
-[Novelas ligeras yuri](https://booklist.is/booklist/527357/5bd960) - Colección en Z-Library de novelas ligeras de género yuri.
-[Novelas ligeras](https://booklist.is/booklist/606157/c63097) - Colección en Z-Library de muchas novelas ligeras.
-[Novelas](https://booklist.is/booklist/271846/07465c) - Colección en Z-Library de muchas novelas japonesas.
-[Práctica de conjugación](https://baileysnyder.com/jconj/) - Página para practicar las diferentes conjugaciones del japonés.
-[Práctica de escucha para números](https://langpractice.com/japanese/) - El nombre lo dice todo. Página para practicar la escucha de números en japonés.
-[Sun and Moon](https://www.youtube.com/channel/UCoFviorLzr3Xo-7UQ_TgrTA) - Canal con varios videos sobre gramática y vocabulario para prepararse para el JLPT
-[Tabla de kyujitai y shinjitai](https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html.) - Tabla de las formas viejas y nuevas de los kanji. Recomendado como recurso de consulta para intermedios o avanzados que decidan enfocar sus estudios al kanji y su historia.
-[あかね的日本語教室](https://www.youtube.com/channel/UCh-GhnQ7qDQmS6Bz3pGc1Mw) - Conversaciones en japonés.
-[うわさの探偵たち](https://www.youtube.com/channel/UCnKks3KuOeQrKPUXkv8nOzg) - Videos sobre misterios y curiosidades para avanzados.
-[病月ゆかり](https://www.youtube.com/channel/UCyuSHzJq-M2rIOPa3bRMLTg/videos) - Historias narradas con Vocaloid.
-[明日への扉](https://www.youtube.com/user/asuhenotobiraAthome) - Pequeños documentales sobre cultura japonesa.
+- [Diccionarios para Kindle](https://www.mediafire.com/file/hakovns9dapbjka/Kindle_Dictinoaries.zip/file) - Colección de diccionarios monolingües para usar con un Kindle.
+- [Práctica de conjugación](https://baileysnyder.com/jconj/) - Página para practicar las diferentes conjugaciones del japonés.
+- [Práctica de escucha para números](https://langpractice.com/japanese/) - El nombre lo dice todo. Página para practicar la escucha de números en japonés.
