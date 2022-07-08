@@ -14,6 +14,13 @@
   --ifm-color-primary-lighter: #f3807e;
   --ifm-color-primary-lightest: #f7acaa;
   --ifm-code-font-size: 95%;
+  
+  /**
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  filter: sepia(5%);
+  */
 }
 
 .docusaurus-highlight-code-line {
