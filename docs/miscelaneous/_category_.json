@@ -1,5 +1,7 @@
 {
   "label": "Misceláneo",
   "position": 5,
-  "collapsed": false
+  "collapsed": true,
+  "className": "section4"
+
 }

@@ -4,6 +4,11 @@ slug: /
 title: "Inicio"
 ---
 
+import Link from '@docusaurus/Link'
+import useBaseUrl from '@docusaurus/useBaseUrl'
+import Tabs from '@theme/Tabs'
+import TabItem from '@theme/TabItem'
+
 # ¡Bienvenidos a la Brigada SOS!
 
 ![main-haruhi](../assets/introduction/main_haruhi.gif)
@@ -15,4 +20,44 @@ Esta no es la única guía que existe o existirá para aprender japonés con un 
 Si quiere aprender japonés de la forma apropiada o si tiene problemas con el método tradicional como lo son las clases, los libros de ayuda o tutores y quiere alcanzar un nivel nativo o cercano a ello de forma eficaz y divertida, esta guía le será de ayuda.
 
 Aquí no se enseña japonés, **se enseña a aprender japonés.** ようこそ！
- 
+
+<div class="container" style={{ padding: 0 }}>
+  <div class="row is-multiline">
+    {/* guia principal */}
+    <div class="col col--6">
+      <Link class="card" to="/guia-principal/introduccion" style={{ height: '100%' }}>
+        <div class="card__body">
+          <h4>Guía Principal</h4>
+          <p>¡Empieza a aprender japonés aquí!</p>
+        </div>
+      </Link>
+    </div>
+    {/* otras guias */}
+    <div class="col col--6">
+      <Link class="card" to="/otras-guias/anki" style={{ height: '100%' }}>
+        <div class="card__body">
+          <h4>Otras guías</h4>
+          <p>Tutoriales sobre otras herramientas de utilidad.</p>
+        </div>
+      </Link>
+    </div>
+    {/* utilidad */}
+    <div class="col col--6">
+      <Link class="card" to="/utilidad/recursos" style={{ height: '100%' }}>
+        <div class="card__body">
+          <h4>Utilidad</h4>
+          <p>Información y recursos relacionados al aprendizaje japonés.</p>
+        </div>
+      </Link>
+    </div>
+    {/* miscelaneo */}
+    <div class="col col--6">
+      <Link class="card" to="/miscelaneo/agradecimientos" style={{ height: '100%' }}>
+        <div class="card__body">
+          <h4>Misceláneo</h4>
+          <p>Información sobre la Brigada y sus colaboradores.</p>
+        </div>
+      </Link>
+    </div>
+  </div>
+</div>

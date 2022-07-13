@@ -16,8 +16,9 @@ La inmersión pásiva es toda esa inmersión que usted realiza sin prestar el ci
 ## ¿Cómo hacer inmersión?
 Entre estos dos tipos de inmersión, la que contribuye a que aprenda y adquiera el lenguaje en mayor medida es la inmersión activa. Pero eso no significa que la inmersión pásiva no tenga punto. Cuando no hay tiempo en el día, cosas como escuchar un podcast o ver algo en segundo plano contribuye de a pocos a su comprensión, e incluso ayudará a que su escucha mejore. Sin embargo, priorice **siempre** la inmersión activa; esta es la que le dará los mayores avances
 
-### ¿Qué contenido debo usar para hacer inmersión?
+---
+:::info En construcción
+Esta sección de la guía se encuentra en construcción. ¡Visitanos en unos días o consulta nuestro [Discord](https://discord.gg/ajWm26ADEj) para más información!
 
-
-## Minería
-
+![shy-girl](../../assets/in-progress.gif)
+:::

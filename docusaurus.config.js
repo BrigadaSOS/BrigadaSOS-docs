@@ -23,6 +23,7 @@ const config = {
   plugins: [
    
   ],
+
   scripts: [{
     src: './src/js/analytics.js',
     async: true,
@@ -34,6 +35,10 @@ const config = {
       ({
         gtag: {
           trackingID: 'G-4BNELQ9B0K',
+          anonymizeIP: true,
+        },
+        googleAnalytics: {
+          trackingID: 'UA-216507270-1',
           anonymizeIP: true,
         },
         docs: {
@@ -73,16 +78,34 @@ const config = {
   
         //... other Algolia params
       },
+      
+      /** 
+      announcementBar: {
+        id: 'support_us',
+        content:
+          'We are looking to revamp our docs, please fill <a target="_blank" rel="noopener noreferrer" href="#">this survey</a>',
+        backgroundColor: '#fafbfc',
+        textColor: '#091E42',
+        isCloseable: false,
+      },*/
+
       colorMode: {
         defaultMode: 'dark',
         disableSwitch: false,
         respectPrefersColorScheme: false,
 
     },
+      docs:{
+        sidebar:{
+          autoCollapseCategories: true,
+          
+        },
+      },
       tableOfContents:{
         maxHeadingLevel: 5,
       },
       navbar: {
+        hideOnScroll: true,
         title: 'Brigada SOS Japonés',
         logo: {
           alt: 'Brigada SOS logo',
@@ -96,8 +119,14 @@ const config = {
             label: 'Documentación',
           },
           {
+            href: 'https://github.com/Natsume-197/Natsume-197.github.io',
+            position: 'right',
+            className: 'navbar-item-github',
+            'aria-label': 'GitHub repository',
+          },
+          {
             href: 'https://discord.gg/ajWm26ADEj',
-            label: 'Discord',
+            className: 'navbar-item-discord',
             position: 'right',
           },
         ],

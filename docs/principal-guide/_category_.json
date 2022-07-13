@@ -1,5 +1,6 @@
 {
-  "label": "Guía principal",
+  "label": "Guía principal  ",
   "position": 2,
-  "collapsed": false
+  "collapsed": false,
+  "className": "section1"
 }

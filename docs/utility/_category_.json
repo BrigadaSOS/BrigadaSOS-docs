@@ -1,5 +1,7 @@
 {
   "label": "Utilidad",
   "position": 4,
-  "collapsed": false
+  "collapsed": true,
+  "className": "section3"
+
 }

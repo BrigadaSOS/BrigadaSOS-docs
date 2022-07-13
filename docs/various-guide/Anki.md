@@ -52,6 +52,10 @@ Para esta sección usaremos algunos de los ajustes recomendados en [Refold](http
 :::warning OBLIGATORIO
 Las últimas versiones de Anki han cambiado la interfaz del menú de opciones del deck de forma significativa. En esta guía usaremos la anterior interfaz, para abrirla debe presionar el botón `SHIFT` mientras da click al botón de opciones.
 :::
-#### Nuevas tarjetas
 
-### Anki y Yomichan
+---
+:::info En construcción
+Esta sección de la guía se encuentra en construcción. ¡Visitanos en unos días o consulta nuestro [Discord](https://discord.gg/ajWm26ADEj) para más información!
+
+![shy-girl](../../assets/in-progress.gif)
+:::

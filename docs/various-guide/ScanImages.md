@@ -11,12 +11,9 @@ Un poco de contexto antes de comenzar, el reconocimiento óptico de caracteres, 
 
 Sin embargo, aunque todo lo anterior suene demasiado bien, esta tecnología no es 100% precisa. 
 
-## ¿Qué herramientas puedo utilizar?
+---
+:::info En construcción
+Esta sección de la guía se encuentra en construcción. ¡Visitanos en unos días o consulta nuestro [Discord](https://discord.gg/ajWm26ADEj) para más información!
 
-## NadeOCR
-
-### Instalación
-
-### Caracteristícas
-
-### Créditos
+![shy-girl](../../assets/in-progress.gif)
+:::
