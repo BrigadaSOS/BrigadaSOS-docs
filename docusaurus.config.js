@@ -113,12 +113,6 @@ const config = {
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Documentación',
-          },
-          {
             href: 'https://github.com/Natsume-197/Natsume-197.github.io',
             position: 'right',
             className: 'navbar-item-github',

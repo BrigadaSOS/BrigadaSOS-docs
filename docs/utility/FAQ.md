@@ -10,7 +10,7 @@ Antes de empezar con la sección de preguntas y respuestas, **aprenda en qué y 
 
 Hay una cantidad absurda de personas y páginas que dan consejos de cómo aprender japonés siendo estos consejos malos, falsos o que directamente no se ajustan a la realidad. Y una cantidad impresionante de personas que siguen estos consejos. 
 
-La Brigada SOS intenta hacer lo mejor que puede para guiar de la mejor forma a todos aquellos que estén aprendiendo, sin embargo, nunca olvide la importancia de cuestionar lo aprendido y debatirlo. Si tiene alguna pregunta que no esté aquí puede hacerla a través de nuestro [servidor](https://discord.gg/T7BjQpv9vy) de Discord.
+La Brigada SOS intenta hacer lo mejor que puede para guiar de la mejor forma a todos aquellos que estén aprendiendo, sin embargo, nunca olvide la importancia de cuestionar lo aprendido y debatirlo. Si tiene alguna pregunta que no esté aquí puede hacerla a través de nuestro [servidor](https://discord.gg/ajWm26ADEj) de Discord.
 
 ### ¿Valen la pena libros como Genki, Minna no Nihongo o parecidos?
 Si usted quiere aprender japonés para consumir contenido nativo Japonés, hablar con nativos o le interesa vivir en Japón, no valen la pena. Contrario, si usted sólo le interesa aprender Japonés para un viaje vacacional donde requiera de un japonés muy básico, podría valer la pena. Aún así recuerde que estos libros contienen partes vagas o confusas con respecto al funcionamiento de la gramática japonés porque nunca fueron pensados para ser estudiados por cuenta propia. Requieren de un profesor. Y aún así, son recursos muy inferiores a comparación de los recursos recomendados aquí (Cure Dolly y Tae Kim).

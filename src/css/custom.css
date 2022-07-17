@@ -16,13 +16,7 @@
   --ifm-code-font-size: 95%;
   --ifm-col-spacing-vertical: 0.5rem;
   --custom-shadow-xl: 0 20px 60px 0 rgba(0, 0, 0, 0.1);
-
-  /**
-  -webkit-filter: grayscale(100%);
-  -moz-filter: grayscale(100%);
-  -ms-filter: grayscale(100%);
-  filter: sepia(5%);
-  */
+  
 }
 
 :root[data-theme='dark'] {
@@ -167,20 +161,20 @@ html[data-theme='dark'] .navbar-item-github:before {
 
 .theme-doc-sidebar-item-link-level-1 a::before { 
   justify-content: flex-start;
-  opacity: 0.4;
+  opacity: 0.8;
   justify-items: center;
   align-items: center;
-  padding-right: 0.5rem;  
+  padding-right: 0.7rem;  
   content: url(../../assets/icons/home.svg);
 
 }
 
 .section1 .menu__list-item-collapsible:first-child a::before {
   justify-content: flex-start;
-  opacity: 0.6;
+  opacity: 1;
   justify-items: center;
   align-items: center;
-  padding-right: 0.5rem;
+  padding-right: 0.7rem;
   content: url(../../assets/icons/guide.svg);
 }
 
@@ -190,30 +184,32 @@ html[data-theme='dark'] .navbar-item-github:before {
 
 .section2  .menu__list-item-collapsible:first-child a::before { 
   justify-content: flex-start;
-  opacity: 0.6;
+  opacity: 1;
   justify-items: center;
   align-items: center;
-  padding-right: 0.5rem;  
+  padding-right: 0.7rem;  
   content: url(../../assets/icons/other-guides.svg);
 
 }
 
 .section3  .menu__list-item-collapsible:first-child a::before { 
   justify-content: flex-start;
-  opacity: 0.5;
+  opacity: 0.8;
   justify-items: center;
   align-items: center;
-  padding-right: 0.5rem;  
+  padding-right: 0.7rem;  
   content: url(../../assets/icons/utility.svg);
 
 }
 
 .section4  .menu__list-item-collapsible:first-child a::before { 
   justify-content: flex-start;
-  opacity: 0.5;
+  opacity: 0.8;
   justify-items: center;
   align-items: center;
-  padding-right: 0.5rem;  
+  padding-right: 0.7rem;  
   content: url(../../assets/icons/miscelaneous.svg);
 
 }
+
+/***************************************************************************************/
