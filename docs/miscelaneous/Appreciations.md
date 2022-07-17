@@ -4,7 +4,7 @@ slug: /miscelaneo/agradecimientos
 
 # Agradecimientos
 
-Este proyecto de traer una guía para aprender a aprender japonés como sus recursos son posibles gracias a todas las personas que han contribuído y apoyado a la misma. Esta sección es para esas personas.
+Este proyecto de traer una guía para aprender a aprender japonés, así como sus recursos, ha sido posible gracias a todas las personas que han contribuido y apoyado al mismo. Esta sección es para esas personas.
 
 export const Highlight = ({children, color}) => (
   <span
@@ -18,16 +18,16 @@ export const Highlight = ({children, color}) => (
   </span>
 );
 
-- **Ankh#7188:** gran personalidad, experiencia y apoyo que lo convierte en un pilar fundamental para este proyecto y la gente que le conoce dentro de la Brigada. Chino, mandarín, japonés, y más. Nuestro poliglota e historiador favorito.
-- **Dav#8221:** Parte de que [NadeOCR](../various-guide/ScanImages.md) (Escaneo en imagénes digitales) funcione en Linux como se debe es gracias a él y sus correciones. Un aprendiz solidario con la Brigada en toda la regla.
-- **Haruka#0583:** creación, redacción y publicación de la sección de [Aprendizaje y Adquisición](../principal-guide/Learning.md) de la guía principal. Una persona excepcional (mi persona favorita) y la razón principal para que la Brigada SOS no haya desaparecido.
-- **ivanMatus#6071:** revisión general de todas las guías. Gracias a su experiencia (ver [canal de Youtube](https://www.youtube.com/channel/UC8VbFQ-PtVc0CcNwbpY1fqQ)), mucho de lo que está escrito aquí tiene bases. El magnifico logo de la Brigada está hecho también por él como la edición de varias imagenes importantes presentes en las guías. Un amor de persona desde los inicios de la Brigada.
-- **mm4rk3t#4148:** aporte gigante de recursos, revisión general de todas las guías y creación, redacción y publicación de la guía [Lectura en libros digitales](../various-guide/ScanEbook.md). Sentido de voluntariado enorme donde hubo un tiempo en el que cada día aparecían nuevos recursos.
-- **tiza#3776:** aportes varios en las secciones [Vocabulario y Kanji](../principal-guide//Kanji_Vocabulary.md), [Gramática](../principal-guide/Grammar.md) y [Sistemas de Escritura](../principal-guide/Writing.md). Su apoyo con los principiantes es sin igual como sus aportes y carisma dentro del servidor de Discord.
-- **Tukki#8028:** revisión general de todas las guías y correciones importantes en los mazos al español del Tango N5 y Tango N4. Un dolor de cabeza, sí, pero un amor de persona en todos los sentidos. Gracias a ella también le debemos que existan las traducciones de Cure Dolly al español.
-- **Rodri🖇#7340:** revisión general de todas las guías, aporte de una gran cantidad de recursos y canales de Youtube que se encuentran en el mismo. Su carisma, pertenencia y actividad, ha hecho de la Brigada en un hogar para muchos.
-- **Ryo#0717:** revisión general de todas las guías. La Brigada se mantuvo durante sus inicios gracias a él y su apoyo.
-- **Xerge#9144:** revisión exhaustiva, corrección, redacción y aportes varios (y demasiados) en todas las secciones. Si todo se ve bonito ortográficamente y con sentido, es gracias a él, su amor al léxico y conocimiento.
+- **Ankh#7188:** Gran personalidad, experiencia y apoyo, que lo convierten en un pilar fundamental para este proyecto y la gente que lo conoce dentro de la Brigada. Chino, mandarín, japonés y más: nuestro políglota e historiador favorito.
+- **Dav#8221:** Parte de que [NadeOCR](../various-guide/ScanImages.md) (escaneo en imagénes digitales) funcione en Linux como se debe es gracias a él y a sus correciones. Un aprendiz solidario con la Brigada en toda regla.
+- **Haruka#0583:** Creación, redacción y publicación de la sección de [Aprendizaje y adquisición](../principal-guide/Learning.md) de la guía principal. Una persona excepcional (mi persona favorita) y la razón principal para que la Brigada SOS no haya desaparecido.
+- **ivanMatus#6071:** Revisión general de todas las guías. Gracias a su experiencia (ver [su canal de YouTube](https://www.youtube.com/channel/UC8VbFQ-PtVc0CcNwbpY1fqQ)), mucho de lo que está escrito aquí tiene fundamento. El magnífico logo de la Brigada está hecho también por él, así como la edición de varias imagenes importantes presentes en las guías. Un amor de persona desde los inicios de la Brigada.
+- **mm4rk3t#4148:** Aporte gigante de recursos; revisión general de todas las guías; y creación, redacción y publicación de la guía [Lectura en libros digitales](../various-guide/ScanEbook.md). Sentido de voluntariado tan enorme que hubo un tiempo en el que cada día aparecían recursos nuevos suyos.
+- **tiza#3776:** Aportes varios en las secciones [Vocabulario y kanji](../principal-guide//Kanji_Vocabulary.md), [Gramática](../principal-guide/Grammar.md) y [Sistemas de escritura](../principal-guide/Writing.md). Su apoyo con los principiantes es sin igual, tanto como sus aportes y carisma dentro del servidor de Discord.
+- **Tukki#8028:** Revisión general de todas las guías y correciones importantes en los mazos al español del Tango N5 y Tango N4. Un dolor de cabeza, sí, pero un amor de persona en todos los sentidos. Gracias a ella también existen las traducciones de Cure Dolly al español.
+- **Rodri🖇#7340:** Revisión general de todas las guías y aporte de una gran cantidad de recursos y canales de YouTube que se encuentran disponibles en [Recursos](../utility/Resources.md). Su carisma, pertenencia y actividad han hecho de la Brigada en un hogar para muchos.
+- **Ryo#0717:** Revisión general de todas las guías. La Brigada se mantuvo durante sus inicios gracias a él y su apoyo.
+- **Xêrxe#9144:** Revisión exhaustiva, corrección, redacción y aportes varios (y demasiados) en todas las secciones. Si todo se ve bonito ortográficamente y con sentido, es gracias a él, su amor al léxico y conocimiento.
 
-Las gracias no son exclusivas, no solo las personas que se encuentran mencionadas aquí se lo merecen, gracias también a aquellas personas que a lo largo de la historia de la Brigada SOS han hecho aportes, pequeñas correciones y por supuesto, han depositado su confianza aquí en la Brigada SOS.    
+Las gracias no son exhaustivas ni exclusivas; no solo las personas que se encuentran mencionadas aquí se lo merecen. Gracias también a aquellas personas que a lo largo de la historia de la Brigada SOS han hecho aportes, pequeñas correciones y, por supuesto, han depositado su confianza aquí en la Brigada SOS.    
 <h3>¡Gracias a todos!</h3>
