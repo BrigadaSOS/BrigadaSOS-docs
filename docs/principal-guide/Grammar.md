@@ -16,9 +16,9 @@ La gramática es una rama de la lingüístca, que describe a través de modelos 
 Resumiendo, no estudie «reglas gramaticales»; estudie las teorías enteras como un todo armonioso y lógico para realmente entenderlas.
 
 ## ¿Estudiar o no estudiar gramática? 
-Tiene toda la libertad de decidir si quiere estudiar o no la gramática. Si decide optar por no estudiar gramática, es probable que le sea demmasiado complicado pasar de la etapa inicial de comprensión. Pero no es imposible. Personas como [Tatsumoto](https://tatsumoto.neocities.org/blog/index.html) lo han logrado con ayuda de la inmersión y [Anki](../various-guide/Anki). 
+Tiene toda la libertad de decidir si quiere estudiar o no la gramática. Si decide optar por no estudiar gramática, es probable que le sea demasiado complicado pasar de la etapa inicial de comprensión. Pero no es imposible. Personas como [Tatsumoto](https://tatsumoto.neocities.org/blog/index.html) lo han logrado con ayuda de la inmersión y [Anki](../various-guide/Anki). 
 
-Si opta por estudiar gramática, su aprendizaje de esta acelerará su proceso de adquisición del lenguaje. Pero solo necesitará estudiar la gramática para el entendimiento básico del lenguaje; más allá de eso no podrá entender la gramática a menos que haga inmersión y experimente por carne propia el cómo funciona, cuándo funciona y para qué funciona. 
+Si opta por estudiar gramática, su aprendizaje de esta acelerará su proceso de adquisición del lenguaje. Pero solo necesitará estudiar la gramática para el entendimiento básico del lenguaje; más allá de eso es probable, no siempre, que muchos conceptos gramaticales no los pueda entender **del todo** a menos que haga inmersión y experimente por carne propia el cómo funciona, cuándo funciona y para qué funciona. La gramática sin la compañia de la inmersión es ineficiente.
 
 Piénselo de esta forma: por mucho que sepa de la teoría, digamos de los pasos para hacer un avión de papel, solo con la experiencia podrá hacer un buen avión de papel que vuele una distancia larga. Solo con la experiencia y la inmersión entenderá verdaderamente la gramática (o, más específicamente, el lenguaje al que esta pertenece: el japonés).
 

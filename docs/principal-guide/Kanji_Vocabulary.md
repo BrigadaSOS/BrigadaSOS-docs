@@ -39,6 +39,13 @@ Mazos Tango para Anki:
 Se recomiendo el uso de un mazo a la vez. Utilizar ambos al tiempo es altamente contraproducente en etapas tempranas al no estar familiarizado aún con los kanjis.
 :::
 
+#### Enfoques intuitivos pero erróneos
+De forma general se tiende a pesar que las palabras son términos lógicos y exactos, a raíz de ello hay dos métodos (enfoques) que se utilizan comunmente para aprender vocabulario:
+
+- Temático
+- Funcional
+
+
 --- 
 
 ## Kanji

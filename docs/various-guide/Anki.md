@@ -6,14 +6,33 @@ slug: /otras-guias/anki
 # Anki
 
 ## ¿Qué es Anki?
-Anki es un programa para crear y estudiar tarjetas virtuales que de forma inteligente va a predecir cuándo es más probable que usted vaya a olvidar cierta información. Cuando eso esté a punto de ocurrir, este mismo le mostrará esa información para que de esa forma pueda retenerla por un periodo de tiempo más largo. A esta técnica se le conoce como sistema de repetición espaciada (SRS) y por supuesto, Anki hace uso de ella.
+Anki es un programa para crear y estudiar tarjetas virtuales que de forma inteligente va a predecir cuándo es más probable que usted vaya a olvidar cierta información. Cuando eso esté a punto de ocurrir, este mismo le mostrará esa información para que de esa forma pueda retenerla por un periodo de tiempo más largo y, en efecto, cada vez que se le muestre, el intervalo de revisión se hará más y más amplio hasta que ya no le sea necesario recordar esa información. A esta técnica se le conoce como sistema de repetición espaciada (SRS) y por supuesto, Anki hace uso de ella.
 
 Estudiar en Anki consiste de dos componentes: aprender nuevas tarjetas, y repasar tarjetas ya vistas.
 
 Aprender nuevas tarjetas es el primer paso cuando se empieza a usar Anki, memorizar por primera vez el contenido mostrado en la tarjeta es a lo que se le llama aprender nuevas tarjetas. Una vez que se haya memorizado por primera vez el contenido de esa tarjeta, esta se convertirá en una tarjeta de repaso. Cuando se obtienen las primeras tarjetas de repaso Anki creará cada día una lista de tarjetas que están próximas a olvidarse. Estas pueden ser muchas o pocas en un día, pero lo importante es completar los repasos todos los días para disminuir la posibilidad de olvidarlas.
 
+### ¿Por qué utilizarlo?
+El principal problema que muchos aprendices enfrentan al momento de aprender vocabulario es la cantidad abismal de palabras que existen en el japonés y en general, casi cualquier idioma. En números rápidos, siendo usted un nativo hispanohablante, probablemente conozca alrededor de ~15000 a ~30000 palabras. Para desenvolverse relativamente bien y con cierta comodidad en un idioma, no siendo exclusivo en el japonés, necesitará conocer alrededor de ~8000 palabras. No solo eso, tal como se vio en la sección de [Vocabulario y Kanji](../principal-guide/Kanji_Vocabulary.md), las palabras están compuestas de kanjis, de conceptos que muchas veces tendrá que aprender.
+
+Entonces, ¿cómo es posible aprender una cantidad abismal de cosas sin tardar años?
+
+### Enfoques intuitivos pero erróneos
+
 ### ¿Por qué Anki y no otro SRS?
 Anki hoy en día es el mejor programa en el mercado que hace uso del sistema de repetición espaciada por tres razones: es extremadamente personalizable, es multiplataforma y cuenta con un soporte increíble por la comunidad como ningún otro.
+
+### ¿Para qué me servirá Anki y para que no?
+
+**Anki le servirá si:**
+
+✅ Desea acelerar su velocidad para memorizar vocabulario/kanji/gramática.
+
+**Anki no le servirá si:**
+
+❌ Espera aprender japonés dedicando más tiempo a Anki que la inmersión.
+
+❌ No mantiene un hábito de utilizarlo constantemente.
 
 ## Instalación
 De forma oficial Anki está disponible para Windows, Mac y Linux y puede ser descargado a través de este [sitio web](https://apps.ankiweb.net/) de forma gratuita.
@@ -44,7 +63,6 @@ Esta tarjeta se ve así gracias a las notas que conforman esta tarjeta; el frent
 En resumen, una tarjeta es sólo un conjunto de notas relacionadas que visualizará con frecuencia.
 
 ## Configuración
-Para esta sección usaremos algunos de los ajustes recomendados en [Refold](https://refold.la/roadmap/stage-1/a/anki-setup) y [AnimeCards](https://animecards.site/ankisetup/).
 
 ### Preferencias
 
@@ -53,9 +71,20 @@ Para esta sección usaremos algunos de los ajustes recomendados en [Refold](http
 Las últimas versiones de Anki han cambiado la interfaz del menú de opciones del deck de forma significativa. En esta guía usaremos la anterior interfaz, para abrirla debe presionar el botón `SHIFT` mientras da click al botón de opciones.
 :::
 
----
-:::info En construcción
-Esta sección de la guía se encuentra en construcción. ¡Visitanos en unos días o consulta nuestro [Discord](https://discord.gg/ajWm26ADEj) para más información!
+## Enfoques intuitivos pero erróneos en el aprendizaje de palabras
+## Preguntas frequentes
+### ¿Cómo interpretar la tasa de retención?
+| Porcentaje 	| Interpretación 	|
+|---	|---	|
+| >95% 	| No necesita usar Anki si su retención se mantiene por encima de esta durante meses. Si es así, considere memorizar cosas más difíciles o dejar de utilizarlo. 	|
+| >90% 	| Retención excelente. Esto es común si está empezando con Anki.  	|
+| >80% 	| Retención alta.  	|
+| >70% 	| Retención normal.  	|
+| >60% 	| Retención baja.  	|
+| <60% 	| Punto de quiebre. Puede que sus tarjetas no sean lo suficientemente buenas o no esté estudiando en los momentos adecuados, considere dejar de hacer tarjetas nuevas en Anki y analice cómo mejorar su retención. 	|
 
-![shy-girl](../../assets/in-progress.gif)
-:::
+### ¿Cada cuánto debería usar Anki?
+
+### ¿Debería memorizar cada palabra en Anki?
+
+###
