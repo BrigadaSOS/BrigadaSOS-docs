@@ -12,7 +12,7 @@ Algunos de los recursos disponibles en esta página están en inglés. Con todo 
 :::note NOTA
 Los recursos están etiquetados según su idioma: aquellos etiquetados con [EN], están principalmente en inglés; y aquellos con [JP], principalmente en japonés. Aquellos que no tienen una etiqueta están en español o no necesitan de un conocimiento particular de algún idioma para ser usados o consultados.
 :::
-**Fecha de última actualización:** 2022-07-08
+**Fecha de última actualización:** 2022-08-01
 --- 
 ## Aprendizaje
 ### Kana

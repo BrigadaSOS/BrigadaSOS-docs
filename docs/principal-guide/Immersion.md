@@ -18,7 +18,7 @@ No todas las inmersiones son iguales, el aprendizaje es personal; el cómo lo ha
 
 ## ¿Qué es la inmersión? 
 
-Sin entrar en redundacia debido a que ya se había hablado de esto anteriormente en [Introducción a la inmersión](../guia-principal/introduccion#introducción-a-la-inmersión), la inmersión consiste en un fundamento simple: consumir contenido nativo en su lenguaje nativo. Puede hacerlo como quiera
+Sin entrar en redundacia debido a que ya se había hablado de esto anteriormente en [Introducción a la inmersión](../guia-principal/introduccion#introducción-a-la-inmersión), la inmersión consiste en un fundamento simple: consumir contenido nativo en su lenguaje nativo de la forma en que quiera. Hay dos tipos de inmersión:
 
 ### Inmersión activa
 La inmersión activa hace referencia a toda inmersión en la que usted, aunque no esté entendiendo, está prestando atención a lo que está consumiendo, sea cual sea el contenido que esté consumiendo. Este tipo de inmersión es la más importante porque de aquí es donde aprenderá y adquirirá el lenguaje en mayores cantidades. Ejemplos son leer un libro, ver un ánime, ver televisión japonesa, entre otros.
@@ -26,15 +26,39 @@ La inmersión activa hace referencia a toda inmersión en la que usted, aunque n
 ### Inmersión pásiva
 La inmersión pásiva es toda esa inmersión que usted realiza sin prestar el cien porciento de su atención al contenido que está consumiendo. Por ejemplo, cuando ve la televisón mientras hace algo en segundo plano, como hacer los deberes o hablar con amigos en línea. 
 
-Entre estos dos tipos de inmersión, la que contribuye a que aprenda y adquiera el lenguaje en mayor medida es la inmersión activa. Pero eso no significa que la inmersión pásiva no tenga punto. Cuando no hay tiempo en el día, cosas como escuchar un podcast o ver algo en segundo plano contribuye de a pocos a su comprensión, e incluso ayudará a que su escucha mejore. Sin embargo, priorice **siempre** la inmersión activa; esta es la que le dará los mayores avances
-
+Entre estos dos tipos de inmersión, la que contribuye a que aprenda y adquiera el lenguaje en mayor medida es la inmersión activa. Pero eso no significa que la inmersión pásiva no tenga punto. Cuando no hay tiempo en el día, cosas como escuchar un podcast o ver algo en segundo plano contribuye de a pocos a su comprensión, e incluso ayudará a que su escucha mejore. Sin embargo, priorice **siempre** la inmersión activa; esta es la que le dará los mayores avances.
 
 ## ¿Cómo hacer inmersión?
-
+La inmersión varia de persona en persona, y lo que deberá hacer muchas veces será diferente de acuerdo a su experiencia y tipo de contenido. La regla clave de todo esto es que independientemente de qué consuma, debe ser algo que le **divierta**.
 
 ## Concepto de minar
+Es un proceso donde usted toma el contenido del que ha hecho inmersión de cualquier contenido: anime, novelas visuales, manga, entre otras y lo transfiere a un software SRS como Anki con el fin de memorizar oraciones, vocabulario o kanjis bajo un contexto de uso real.
 
-### Recomendaciones
+![card-anki-example](../../assets/main_guide/card_anki_example.png)<br/><small>Ejemplo de una tarjeta en Anki sobre una VN minada (Hatsuyuki Sakura)</small>
+
+Minar le ayudará a generar un vínculo estrecho con lo que está aprendiendo permitiendo así que la memorización sea rápida y sencilla. Y por supuesto, si opta por minar dentro de su aprendizaje, es algo que estará haciendo durante la mayor parte de su aprendizaje. 
+
+:::caution consejo
+Priorice siempre minar lo que entienda de su inmersión. __La calidad es más importante que la cantidad.__
+:::
+
+### ¿Qué formato debería usar para minar?
+Hay un montón de formatos disponibles para minar; hay guías que prefiere recomendar el mineo de oraciones, como hay otras que prefieren recomendar el mineo de solo vocabulario. Pero hay algo que debe tener claro, hay una discusión enorme de qué es mejor. Haré un pequeño parentesis aquí y recomendaré lo que, en lo personal, a mi me ha servido, que es tomar lo mejor de ambos mundos. Pero la decisión es suya de escoger el formato que más se adapte a usted y/o prefiera.
+
+### Formato Brigada SOS
+Mucha de las quejas principales con las tarjetas de solo vocabulario es que una palabra, al tener muchas definiciones, no sé sabe realmente cuál es la definición que uno debe recordar. Es por ello que estas tarjetas, contienen el `vocabulario` más el contexto que viene siendo dado por la `oración` en el frente. Mientras que el reverso solo contiene la `pronunciación`, `definición`, `imagen`, `audio de la oración` y `audio de la palabra`. 
+
+Estas tarjetas cuentan con un acceso rápido a [Jisho](https://jisho.org/), un dicionario inglés-japonés, y al sitio [Immersion Kit](https://www.immersionkit.com/) donde podrá consultar esa palabra o kanji en otros contextos como anime, videojuegos, drama y literatura.
+
+> Parte de adelante:
+
+![front-anki](../../assets/main_guide/front-anki.png)
+
+> Parte de atrás:
+
+![behind-anki](../../assets/main_guide/behind-anki.png)
+
+El formato de estas tarjetas lo puede descargar [aquí](https://drive.google.com/file/d/1MV8LF_vAcSmc_GR7xsLPa6KU0UwbZReq/view?usp=sharing).
 
 ## Herramientas 
 
@@ -71,3 +95,18 @@ Si bien Safari cuenta con soporte HEVC, no es compatible con Yomichan o extensio
 Unas gracias especiales a Soamsy, creador de esta herramienta.
 
 #### Integración con Anki
+
+Debe instalar la siguiente extensión: [Animebook Anki Export](https://chrome.google.com/webstore/detail/animebook-anki-export/ohcbgkombhgcbjcikjlgdmjkpibafppa). Una vez instalada siga los siguientes pasos:
+1. Abra su aplicación de Anki, esta debe contener el addon [Ankiconnect](https://ankiweb.net/shared/info/2055492159).
+2. Vaya a la configuración de la extensión de Animebook y configure el deck que va a utilizar, el modelo de tarjeta y llene los campos del modelo de su tarjeta con la información que Animebook le proporcionará y sus necesidades: `{sentence}`, `{screenshot}`, `{forvo-word-audio}` y `{sentence-audio}`. 
+
+![config-animebook](../../assets/main_guide/config_animebook.png)<small>Ejemplo configuración Animebook personal</small>
+
+Desde este punto ya tendrá configurado Animebook con Anki.
+
+## Recomendaciones generales
+- Empiece con objetivos pequeños. No tiene que hacer inmersión ni Anki todo el día o por muchas horas. Avance de forma gradual de tal forma que no sea tan frustrante y sea sana con su estilo de vida. De igual forma, acostumbrese a una rutina con el estudio. Le hará las cosas más fáciles a la larga. 
+- Si está haciendo Anki, **en lo posible hagalo al momento de despertarte o tan pronto como pueda**. La retención de memoria funciona mejor entre más temprano sea.
+- No sacrifique su sueño por hacer inmersión/Anki.
+- Siendo un principiante, no tiene que minar todas las palabras que encuentre, solo la mayoría que considere usted que se vean comúnes/útiles en el camino. A medida de que haga más inmersión y tenga más experiencia podrá entender intuitivamente que nuevas palabras necesitará aprender y que no en el momento.
+- Tenga cuidado, tomar largas vacaciones en etapas tempranas e intermedias de su aprendizaje hará que pierda mucho de sus avances.
