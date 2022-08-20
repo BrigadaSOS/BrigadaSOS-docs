@@ -83,7 +83,6 @@ En el último ejemplo vemos cómo también dos verbos (落ちる, ochiru, y 込�
 
 ### Estructura del kanji
 
-Para un principiante, el kanji puede parecer excesivamente complicado y aleatorio en su escritura, pero no es así. La mayoría de caracteres, solo exceptuando los más básicos, se pueden descomponer en componentes más pequeños y sencillos, que en la mayoría de los casos nos permiten saber de la historia, significado y pronunciación del carácter. Estos componentes comúnmente reciben el nombre de «**radicales**». Abajo un ejemplo que ilustra el concepto.
 El kanji puede parecer excesivamente complicado y aleatorio en su escritura, pero no es así. La mayoría de caracteres, solo exceptuando los más básicos, se pueden descomponer en componentes más pequeños y sencillos, que en la mayoría de los casos nos permiten saber de la historia, significado y pronunciación del carácter. Estos componentes comúnmente reciben el nombre de «**radicales**». Abajo un ejemplo que ilustra el concepto.
 
 ![Componentes-Kanji](../../assets/main_guide/kanji_composition.webp)<small><i>Los radicales de 習: 白 y 羽</i></small>
