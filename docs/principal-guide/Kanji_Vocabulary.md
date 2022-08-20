@@ -3,6 +3,13 @@ sidebar_position: 4
 slug: /guia-principal/vocabulario-kanji
 ---
 # Vocabulario y kanji
+
+![wip](../../assets/in-progress.gif)
+
+:::info Información importante
+La guía de vocabulario y kanji recibirá pronto mejoras de calidad. Agradecemos su paciencia.
+:::
+
 Para hablar de métodos para afrontar el *kanji*, hay que acabar con un problema de raíz que ocurre con la mayoría de aprendices: no saber la diferencia entre el vocabulario y el *kanji*.
 
 ## Vocabulario 

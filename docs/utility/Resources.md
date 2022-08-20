@@ -17,8 +17,10 @@ Los recursos están etiquetados según su idioma: aquellos etiquetados con [EN],
 ## Aprendizaje
 ### Kana
 - [DJTKana](https://djtguide.neocities.org/kana/index.html) - Página web para aprender los kana a través de la repetición de los mismos. 
-- [Hoja de hiragana](http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf) - Plana para hiragana (lápiz y papel).
-- [Hoja de katakana](http://japanese-lesson.com/resources/pdf/katakana_writing_practice_sheets.pdf) - Plana para katakana (lápiz y papel).
+- [Guía corta para aprender hiragana](https://web.archive.org/web/20210227085809/http://www.aprenderjapones.com/curso-de-japones/hiragana-basico/): pequeña guía que explica las reglas y pronunciaciones del hiragana (archivado, sin audio).
+- [Guía corta para aprender katakana](https://web.archive.org/web/20200223095407/http://www.aprenderjapones.com/curso-de-japones/katakana-basico): pequeña guía que explica las reglas y pronunciaciones del katakana (archivado, sin audio).
+- [Hoja de hiragana](https://web.archive.org/web/20220530233345/http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf): planas para aprender a escribir hiragana.
+- [Hoja de katakana](https://web.archive.org/web/20220322012537/http://japanese-lesson.com/resources/pdf/katakana_writing_practice_sheets.pdf): planas para aprender a escribir katakana.
 - [Mazo de kana](https://ankiweb.net/shared/info/66384999) - Mazo para Anki que contiene los kana y su pronunciación.
 - [EN\] [KanaTown](https://play.google.com/store/apps/details?id=fr.koridev.kanatown) - Aplicación de Android para aprender los kana haciendo uso de un SRS.
 

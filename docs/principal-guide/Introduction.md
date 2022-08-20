@@ -9,26 +9,26 @@ slug: /guia-principal/introduccion
 
 :::info Información
 
-La guía en este sitio no sigue un formato tradicional: no espere ver recomendaciones de libros como el *Minna no nihongo* o derivados, ni sesiones asincrónicas para aprender el idioma. Todo lo que aprenderá aquí y fuera de aquí será por su cuenta, sin necesidad de tomar clases. Aquí se enseña a aprender japonés.
+La guía en este sitio no sigue un formato tradicional: no espere ver recomendaciones de libros como el *Minna no nihongo*, o similares, ni sesiones asincrónicas para aprender el idioma. Todo lo que verá aquí será para aprender por su cuenta, sin necesidad de tomar clases. Aquí se enseña a aprender japonés.
 
 :::
 
-**¡Ha dado el primer paso para aprender a aprender japonés! ¡Felicidades!**
+**¡Ha dado el primer paso para aprender japonés! ¡Felicidades!**
 
-Esta guía le brindará las bases y las herramientas necesarias para que pueda aprender a aprender japonés a través de la inmersión: un método diferente a cualquier otro método tradicional, que funciona a través del estudio autodidacta y es gratis y eficaz. La guía de la Brigada SOS fue hecha y revisada por múltiples miembros, miembros **experimentados** que han logrado construir una base sólida para entender el lenguaje japonés. Aquí nos enfocaremos en entender antes de hablar, en disfrutar y en divertirnos consumiendo contenido nativo: en hacer inmersión.
+Esta guía le brindará las bases y las herramientas necesarias para que pueda **aprender a aprender** japonés a través de la inmersión: un método diferente a cualquier otro, que funciona a través del estudio autodidacta, es gratis y eficaz. La guía de la Brigada SOS fue hecha y revisada por múltiples miembros: personas experimentadas que han logrado construir una base sólida para entender el idioma. Aquí nos enfocaremos en entender antes de hablar, en disfrutar y en divertirnos consumiendo contenido nativo.
 
-Si está interesado en aprender japonés para un viaje vacacional donde requiera entablar conversaciones básicas o para asuntos que no requieran de un nivel avanzado en el idioma, este método y guía no son para usted. Los métodos tradicionales son suficientes para ello. 
+Si está interesado en aprender japonés para un viaje vacacional, donde necesite entablar conversaciones básicas, o para asuntos que no requieran de un nivel avanzado en el idioma, este método y esta guía no son para usted. Los métodos tradicionales, como los libros de texto, son suficientes para ello. 
 
-Pero si quiere ver anime sin subtítulos, ver una película, leer novelas visuales, todo sin esperar a su traducción por **años**, o entablar conversaciones con nativos y estar realmente dentro de la conversación, esta guía es para usted. Todo sin que tenga que pagar ni una sola moneda.
+Pero si quiere ver ánime sin subtítulos o leer novelas o manga en japonés, todo sin esperar a su traducción por **años**; o entablar conversaciones con nativos y estar realmente dentro de la conversación, esta guía es para usted. Todo sin que tenga que pagar ni una sola moneda.
 
-Tenga en cuenta que el método sí importa. Estudiar japonés con libros como el *Minna no nihongo* o el *Genki*, o con cursos presenciales solo le creará problemas. Estos cursos tratan de forzar la lógica de nuestro idioma nativo al japonés. Y por mucho que esto funcione para la mayoría de los temas básicos, con temas ligeramente más avanzados o con japonés real, le formarán la idea de que el lenguaje es ilógico y sin sentido. **No** utilice estos recursos a menos que su objetivo sea única y exclusivamente aprobar el JLPT.
+Tenga en cuenta que el método sí importa. Estudiar japonés con libros como el *Minna no nihongo* o el *Genki* o con cursos presenciales solo le creará problemas. Estos cursos tratan de forzar la lógica de nuestro idioma nativo al japonés. Y por mucho que esto funcione con muchos de los temas básicos, con temas ligeramente más avanzados o japonés real, le formarán la idea de que el lenguaje es ilógico y sin sentido. **No** utilice estos recursos a menos que su objetivo sea única y exclusivamente aprobar el JLPT.
 
 El método en el que se basa esta guía es conocido ampliamente como «[AJATT](http://www.alljapaneseallthetime.com/blog/)» («todo en japonés todo el tiempo», por sus siglas en inglés). 
 
 ---
 
 ## Introducción a la inmersión
-La forma en la que aprenderá el lenguaje será consumiéndolo; viendo, escuchando y leyendo contenido nativo. Contrario a la creencia popular, todos tenemos la habilidad de adquirir el lenguaje de forma natural, de la misma forma y sin clases ni libros de texto aburridos. La enseñanza tradicional nos ha acostumbrado a que la mayoría de cosas se deben aprender como lo haríamos con las matemáticas; en el caso del lenguaje, no es así. El lenguaje se adquiere de lo que consumimos: series, videojuegos, libros, ánimes, entre otras cosas. De todo.
+La forma en la que aprenderá el lenguaje será consumiéndolo: viendo, escuchando y leyendo contenido nativo. Contrario a la creencia popular, todos tenemos la habilidad de adquirir el lenguaje de forma natural, de la misma forma y sin clases ni libros de texto aburridos. La enseñanza tradicional nos ha acostumbrado a que la mayoría de cosas se deben aprender como lo haríamos con las matemáticas; en el caso del lenguaje, no es así. El lenguaje se adquiere de lo que consumimos: series, videojuegos, libros, ánimes, entre otras cosas. De todo.
 
 Según [Stephen Krashen](https://www.youtube.com/watch?v=NiTsduRreug), existen dos formas de aprender un lenguaje: *aprendizaje* y *adquisición*. El **aprendizaje** hace referencia al proceso de estudiar un lenguaje de manera formal. Que es, en otras palabras, conocer más del lenguaje: aprender vocabulario o gramática. Por otro lado, la **adquisición** hace referencia al proceso, muchas veces inconsciente, intuitivo y natural donde entendemos el mensaje como un bebé lo haría: mientras observa a sus padres, a su alrededor y al mundo. Este es un proceso que todos hemos hecho y podemos seguir realizando porque esa habilidad no desaparece cuando se llega a la edad adulta. 
 
