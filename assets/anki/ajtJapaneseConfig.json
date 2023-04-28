@@ -1,0 +1,141 @@
+{
+  "audio_settings": {
+    "attempts": 4,
+    "audio_download_timeout": 6,
+    "dictionary_download_timeout": 30,
+    "ignore_inflections": false,
+    "maximum_results": 3,
+    "stop_if_one_source_has_results": true
+  },
+  "audio_sources": [
+    {
+      "enabled": true,
+      "name": "NHK-2016",
+      "url": "https://github.com/Ajatt-Tools/nhk_2016_pronunciations_index/releases/download/v1.0/NHK_extended.zip"
+    },
+    {
+      "enabled": true,
+      "name": "NHK-1998",
+      "url": "https://github.com/Ajatt-Tools/nhk_1998_pronunciations_index/releases/download/v1.0/NHK_main.zip"
+    }
+  ],
+  "cache_lookups": 1024,
+  "context_menu": {
+    "generate_furigana": true,
+    "literal_pronunciation": true,
+    "to_hiragana": true,
+    "to_katakana": true
+  },
+  "furigana": {
+    "blocklisted_words": "人",
+    "counters": "つ,月,日,人,筋,隻,丁,品,番,枚,時,回,円,万,歳,限,万人",
+    "discard_mode": "keep_first",
+    "maximum_results": 1,
+    "mecab_only": "彼,猫,首,母,顔,木,頭,私,弟,空,体,行く",
+    "prefer_literal_pronunciation": false,
+    "reading_separator": ", ",
+    "skip_numbers": true
+  },
+  "generate_on_note_add": true,
+  "last_file_save_location": "",
+  "pitch_accent": {
+    "blocklisted_words": "こと,へ,か,よ,ん,だ,び,の,や,ね,ば,て,と,た,が,に,な,は,も,ます,から,いる,たち,てる,う,ましょ,たい,する,です,ない",
+    "discard_mode": "discard_extra",
+    "kana_lookups": true,
+    "lookup_shortcut": "Ctrl+8",
+    "maximum_results": 3,
+    "output_hiragana": false,
+    "reading_separator": ", ",
+    "skip_numbers": true,
+    "word_separator": "; "
+  },
+  "profiles": [
+    {
+      "destination": "SentenceFurigana",
+      "mode": "furigana",
+      "name": "Add Furigana to Sentence",
+      "note_type": "Japanese",
+      "source": "Sentence",
+      "split_morphemes": true
+    },
+    {
+      "destination": "VocabFurigana",
+      "mode": "furigana",
+      "name": "Add Furigana to Vocab",
+      "note_type": "Japanese",
+      "source": "Vocab",
+      "split_morphemes": false
+    },
+    {
+      "destination": "MonolingualPrimaryFurigana",
+      "mode": "furigana",
+      "name": "Add Furigana to MonolingualPrimary",
+      "note_type": "Japanese",
+      "source": "MonolingualPrimary",
+      "split_morphemes": true
+    },
+    {
+      "destination": "MonolingualExtraFurigana",
+      "mode": "furigana",
+      "name": "Add Furigana to MonolingualExtra",
+      "note_type": "Japanese",
+      "source": "MonolingualExtra",
+      "split_morphemes": true
+    },
+    {
+      "destination": "VocabPitchPattern",
+      "mode": "pitch",
+      "name": "Add pitch pattern for word",
+      "note_type": "Japanese",
+      "output_format": "html",
+      "source": "Vocab",
+      "split_morphemes": false
+    },
+    {
+      "destination": "VocabPitchNum",
+      "mode": "pitch",
+      "name": "Add pitch number for word",
+      "note_type": "Japanese",
+      "output_format": "number",
+      "source": "Vocab",
+      "split_morphemes": false
+    },
+    {
+      "destination": "VocabAudio",
+      "mode": "audio",
+      "name": "Add audio for word",
+      "note_type": "Japanese",
+      "source": "Vocab",
+      "split_morphemes": false
+    }
+  ],
+  "regenerate_readings": false,
+  "styles": {
+    "&#42780;": "&#42780;",
+    "class=\"nasal\"": "style=\"color: red;\"",
+    "class=\"nopron\"": "style=\"color: royalblue;\"",
+    "class=\"overline\"": "style=\"text-decoration:overline;\""
+  },
+  "toolbar": {
+    "clean_furigana_button": {
+      "enabled": false,
+      "shortcut": "",
+      "text": "削"
+    },
+    "furigana_button": {
+      "enabled": true,
+      "shortcut": "",
+      "text": "振"
+    },
+    "hiragana_button": {
+      "enabled": false,
+      "shortcut": "",
+      "text": "平"
+    },
+    "regenerate_all_button": {
+      "enabled": true,
+      "shortcut": "Alt+P",
+      "text": "再"
+    }
+  }
+}
