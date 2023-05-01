@@ -19,7 +19,7 @@ Esta guía le brindará las bases y las herramientas necesarias para que pueda *
 
 Si está interesado en aprender japonés para un viaje vacacional, donde necesite entablar conversaciones básicas, o para asuntos que no requieran de un nivel avanzado en el idioma, este método y esta guía no son para usted. Los métodos tradicionales, como los libros de texto, son suficientes para ello. 
 
-Pero si quiere ver ánime sin subtítulos o leer novelas o manga en japonés, todo sin esperar a su traducción por **años**; o entablar conversaciones con nativos y estar realmente dentro de la conversación, esta guía es para usted. Todo sin que tenga que pagar ni una sola moneda.
+Pero si quiere ver anime sin subtítulos o leer novelas o manga en japonés, todo sin esperar a su traducción por **años**; o entablar conversaciones con nativos y estar realmente dentro de la conversación, esta guía es para usted. Todo sin que tenga que pagar ni una sola moneda.
 
 Tenga en cuenta que el método sí importa. Estudiar japonés con libros como el *Minna no nihongo* o el *Genki* o con cursos presenciales solo le creará problemas. Estos cursos tratan de forzar la lógica de nuestro idioma nativo al japonés. Y por mucho que esto funcione con muchos de los temas básicos, con temas ligeramente más avanzados o japonés real, le formarán la idea de que el lenguaje es ilógico y sin sentido. **No** utilice estos recursos a menos que su objetivo sea única y exclusivamente aprobar el JLPT.
 
@@ -28,7 +28,7 @@ El método en el que se basa esta guía es conocido ampliamente como «[AJATT](h
 ---
 
 ## Introducción a la inmersión
-La forma en la que aprenderá el lenguaje será consumiéndolo: viendo, escuchando y leyendo contenido nativo. Contrario a la creencia popular, todos tenemos la habilidad de adquirir el lenguaje de forma natural, de la misma forma y sin clases ni libros de texto aburridos. La enseñanza tradicional nos ha acostumbrado a que la mayoría de cosas se deben aprender como lo haríamos con las matemáticas; en el caso del lenguaje, no es así. El lenguaje se adquiere de lo que consumimos: series, videojuegos, libros, ánimes, entre otras cosas. De todo.
+La forma en la que aprenderá el lenguaje será consumiéndolo: viendo, escuchando y leyendo contenido nativo. Contrario a la creencia popular, todos tenemos la habilidad de adquirir el lenguaje de forma natural, de la misma forma y sin clases ni libros de texto aburridos. La enseñanza tradicional nos ha acostumbrado a que la mayoría de cosas se deben aprender como lo haríamos con las matemáticas; en el caso del lenguaje, no es así. El lenguaje se adquiere de lo que consumimos: series, videojuegos, libros, anime, entre otras cosas. De todo.
 
 Según [Stephen Krashen](https://www.youtube.com/watch?v=NiTsduRreug), existen dos formas de aprender un lenguaje: *aprendizaje* y *adquisición*. El **aprendizaje** hace referencia al proceso de estudiar un lenguaje de manera formal. Que es, en otras palabras, conocer más del lenguaje: aprender vocabulario o gramática. Por otro lado, la **adquisición** hace referencia al proceso, muchas veces inconsciente, intuitivo y natural donde entendemos el mensaje como un bebé lo haría: mientras observa a sus padres, a su alrededor y al mundo. Este es un proceso que todos hemos hecho y podemos seguir realizando porque esa habilidad no desaparece cuando se llega a la edad adulta. 
 
@@ -58,7 +58,7 @@ Si ha llegado aquí y ha tenido experiencia con los métodos tradicionales, sabr
 
 ### ¿Cómo disfrutar y divertirse con el lenguaje?
 
-Es tan sencillo como estudiar con lo que le gusta: ánime, videojuegos, novelas, y un largo etcétera. Tenga por seguro que, si hace lo que le gusta, se sentirá cada vez menos como una obligación y más como un motivante. Pese a lo redundante de esta advertencia, no se fuerce a hacer inmersión con cosas que no le gusten ni interesen. Por más ridículo o contradictorio que suene, aprenda a disfrutar y divertirse.
+Es tan sencillo como estudiar con lo que le gusta: anime, videojuegos, novelas, y un largo etcétera. Tenga por seguro que, si hace lo que le gusta, se sentirá cada vez menos como una obligación y más como un motivante. Pese a lo redundante de esta advertencia, no se fuerce a hacer inmersión con cosas que no le gusten ni interesen. Por más ridículo o contradictorio que suene, aprenda a disfrutar y divertirse.
 
 ### Perseverancia
 Sea constante y tenga disciplina: perseverancia. El japonés es un lenguaje muy fácil de olvidar en etapas iniciales; no hay que olvidar que después de todo este un lenguaje muy alejado lingüísticamente del español. Haga inmersión todos los días si le es posible, aunque sea un poco. Así también se asegurará de crear un hábito y seguirá avanzando sin siquiera notarlo. 

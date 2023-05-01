@@ -33,12 +33,11 @@ import PassFailExample from '../../assets/anki/pass_fail_example.png'
 # Anki
 
 ## ¿Qué es Anki?
-Anki es un programa para crear y estudiar tarjetas virtuales que de forma inteligente va a predecir cuándo es más probable que vaya a olvidar cierta información. Cuando eso esté a punto de ocurrir, este mismo le mostrará esa información para que de esa forma pueda retenerla por un periodo de tiempo más largo y, en efecto, cada vez que se le muestre, el intervalo de revisión se hará más y más amplio hasta que ya no le sea necesario recordar esa información. A esta técnica se le conoce como sistema de repetición espaciada (SRS) y por supuesto, Anki hace uso de ella.
+Anki es un programa para crear y estudiar tarjetas virtuales que de forma inteligente va a predecir cuándo es más probable que vaya a olvidar cierta información. Cuando eso esté a punto de ocurrir, le mostrará esa información para que pueda retenerla por un periodo de tiempo más largo. Tras cada repaso, el intervalo de revisión se hará más y más amplio hasta que ya no le sea necesario para poder recordar esa información. A esta técnica se le conoce como **sistema de repetición espaciada (SRS)** y por supuesto, Anki hace uso de ella.
 
 <div className="text--center">
-    <img src={StepsGeneralExample} width="700" />
+    <img className="round shadow" src={StepsGeneralExample} width="700" />
 </div>
-
 
 Estudiar en Anki consiste de dos partes:
 * Aprender nuevas tarjetas.
@@ -58,7 +57,7 @@ Un método que puede que haya utilizado para estudiar en sus exámenes es el de 
 En lugar de pasar el día entero escribiendo listas y listas de vocabulario, mediante el uso de Anki podrá seguir una estrategia mucho más efectiva en tiempo y resultados, donde solo repasará estas palabras justo antes de que se olviden.
 
 <div className="text--center">
-    <img src={ForgettingCurveExample} width="600" />
+    <img className="round shadow" src={ForgettingCurveExample} width="600" />
 </div>
 
 La gráfica superior muestra un concepto llamado **curva del olvido**. De forma natural, cuando esté aprendiendo una palabra nueva la retendrá en su **memoria a corto plazo**, por lo que es fácil que se le olvide. Siguiendo esta estrategia, al principio hará repasos más frecuentemente, y a medida que siga estudiando esta palabra pasará a su **memoria a largo plazo**. A partir de aquí, los intervalos serán cada vez más largos, ya que será menos probable que se le olvide.
@@ -100,7 +99,7 @@ Para poder usar Anki, antes deberá conocer algunos conceptos básicos con los q
 La primera vez que abra Anki se encontrará con esta interfaz. En ella, una de las primeras cosas que podrá observar es la lista de mazos. Por ahora solo contará con un mazo **"Predeterminado"**.
 
 <div className="text--center">
-    <img src={AnkiFirstImage} width="600" />
+    <img className="shadow" src={AnkiFirstImage} width="600" />
 </div>
 
 Los mazos son, en esencia, un **grupo de tarjetas**. Un mazo podrá contener tarjetas de una categoría como podrían ser "Vocabulario" o "Gramática". Y cada mazo contiene sus propios ajustes, como la cantidad de tarjetas que quiere aprender por día. Así mismo, podrá crear mazos desde cero o descargar mazos hechos por la comunidad.
@@ -118,19 +117,19 @@ Como se explicó anteriormente, un mazo es simplemente un conjunto de tarjetas. 
 Puede hacer clic en el mazo que descargó anteriormente para ver el funcionamiento de una tarjeta. Verá que al lado del mazo **"Inmersión"** aparece un número. Eso le indica que tiene tarjetas nuevas por repasar.
 
 <div className="text--center">
-  <img src={AnkiMenuDeckImported} width="600" />
+  <img className="shadow" src={AnkiMenuDeckImported} width="600" />
 </div>
 
 Al hacer clic en el mazo, primero se le mostrará la cara frontal, que contiene la palabra a estudiar.
 
 <div className="text--center">
-  <img src={AnkiCardFront} width="600" />
+  <img className="shadow" src={AnkiCardFront} width="600" />
 </div>
 
 Deberá intentar recordar cuál es el **significado** y **lectura** de la palabra. Al pulsar la tecla **"Espacio"**, se mostrará la cara trasera, que contiene la definición.
 
 <div className="text--center">
-  <img src={AnkiCardBack} width="600" />
+  <img className="shadow" src={AnkiCardBack} width="600" />
 </div>
 
 Si ha acertado, pulsará el botón **"Bien"** y se le mostrará una tarjeta nueva. Si no sabía el significado, pulsará el botón **"Otra vez"**, y la tarjeta volverá a aparecer unos minutos más tarde para que pueda volver a intentarlo.
@@ -142,7 +141,7 @@ Continuará con este proceso hasta que Anki le indique que se han acabado todas 
 Desde el menú principal de Anki, en la barra superior verá un botón llamado **"Explorar"**. Al hacer clic se le mostrará un menú con todas las tarjetas y mazos que tiene ahora mismo en Anki.
 
 <div className="text--center">
-  <img src={AnkiExplorerMenu} width="600" />
+  <img className="shadow" src={AnkiExplorerMenu} width="600" />
 </div>
 
 
@@ -157,14 +156,14 @@ Desde el menú principal de Anki, en la barra superior verá un botón llamado *
 Inicialmente, esta sección estará vacía. A medida que vaya estudiando le recomendamos que preste atención especialmente a estas secciones:
 
 <div className="text--center">
-  <img src={AnkiStatsFutureReviews} width="400" />
+  <img className="round shadow" src={AnkiStatsFutureReviews} width="400" />
 </div>
 
 Esta gráfica le indicará cuantas tarjetas están programadas para el próximo día, y para días futuros. Le servirá para tener una idea de cuanto tiempo tendrá que dedicarle a Anki el día siguiente, y poder planear un hueco para hacer sus repasos.
 
 
 <div className="text--center">
-  <img src={AnkiStatsCardCount} width="400" />
+  <img className="round shadow" src={AnkiStatsCardCount} width="400" />
 </div>
 
 Esta gráfica le indica el estado de todas las tarjetas de su mazo. En detalle, cada estado significa:
@@ -196,8 +195,8 @@ En el menú principal de Anki, en la barra de herramientas superior haga clic en
 * En la pestaña de **Repasos**, en la opción **Límite de estudio por adelantado** ponga `900`.
 
 <div style={{display: "flex", justifyContent: "space-evenly"}}>
-<img src={AnkiPreferencesAppearance} width="400" />
-<img src={AnkiPreferencesReviews} width="400" />
+<img className="shadow" src={AnkiPreferencesAppearance} width="400" />
+<img className="shadow" src={AnkiPreferencesReviews} width="400" />
 </div>
 
 ### Opciones del mazo
@@ -212,26 +211,25 @@ Esto le abrirá la configuración asignada al mazo. Se recomienda cambiar estas 
 * **Repasos máximo/día**: El número máximo de repasos que puede hacer en un día. Siempre deberá completar todos los repasos que Anki le marca, así le pondremos un valor absurdamente alto como `9999` para evitar que esta opción le oculte repasos.
 
 <div className="text--center">
-    <img src={DeckOptionsDailyLimits} width="600" />
+    <img className="round shadow" src={DeckOptionsDailyLimits} width="600" />
 </div>
 
 #### Tarjetas nuevas
 * **Pasos en la etapa de aprendizaje**: Este campo marca cuantas veces y con qué intervalo aparecerá una tarjeta nueva. El valor recomendado es `38s 1m 5m 1h`.
-
 Para entender esta configuración mejor, puede verlo en la siguiente gráfica:
 
 <div style={{marginTop: -10}} className="text--center">
-    <img src={NewCardsStepExplanation} width="600" />
+    <img className="round shadow" src={NewCardsStepExplanation} width="600" />
 </div>
 
 Siguiendo la imágen, cada tarjeta nueva aparecerá **4 veces** en una sesión. Si en el último intervalo responde a la tarjeta con un **Bien**, la tarjeta pasará a ser una **tarjeta de repaso** y se moverá al día siguiente. Si en cualquier momento responde con **Otra vez**, la tarjeta se reseteará al primer intervalo.
 
-Igualmente, el último intervalo no significa que tendrá que esperar más de una hora hasta que pueda hacer todos los repasos. Como las preferencias de Anki indicamos que el [Límite de estudio por adelantado](#preferencias) era de `900`, simplemente estas tarjetas aparecerán al final de la sesión de estudio, aunque aún no haya pasado una hora.
+Igualmente, el último intervalo no significa que tendrá que esperar más de una hora hasta que pueda hacer todos los repasos. Como en las preferencias de Anki indicamos que el [Límite de estudio por adelantado](#preferencias) era de `900`, simplemente estas tarjetas aparecerán al final de la sesión de estudio, aunque aún no haya pasado una hora.
 
 * **Intervalo de graduación**: Este número le indica cuándo volverá a salir una tarjeta nueva cuando haya completado el último intervalo. El valor por defecto `1` (al día siguiente) es lo recomendado.
 
 <div className="text--center">
-    <img src={DeckOptionsNewCards} width="600" />
+    <img className="round shadow" src={DeckOptionsNewCards} width="600" />
 </div>
 
 #### Olvidos
@@ -242,12 +240,12 @@ Igualmente, el último intervalo no significa que tendrá que esperar más de un
 * **Acción para sanguijuelas**: Como se indicó anteriormente, las tarjetas que pasen a ser sanguijuelas serán etiquetadas.
 
 <div className="text--center">
-    <img src={DeckOptionsLapses} width="600" />
+    <img className="round shadow" src={DeckOptionsLapses} width="600" />
 </div>
 
 #### Avanzado
 
-* **Intervalo máximo**: Es el mayor intervalo que puede tener una tarjeta de repaso. Si el valor es muy pequeño puede interferir con el algoritmo de SRS, así que es recomendable poner un valor alto como `36500` (1 año).
+* **Intervalo máximo**: Es el mayor intervalo que puede tener una tarjeta de repaso. Si el valor es muy pequeño puede interferir con el algoritmo de SRS, así que es recomendable poner un valor alto como `36500` (10 años).
 * **Facilidad inicial**: Multiplicador con el que empieza una tarjeta. Afecta a los intervalos (a más bajo, más cortos serán los intervalos entre repaso y repaso de cada tarjeta). El valor por defecto de `2.50` es el recomendable.
 * **Bonus para fácil**: Multiplicador que se suma a las tarjetas hace clic al botón **Fácil**. Más adelante instalaremos un complemento para desactivar este botón, ya que no lo usaremos. Puede poner `1.00` como valor.
 * **Modificador de intervalo**: Igual que la facilidad inicial, este modificador afecta directamente a qué tan corto o largo será un intervalo. Si no tiene problemas con los repasos y le gustaría dejar más tiempo entre intervalos, puede subirlo a un valor superior (hasta `1.2`).
@@ -257,7 +255,7 @@ Igualmente, el último intervalo no significa que tendrá que esperar más de un
 Puede ver más información sobre la "facilidad" de las tarjetas y el cálculo de intervalos en [esta sección](#qué-es-la-facilidad-de-una-tarjeta-y-como-calcula-anki-el-siguiente-intervalo).
 
 <div className="text--center">
-    <img src={DeckOptionsAdvanced} width="600" />
+    <img className="round shadow" src={DeckOptionsAdvanced} width="600" />
 </div>
 
 ### Personalizando el Tipo de Nota
@@ -267,7 +265,7 @@ Si es un usuario avanzado, quizás quiera cambiar parte de la información que s
 Para ello, desde el menú principal de Anki vaya a `Herramientas > Administrar tipos de nota`, seleccione la tarjeta **BrigadaSOS Japanese**, y en el menú lateral derecho haga clic en `Tarjetas...`. Se abrirá el menú para personalizar la plantilla de la tarjeta.
 
 <div className="text--center">
-    <img src={AnkiTemplatePersonalization} width="800" />
+    <img className="shadow" src={AnkiTemplatePersonalization} width="800" />
 </div>
 
 En la parte de la izquierda verá que hay una serie de opciones de la plantilla que puede modificar:
@@ -334,12 +332,12 @@ Una vez haya instalado el complemento, debe configurarlo para que funcione con n
 También puede generar estas lecturas manualmente si va al menú **Explorar**, selecciona una tarjeta, hace clic en el campo **Vocab** y pulsa la tecla `Tab`. De igual manera, puede realizar este proceso en masa para todas las tarjetas si va al menú de **Explorar**, y en la barra superior hace clic en `Editar > AJT: Bulk generate`.
 
 <div className="text--center">
-    <img src={AjtJapaneseExample} width="397"/>
+    <img className="round shadow" src={AjtJapaneseExample} width="397"/>
 </div>
 
 #### [Straight Rewards](https://ankiweb.net/shared/info/957961234)
 
-A medida que vaya haciendo repasos, cuando pulse **"Otra vez"** en una tarjeta la "facilidad" de esta bajará. Esta "facilidad" es un número que afecta al próximo intervalo de una tarjeta. Cuanto más bajo sea, más frecuentemente nos aparecerá una tarjeta.
+A medida que vaya haciendo repasos, cuando pulse **"Otra vez"** en una tarjeta la "facilidad" de esta bajará. Esta "facilidad" es un número que afecta al próximo intervalo de una tarjeta. Cuanto más bajo sea, más frecuentemente aparecerá una tarjeta.
 
 Por ejemplo, una tarjeta con la "facilidad" inicial de `2.5` aparecerá en los siguientes intervalos:
 
@@ -360,7 +358,7 @@ Con este complemento, lo que conseguirá es que al responder una tarjeta bien va
 Si tras instalar el complemento va a las [opciones del mazo](#opciones-del-mazo), verá una nueva sección para configurarlo. Le recomendamos que ponga los siguientes valores:
 
 <div className="text--center">
-    <img src={DeckOptionsRewards} width="600"/>
+    <img className="round shadow" src={DeckOptionsRewards} width="600"/>
 </div>
 
 Puede ver más información sobre la "facilidad" de las tarjetas y el cálculo de intervalos en [esta sección](#qué-es-la-facilidad-de-una-tarjeta-y-como-calcula-anki-el-siguiente-intervalo).
@@ -368,22 +366,22 @@ Puede ver más información sobre la "facilidad" de las tarjetas y el cálculo d
 
 #### [Pass/Fail](https://ankiweb.net/shared/info/876946123)
 
-Este complemento elimina los botones **Difícil** y **Fácil**, dejando solo dos botones: **Pass**, equivalente a **Bien**, y **Fail**, equivalente a **Otra vez**.
+Este complemento elimina los botones **Difícil** y **Fácil**, dejando solo dos botones: **Pass** (equivalente a **Bien**), y **Fail** (equivalente a **Otra vez**).
 
 Esto simplifica las sesiones de repaso, ya que solo tendrá que evaluar si se sabe la tarjeta o no.
 
 <div className="text--center">
-    <img src={PassFailExample} width="400"/>
+    <img className="round shadow" src={PassFailExample} width="400"/>
 </div>
 
 #### [Review Heatmap](https://ankiweb.net/shared/info/1771074083)
 
 Este complemento le mostrará una gráfica en el menú principal de Anki para ver cuantos días ha estudiado, cuantos repasos ha hecho, cuál es su racha actual...
 
-Es muy útil para revisar los días estudiados y motivar a que haga los repasos todos los días.
+Es muy útil para revisar los días estudiados y motivarla a que haga los repasos todos los días.
 
 <div className="text--center">
-    <img src={HeatmapExample} width="600"/>
+    <img className="round shadow" src={HeatmapExample} width="600"/>
 </div>
 
 #### [Paste Images as WebP](https://ankiweb.net/shared/info/1151815987)
@@ -393,7 +391,7 @@ A medida que vaya creando tarjetas con imágenes, estas ocuparán un espacio con
 Una vez haya instalado el complemento, si reinicia Anki podrá acceder a la configuración desde `AJT > WebP settings...` en la barra superior del menú principal. Estas son las opciones recomendadas:
 
 <div className="text--center">
-    <img src={WebPAddonMenu} width="400"/>
+    <img className="shadow" src={WebPAddonMenu} width="400"/>
 </div>
 
 #### [True Retention](https://ankiweb.net/shared/info/613684242)
@@ -403,7 +401,7 @@ Este complemento le dará más información sobre qué tan bien está memorizand
 Para acceder al menú, debe mantener la tecla `Shift` pulsada mientras hace clic en el botón de **Estadísticas** del menú principal.
 
 <div className="text--center">
-    <img src={TrueRetentionMenu} width="600"/>
+    <img className="shadow" src={TrueRetentionMenu} width="600"/>
 </div>
 
 ## Conclusión y recomendaciones
@@ -424,15 +422,15 @@ El siguiente paso será configurar la extensión de navegador [Yomichan](/config
 
 **Deberá usar Anki cada día, sin excepción.** La única forma en la que puede aprovecharse de los beneficios del SRS es si realiza los repasos en los intervalos correspondientes. Si deja pasar uno o más días, es muy probable que olvide las tarjetas nuevas que haya estudiado recientemente y su retención se vea comprometida.
 
-En caso de que vea que está invirtiendo más tiempo en Anki del que puede dedicarle, intente estudiar menos tarjetas diarias cada día. Lo recomendable es estudiar de **15 a 20 tarjetas nuevas**, pero puede reducir la cantidad a **5 o 10** sin ningún problema. Le llevará más tiempo completar los mazos, pero es preferible si eso le permite ser más consistente y completar todos sus repasos cada día.
+En caso de que vea que está invirtiendo más tiempo en Anki del que pueda dedicarle, intente estudiar menos tarjetas diarias cada día. Lo recomendable es estudiar de **15 a 20 tarjetas nuevas**, pero puede reducir la cantidad a **5 o 10** sin ningún problema. Le llevará más tiempo completar los mazos, pero es preferible si eso le permite ser más consistente y completar todos sus repasos cada día.
 
 
 ### ¿Qué significan los números que aparecen a la derecha de un mazo?
 
-Cuando lleve varios días haciendo Anki, verá que aparecen varios números de diferentes colores al lado del mazo.
+Cuando lleve un tiempo haciendo Anki, verá que aparecen varios números de diferentes colores al lado del mazo.
 
 <div className="text--center">
-  <img src={AnkiDeckNumbers} width="600" />
+  <img className="round shadow" src={AnkiDeckNumbers} width="600" />
 </div>
 
 Los diferentes colores le indican el número de tarjetas de cada tipo a estudiar hoy:
@@ -444,7 +442,7 @@ Siempre deberá realizar Anki hasta que los tres números bajen a **cero**.
 
 ### ¿Qué es la "facilidad" de una tarjeta y como calcula Anki el siguiente intervalo?
 
-La "facilidad" de la tarjeta es un valor que indica, como su nombre indica, qué tan complicado se nos está haciendo memorizar una tarjeta. Empieza por defecto en `2.5`, y baja en un `20%` cada vez que respondemos con el botón de **Otra vez**.
+La "facilidad" de la tarjeta es un valor que indica, como su nombre indica, qué tan sencillo se le está haciendo memorizar una tarjeta. Empieza por defecto en `2.5`, y baja en un **20%** cada vez que respondemos con el botón de **Otra vez**.
 
 Esta "facilidad" afecta directamente a como Anki calcula el siguiente intervalo de una tarjeta, usando la siguiente fórmula:
 
