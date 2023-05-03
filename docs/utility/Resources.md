@@ -42,7 +42,7 @@ Los recursos están etiquetados según su idioma: aquellos etiquetados con [EN],
 - [EN\] [Tango N4 por TheMoeWay](https://drive.google.com/file/d/1WX9AAKJgiTKN-SySPzuGG8T4nXVhWaSi/view?usp=sharing) - Segundo mazo opcional de vocabulario, altamente recomendado para principiantes.
 
 :::tip Consejo
-Para aprender vocabulario, el camino que recomendamos aquí es hacer los mazos Tango N5 y N4 con Anki, para posteriormente aprender vocabulario a través de la inmersión que realice. Consulte **[Inmersión](../principal-guide/Immersion.md)** y **[Anki](../various-guide/Anki.md)** para más información.
+Para aprender vocabulario, el camino que recomendamos aquí es hacer los mazos Tango N5 y N4 con Anki, para posteriormente aprender vocabulario a través de la inmersión que realice. Consulte **[Inmersión](../principal-guide/Immersion.mdx)** y **[Anki](../configuration/Anki.mdx)** para más información.
 :::
 
 ### Fonética

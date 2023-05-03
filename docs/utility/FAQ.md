@@ -16,7 +16,7 @@ La Brigada SOS intenta hacer lo mejor que puede para guiar de la mejor forma a t
 Si usted quiere aprender japonés para consumir contenido nativo Japonés, hablar con nativos o le interesa vivir en Japón, no valen la pena. Contrario, si usted sólo le interesa aprender Japonés para un viaje vacacional donde requiera de un japonés muy básico, podría valer la pena. Aún así recuerde que estos libros contienen partes vagas o confusas con respecto al funcionamiento de la gramática japonés porque nunca fueron pensados para ser estudiados por cuenta propia. Requieren de un profesor. Y aún así, son recursos muy inferiores a comparación de los recursos recomendados aquí (Cure Dolly y Tae Kim).
 
 ### ¿Vale la pena consumir canales de Youtube como Yuyu Nihongo, 101JapanesePod o Kira Sensei?
-Es probable que sienta que al ver uno de estos vídeos aprende bastante pero, no se compara con la inmersión ni los recursos que se recomiendan aquí. Sin mencionar que cursos son buenos o malos, tenga en cuenta que la mayoría de cursos de Japonés en español son malos.
+Es probable que sienta que al ver uno de estos vídeos aprende bastante, pero no se compara con la inmersión ni los recursos que se recomiendan aquí. Sin mencionar que cursos son buenos o malos, tenga en cuenta que la mayoría de cursos de Japonés en español son malos.
 
 ### Las aplicaciones como Lingodeer, Duolingo, Drops, Memrise, WaniKani, entre otras, ¿sirven?
 Ninguna sirve. Casi todas comparten la misma filosofía del aprendizaje tradicional o peor aún, de buscar retenerlo con métodos ineficientes con el fin de exprimir dinero de usted.
@@ -27,7 +27,7 @@ Depende de sus necesidades. Si quiere consumir contenido nativo japonés o habla
 ### ¿Puedo aprender japonés con cualquier contenido, incluso con anime?
 Puede aprender japonés de cualquier contenido siempre y cuando el contenido que consuma sea hecho por nativos. Y si, puede aprender japonés a través del anime. No caiga en esa falsa creencia de gente sin argumentos que dice "No aprendas japonés con anime porque nadie habla de esa forma en la vida real". Todo anime es válido y es japonés real, ¿qué quiero decir con japonés real? Fácil. Contenido hecho por nativos para nativos. No generalice el anime, hay todo tipo de contenido. Si llegó a este servidor es muy probable que su motivación haya sido el anime, de ser así aproveche eso y diviértase aprendiendo japonés con anime.
 
-### ¿Este método, la inmersión, es para mi?
+### ¿Este método, la inmersión, es para mí?
 Depende. Si lo que quiere lograr con el japonés es saber unas pocas palabras y frases de supervivencia para poder comunicarse en algún viaje que tenga a Japón, es un rotundo no. Si quiere ser capaz de consumir cualquier contenido para nativos sin necesidad de traducciones y comunicarse cómodamente y de forma natural con nativos, entonces definitivamente este método, la inmersión, es para usted.
 
 ### ¿Qué beneficios me trae aprender Japonés a través de la inmersión?
@@ -61,7 +61,7 @@ La recomendación es que use Anki después de aprender los kana y tenga algo de 
 Comprendo que Anki pueda llegar a ser aburridor o quizás molesto, y si bien Anki no es un **requisito obligatorio**, el no usarlo hará que su aprendizaje sea muchísimo más lento. Sé puede ser bueno sin usar un SRS como Anki pero requerirá de mucho tiempo y de mucha lectura. Recuerde, Anki es un complemento a la inmersión que le ayudará a memorizar y recordar, para ser bueno en el idioma necesita inmersión.
 
 ### ¿Cómo configuro Anki?
-La guía que se recomendaba antes, [AnimeCards](https://animecards.site/), ha dejado de actualizarse. Ahora hay una nueva guía basada en la misma, pero con todas las correciones, adiciones y en español por parte de la Brigada SOS. Puede consultarla [aquí](../various-guide/Anki.md).
+La guía que se recomendaba antes, [AnimeCards](https://animecards.site/), ha dejado de actualizarse. Ahora hay una nueva guía basada en la misma, pero con todas las correciones, adiciones y en español por parte de la Brigada SOS. Puede consultarla [aquí](../configuration/Anki.mdx).
 
 ### ¿Debería ver r/learnJapanese en Reddit?
 Es un sitio lleno de principiantes y de gente que estudia de la forma tradicional. Y hay una posibilidad alta de que este foro atrase de forma considerable su aprendizaje si sigue algún consejo pero este reddit tampoco es la maldición encarnada del diablo, simplemente use el sentido común.

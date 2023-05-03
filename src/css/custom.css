@@ -212,4 +212,16 @@ html[data-theme='dark'] .navbar-item-github:before {
 
 }
 
+img.shadow {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+img.round {
+  border-radius: 10px;
+}
+
+img {
+  margin-bottom: 10px;
+}
+
 /***************************************************************************************/
