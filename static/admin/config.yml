@@ -86,7 +86,7 @@ collections:
   label: "Otras guías"
   folder: docs/otras-guias
   identifier_field: title
-  extension: md
+  extension: mdx
   format: frontmatter
   create: true
   widget: "list"
@@ -109,7 +109,7 @@ collections:
   label: "Utilidad"
   folder: docs/utilidad
   identifier_field: title
-  extension: md
+  extension: mdx
   format: frontmatter
   create: true
   widget: "list"
@@ -132,7 +132,7 @@ collections:
   label: "Miscelasneo"
   folder: docs/miscelasneo
   identifier_field: title
-  extension: md
+  extension: mdx
   format: frontmatter
   create: true
   widget: "list"
