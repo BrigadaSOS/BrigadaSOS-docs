@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-slug: /guia-principal/gramatica
+slug: gramatica
 title: Gramática
 ---
 # Gramática

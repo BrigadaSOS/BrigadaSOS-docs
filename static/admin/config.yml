@@ -7,16 +7,24 @@ backend:
 media_folder: "static/img" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/img/" # The src attribute for uploaded media will begin with /images/uploads
 publish_mode: editorial_workflow
+display_url: https://brigadasos.xyz
+site_url: https://brigadasos.xyz
+logo_url: https://brigadasos.xyz/img/logo.png
+
+slug:
+  sanitize_replacement: "/"
 
 collections:
 - name: docs
   label: "Inicio"
   folder: docs
   identifier_field: title
-  extension: md
+  extension: mdx
   format: frontmatter
   create: true
   widget: "list"
+  preview_path: "/"
+
   fields:
     - label: Título
       name: title
@@ -31,14 +39,15 @@ collections:
     - label: Contenido
       name: body
       widget: markdown
-- name: principal-guide
+- name: guia-principal
   label: "Guía Prinicpal"
-  folder: docs/principal-guide
+  folder: docs/guia-principal
   identifier_field: title
-  extension: md
+  extension: mdx
   format: frontmatter
   create: true
   widget: "list"
+  preview_path: "guia-principal/{{fields.slug}}"
   fields:
     - label: Título
       name: title
@@ -53,14 +62,15 @@ collections:
     - label: Contenido
       name: body
       widget: markdown
-- name: configuration
+- name: configuracion
   label: "Configuración"
-  folder: docs/configuration
+  folder: docs/configuracion
   identifier_field: title
-  extension: md
+  extension: mdx
   format: frontmatter
   create: true
   widget: "list"
+  preview_path: "configuracion/{{fields.slug}}"
   fields:
     - label: Título
       name: title
@@ -75,14 +85,15 @@ collections:
     - label: Contenido
       name: body
       widget: markdown
-- name: various-guide
+- name: otras-guias
   label: "Otras guías"
-  folder: docs/various-guide
+  folder: docs/otras-guias
   identifier_field: title
   extension: md
   format: frontmatter
   create: true
   widget: "list"
+  preview_path: "otras-guias/{{fields.slug}}"
   fields:
     - label: Título
       name: title
@@ -97,14 +108,15 @@ collections:
     - label: Contenido
       name: body
       widget: markdown
-- name: utility
+- name: utilidad
   label: "Utilidad"
-  folder: docs/utility
+  folder: docs/utilidad
   identifier_field: title
   extension: md
   format: frontmatter
   create: true
   widget: "list"
+  preview_path: "utilidad/{{fields.slug}}"
   fields:
     - label: Título
       name: title
@@ -119,14 +131,15 @@ collections:
     - label: Contenido
       name: body
       widget: markdown
-- name: misc
-  label: "Misc"
-  folder: docs/misc
+- name: miscelasneo
+  label: "Miscelasneo"
+  folder: docs/miscelasneo
   identifier_field: title
   extension: md
   format: frontmatter
   create: true
   widget: "list"
+  preview_path: "miscelasneo/{{fields.slug}}"
   fields:
     - label: Título
       name: title

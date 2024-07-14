@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-slug: /guia-principal/introduccion
+slug: introduccion
 title: Introducción
 ---
 

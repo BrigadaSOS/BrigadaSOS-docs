@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-slug: /guia-principal/escritura
+slug: escritura
 title: Sistema de escritura
 ---
 

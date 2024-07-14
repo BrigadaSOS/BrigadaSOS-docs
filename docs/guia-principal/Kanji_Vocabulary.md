@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-slug: /guia-principal/vocabulario-kanji
+slug: vocabulario-kanji
 title: Vocabulario y kanji
 ---
 # Vocabulario y kanji

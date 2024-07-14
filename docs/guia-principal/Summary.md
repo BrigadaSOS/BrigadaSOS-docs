@@ -1,6 +1,6 @@
 ---
 sidebar_position: 7
-slug: /guia-principal/conclusion
+slug: conclusion
 title: Conclusión
 ---
 
