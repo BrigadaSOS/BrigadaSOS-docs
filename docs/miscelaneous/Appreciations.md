@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 slug: /miscelaneo/agradecimientos
+title: Agradecimientos
 ---
 
 # Agradecimientos

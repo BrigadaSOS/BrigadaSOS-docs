@@ -9,20 +9,31 @@ public_folder: "/img/" # The src attribute for uploaded media will begin with /i
 
 collections:
 - name: docs
-  label: "Docs"
+  label: "Documentación"
   folder: docs
   identifier_field: title
   extension: md
+  format: frontmatter
   widget: "list"
   create: true
-  slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+  nested:
+    depth: 100
+    summary: '{{title}}'
   fields:
-    - { name: title, label: Title, widget: string }
-    - { name: body, label: Body, widget: markdown }
-    - { name: slug, label: Slug, widget: string }
-    - label: "Tags"
-      name: "tags"
-      widget: "list"
+    - label: Title
+      name: title
+      widget: string
+    - label: Slug
+      name: slug
+      widget: string
+    - label: Sidebar Position
+      name: sidebar_position
+      widget: number
+      min: 1
+    - label: Body
+      name: body
+      widget: markdown
+  meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
 - name: blog
   label: "blog"
   folder: blog

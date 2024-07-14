@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 slug: /miscelaneo/contacto
+title: Acerca de
 ---
 # Acerca de
 

@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 slug: /miscelaneo/historial-de-cambios
+title: Historial de cambios
 ---
 
 # Historial de cambios
