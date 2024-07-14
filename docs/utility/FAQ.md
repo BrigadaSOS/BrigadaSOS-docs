@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 slug: /utilidad/faq
+title: FAQ
 ---
 
 # Preguntas y respuestas

@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 slug: /otras-guias/escaneo-de-texto-en-imagenes
+title: Escaneo de texto en imágenes
 ---
 
 # Escaneo de texto en imágenes

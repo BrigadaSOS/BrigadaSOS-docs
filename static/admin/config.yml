@@ -6,54 +6,138 @@ backend:
 # These lines should *not* be indented
 media_folder: "static/img" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/img/" # The src attribute for uploaded media will begin with /images/uploads
+publish_mode: editorial_workflow
 
 collections:
 - name: docs
-  label: "Documentación"
+  label: "Inicio"
   folder: docs
   identifier_field: title
   extension: md
   format: frontmatter
-  widget: "list"
   create: true
-  nested:
-    depth: 100
-    summary: '{{title}}'
+  widget: "list"
   fields:
-    - label: Title
+    - label: Título
       name: title
       widget: string
-    - label: Slug
+    - label: URL 
       name: slug
       widget: string
-    - label: Sidebar Position
+    - label: Position en el sidebar
       name: sidebar_position
       widget: number
       min: 1
-    - label: Body
+    - label: Contenido
       name: body
       widget: markdown
-  meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
-- name: blog
-  label: "blog"
-  folder: blog
+- name: principal-guide
+  label: "Guía Prinicpal"
+  folder: docs/principal-guide
   identifier_field: title
   extension: md
-  widget: "list"
+  format: frontmatter
   create: true
-  slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+  widget: "list"
   fields:
-    - { name: title, label: Title, widget: string }
-    - { name: body, label: Body, widget: markdown }
-    - { name: slug, label: Slug, widget: string }
-    - label: "Tags"
-      name: "tags"
-      widget: "list"
-    - label: "Authors"
-      name: "authors"
-      widget: "list"
-      fields:
-        - { name: name, label: Name, widget: string }
-        - { name: title, label: Title, widget: string }
-        - { name: url, label: URL, widget: string }
-        - { name: imageUrl, label: ImageURL, widget: string }
+    - label: Título
+      name: title
+      widget: string
+    - label: URL 
+      name: slug
+      widget: string
+    - label: Position en el sidebar
+      name: sidebar_position
+      widget: number
+      min: 1
+    - label: Contenido
+      name: body
+      widget: markdown
+- name: configuration
+  label: "Configuración"
+  folder: docs/configuration
+  identifier_field: title
+  extension: md
+  format: frontmatter
+  create: true
+  widget: "list"
+  fields:
+    - label: Título
+      name: title
+      widget: string
+    - label: URL 
+      name: slug
+      widget: string
+    - label: Position en el sidebar
+      name: sidebar_position
+      widget: number
+      min: 1
+    - label: Contenido
+      name: body
+      widget: markdown
+- name: various-guide
+  label: "Otras guías"
+  folder: docs/various-guide
+  identifier_field: title
+  extension: md
+  format: frontmatter
+  create: true
+  widget: "list"
+  fields:
+    - label: Título
+      name: title
+      widget: string
+    - label: URL 
+      name: slug
+      widget: string
+    - label: Position en el sidebar
+      name: sidebar_position
+      widget: number
+      min: 1
+    - label: Contenido
+      name: body
+      widget: markdown
+- name: utility
+  label: "Utilidad"
+  folder: docs/utility
+  identifier_field: title
+  extension: md
+  format: frontmatter
+  create: true
+  widget: "list"
+  fields:
+    - label: Título
+      name: title
+      widget: string
+    - label: URL 
+      name: slug
+      widget: string
+    - label: Position en el sidebar
+      name: sidebar_position
+      widget: number
+      min: 1
+    - label: Contenido
+      name: body
+      widget: markdown
+- name: misc
+  label: "Misc"
+  folder: docs/misc
+  identifier_field: title
+  extension: md
+  format: frontmatter
+  create: true
+  widget: "list"
+  fields:
+    - label: Título
+      name: title
+      widget: string
+    - label: URL 
+      name: slug
+      widget: string
+    - label: Position en el sidebar
+      name: sidebar_position
+      widget: number
+      min: 1
+    - label: Contenido
+      name: body
+      widget: markdown

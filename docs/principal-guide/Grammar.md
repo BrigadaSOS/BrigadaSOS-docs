@@ -1,6 +1,7 @@
 ---
 sidebar_position: 5
 slug: /guia-principal/gramatica
+title: Gramática
 ---
 # Gramática
 

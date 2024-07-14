@@ -1,7 +1,9 @@
 ---
 sidebar_position: 3
 slug: /guia-principal/escritura
+title: Sistema de escritura
 ---
+
 # Sistemas de escritura
 
 El japonés, a diferencia de nuestro idioma español, se escribe con tres sistemas, diferentes en funcionamiento y estructura al alfabeto al que estamos acostumbrados. No es de preocuparse, ni de verlo como algo extraño; a través de un buen estudio, le llegarán a ser tan naturales como nuestro propio sistema. Pero antes de eso es importante entender qué son y qué no son estos sistemas.

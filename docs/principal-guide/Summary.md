@@ -1,6 +1,7 @@
 ---
 sidebar_position: 7
 slug: /guia-principal/conclusion
+title: Conclusión
 ---
 
 # Conclusión
