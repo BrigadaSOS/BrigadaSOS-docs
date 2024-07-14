@@ -1,7 +1,7 @@
 backend:
   name: github
   branch: main
-  repo: https://github.com/BrigadaSOS/BrigadaSOS-docs
+  repo: BrigadaSOS/BrigadaSOS-docs
 
 # These lines should *not* be indented
 media_folder: "static/img" # Media files will be stored in the repo under static/images/uploads
