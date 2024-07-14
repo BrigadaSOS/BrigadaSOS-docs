@@ -2,7 +2,7 @@
 
 Link: https://brigadasos.xyz/
 
-Created and deployed with [Docusaurus](https://docusaurus.io/) and Github Pages.
+Created and deployed with [Docusaurus](https://docusaurus.io/) and [Netlify](https://app.netlify.com/).
 
 ## Install
 
@@ -25,4 +25,4 @@ npm run build && npm run server
 
 ## Deploy
 
-Commits deployed to `main` branch will get automatically deployed to the main website by a Github Pages action. Use Pull Requests for proposing and previewing changes before merging directly
+Commits deployed to `main` branch will get automatically deployed to the main website by Netlify. Use Pull Requests for proposing and previewing changes before merging directly
