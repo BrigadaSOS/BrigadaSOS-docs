@@ -128,15 +128,15 @@ collections:
     - label: Contenido
       name: body
       widget: markdown
-- name: miscelasneo
-  label: "Miscelasneo"
-  folder: docs/miscelasneo
+- name: miscelaneo
+  label: "Miscelaneo"
+  folder: docs/miscelaneo
   identifier_field: title
   extension: mdx
   format: frontmatter
   create: true
   widget: "list"
-  preview_path: "miscelasneo/{{fields.slug}}"
+  preview_path: "miscelaneo/{{fields.slug}}"
   fields:
     - label: Título
       name: title
