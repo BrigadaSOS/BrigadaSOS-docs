@@ -11,9 +11,6 @@ display_url: https://brigadasos.xyz
 site_url: https://brigadasos.xyz
 logo_url: https://brigadasos.xyz/img/logo.png
 
-slug:
-  sanitize_replacement: "/"
-
 collections:
 - name: docs
   label: "Inicio"
