@@ -70,6 +70,8 @@ h4 {
 .row .col {
   padding-top: var(--ifm-col-spacing-vertical);
   padding-bottom: var(--ifm-col-spacing-vertical);
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
 }
 
 a.card {
@@ -223,6 +225,19 @@ img {
 /* Reduce margin between search bar and Discord button */
 .navbar__search {
   margin-right: 0.5rem !important;
+}
+
+/* Ensure search bar maintains minimum width on small screens */
+@media screen and (max-width: 580px) {
+  .navbar__search {
+    min-width: 150px !important;
+    flex-shrink: 0 !important;
+  }
+
+  .navbar__search-input {
+    min-width: 150px !important;
+    width: 150px !important;
+  }
 }
 
 html[data-theme='dark'] .navbar__search-input {
@@ -383,6 +398,10 @@ html[data-theme='dark'] .hero-description {
     align-items: center;
   }
 
+  .hero-cta {
+    align-self: center !important;
+  }
+
   .hero-text {
     display: flex;
     flex-direction: column;
@@ -422,6 +441,44 @@ html[data-theme='dark'] .hero-description {
   }
 }
 
+/* Generic Icon Card Styling */
+a.card .card-header-with-icon {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+a.card .card-header-with-icon > div,
+a.card .card-header-with-icon > img {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+a.card .card-header-with-icon svg,
+a.card .card-header-with-icon img {
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+  margin-bottom: 0;
+}
+
+a.card .card-header-with-icon h4 {
+  margin: 0;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+}
+
+a.card .card-description {
+  margin-bottom: 0;
+}
+
+a.card .card-description p {
+  margin-bottom: 0;
+}
+
 /* Discord Card Styling */
 a.card.discord-card {
   border-color: #5865f2;
@@ -437,29 +494,4 @@ a.card.discord-card:hover {
   outline: 2px solid #5865f2;
   outline-offset: 0px;
   box-shadow: none !important;
-}
-
-a.card.discord-card .discord-header {
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
-  margin-bottom: 0.75rem;
-}
-
-a.card.discord-card .discord-icon {
-  width: 28px;
-  height: 28px;
-  flex-shrink: 0;
-}
-
-a.card.discord-card h4 {
-  margin-bottom: 0;
-}
-
-a.card.discord-card .discord-description {
-  margin-bottom: 0;
-}
-
-a.card.discord-card .discord-description p {
-  margin-bottom: 0;
 }
