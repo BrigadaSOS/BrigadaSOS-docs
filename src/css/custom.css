@@ -1,10 +1,3 @@
-/**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
- */
-
-/* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #ef5552;
   --ifm-color-primary-dark: #ec3835;
@@ -161,7 +154,7 @@ html[data-theme='dark'] .navbar-item-github:before {
   justify-items: center;
   align-items: center;
   padding-right: 0.7rem;
-  content: url(../../assets/icons/home.svg);
+  content: url(/img/icons/home.svg);
 }
 
 .section1 .menu__list-item-collapsible:first-child a::before {
@@ -170,7 +163,7 @@ html[data-theme='dark'] .navbar-item-github:before {
   justify-items: center;
   align-items: center;
   padding-right: 0.7rem;
-  content: url(../../assets/icons/guide.svg);
+  content: url(/img/icons/guide.svg);
 }
 
 .menu__link {
@@ -183,7 +176,7 @@ html[data-theme='dark'] .navbar-item-github:before {
   justify-items: center;
   align-items: center;
   padding-right: 0.7rem;
-  content: url(../../assets/icons/other-guides.svg);
+  content: url(/img/icons/other-guides.svg);
 }
 
 .section3 .menu__list-item-collapsible:first-child a::before {
@@ -192,7 +185,7 @@ html[data-theme='dark'] .navbar-item-github:before {
   justify-items: center;
   align-items: center;
   padding-right: 0.7rem;
-  content: url(../../assets/icons/utility.svg);
+  content: url(/img/icons/utility.svg);
 }
 
 .section4 .menu__list-item-collapsible:first-child a::before {
@@ -201,7 +194,7 @@ html[data-theme='dark'] .navbar-item-github:before {
   justify-items: center;
   align-items: center;
   padding-right: 0.7rem;
-  content: url(../../assets/icons/miscelaneous.svg);
+  content: url(/img/icons/miscelaneous.svg);
 }
 
 img.shadow {
