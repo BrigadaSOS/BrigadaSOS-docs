@@ -11,25 +11,9 @@
     <link href="/css/custom.css" rel="stylesheet" />
     <!-- Load preview-specific overrides -->
     <link href="preview.css" rel="stylesheet" />
-    <script>
-      window.CMS_MANUAL_INIT = true;
-    </script>
   </head>
   <body>
     <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
-    <script src="https://unpkg.com/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
-    <script>
-      fetch('/admin/config.yml')
-        .then(response => response.text())
-        .then(yamlText => {
-          const config = jsyaml.load(yamlText);
-          window.initCMS({ config });
-        })
-        .catch(error => {
-          console.error('Error loading config:', error);
-          alert('Error loading CMS configuration. Check console for details.');
-        });
-    </script>
     <script src="preview-templates.js"></script>
   </body>
 </html>

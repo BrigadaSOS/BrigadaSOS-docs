@@ -11,6 +11,7 @@
     "cms:proxy": "decap-server",
     "lint": "npm run lint:eslint && npm run lint:markdown && npm run lint:spell",
     "lint:eslint": "eslint . --max-warnings 0",
+    "lint:eslint:fix": "eslint . --fix",
     "lint:markdown": "markdownlint-cli2 \"**/*.md\"",
     "lint:spell": "cspell \"**/*.{md,js,jsx,ts,tsx,json}\"",
     "format": "npm run format:prettier && npm run format:markdown",

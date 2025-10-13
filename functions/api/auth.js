@@ -1,49 +1,31 @@
-/**
- * Cloudflare Pages Function for Decap CMS GitHub OAuth
- * Handles the initial authentication request
- *
- * This function redirects users to GitHub's OAuth authorization page.
- * Required environment variables:
- * - GITHUB_CLIENT_ID: Your GitHub OAuth App Client ID
- */
-
 export async function onRequest(context) {
-  const { request, env } = context;
+    const {
+        request, // same as existing Worker API
+        env, // same as existing Worker API
+        params, // if filename includes [id] or [[path]]
+        waitUntil, // same as ctx.waitUntil in existing Worker API
+        next, // used for middleware or to fetch assets
+        data, // arbitrary space for passing data between middlewares
+    } = context;
 
-  // Get GitHub OAuth Client ID from environment variables
-  const clientId = env.GITHUB_CLIENT_ID;
+    const client_id = env.GITHUB_CLIENT_ID;
 
-  if (!clientId) {
-    return new Response(
-      JSON.stringify({
-        error: 'GitHub OAuth is not configured properly',
-        message: 'GITHUB_CLIENT_ID environment variable is missing',
-      }),
-      {
-        status: 500,
-        headers: { 'Content-Type': 'application/json' },
-      }
-    );
-  }
+    try {
+        const url = new URL(request.url);
+        const redirectUrl = new URL('https://github.com/login/oauth/authorize');
+        redirectUrl.searchParams.set('client_id', client_id);
+        redirectUrl.searchParams.set('redirect_uri', url.origin + '/api/callback');
+        redirectUrl.searchParams.set('scope', 'repo user');
+        redirectUrl.searchParams.set(
+            'state',
+            crypto.getRandomValues(new Uint8Array(12)).join(''),
+        );
+        return Response.redirect(redirectUrl.href, 301);
 
-  // Parse the request URL
-  const url = new URL(request.url);
-
-  // Get the callback URL from the environment or construct it from the current request
-  const callbackUrl = `${url.origin}/api/callback`;
-
-  // GitHub OAuth authorization URL
-  const githubAuthUrl = new URL('https://github.com/login/oauth/authorize');
-  githubAuthUrl.searchParams.set('client_id', clientId);
-  githubAuthUrl.searchParams.set('redirect_uri', callbackUrl);
-  githubAuthUrl.searchParams.set('scope', 'repo,user');
-
-  // Preserve the state parameter if provided (used by Decap CMS)
-  const state = url.searchParams.get('state');
-  if (state) {
-    githubAuthUrl.searchParams.set('state', state);
-  }
-
-  // Redirect to GitHub OAuth authorization page
-  return Response.redirect(githubAuthUrl.toString(), 302);
+    } catch (error) {
+        console.error(error);
+        return new Response(error.message, {
+            status: 500,
+        });
+    }
 }
