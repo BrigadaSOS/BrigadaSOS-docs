@@ -35,8 +35,6 @@ collections:
     slug: '{{slug}}'
     extension: 'mdx'
     format: 'frontmatter'
-    editor:
-      preview: true
     fields:
       - { label: 'Título', name: 'title', widget: 'string' }
       - { label: 'Slug', name: 'slug', widget: 'string', required: false }
@@ -56,8 +54,6 @@ collections:
     slug: '{{slug}}'
     extension: 'mdx'
     format: 'frontmatter'
-    editor:
-      preview: true
     fields:
       - { label: 'Título', name: 'title', widget: 'string' }
       - { label: 'Slug', name: 'slug', widget: 'string', required: false }
@@ -77,8 +73,6 @@ collections:
     slug: '{{slug}}'
     extension: 'mdx'
     format: 'frontmatter'
-    editor:
-      preview: true
     fields:
       - { label: 'Título', name: 'title', widget: 'string' }
       - { label: 'Slug', name: 'slug', widget: 'string', required: false }
@@ -98,8 +92,6 @@ collections:
     slug: '{{slug}}'
     extension: 'mdx'
     format: 'frontmatter'
-    editor:
-      preview: true
     fields:
       - { label: 'Título', name: 'title', widget: 'string' }
       - { label: 'Slug', name: 'slug', widget: 'string', required: false }
@@ -119,8 +111,6 @@ collections:
     slug: '{{slug}}'
     extension: 'mdx'
     format: 'frontmatter'
-    editor:
-      preview: true
     fields:
       - { label: 'Título', name: 'title', widget: 'string' }
       - { label: 'Slug', name: 'slug', widget: 'string', required: false }
