@@ -74,6 +74,11 @@ h4 {
   padding-right: 0.5rem;
 }
 
+.container .row {
+  margin-left: -0.5rem;
+  margin-right: -0.5rem;
+}
+
 a.card {
   text-decoration: none !important;
   color: var(--ifm-color-content);
@@ -297,15 +302,21 @@ html[data-theme='dark'] .search-icon {
   }
 }
 /* Hide breadcrumbs only on homepage (/) */
-[data-page-id="intro"] .theme-doc-breadcrumbs,
-.docs-wrapper[class*="docs-doc-id-intro"] .theme-doc-breadcrumbs {
+[data-page-id='intro'] .theme-doc-breadcrumbs,
+.docs-wrapper[class*='docs-doc-id-intro'] .theme-doc-breadcrumbs {
+  display: none !important;
+}
+
+/* Hide pagination nav on homepage (/) */
+[data-page-id='intro'] .pagination-nav,
+.docs-wrapper[class*='docs-doc-id-intro'] .pagination-nav {
   display: none !important;
 }
 
 /* Hero Component Styles */
 .hero-container {
-  margin-bottom: 3rem;
-  padding-top: 2rem;
+  margin-bottom: 1.5rem;
+  padding-top: 1rem;
   padding-bottom: 1rem;
 }
 
