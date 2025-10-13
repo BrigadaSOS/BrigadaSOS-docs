@@ -1,0 +1,173 @@
+# Decap CMS Configuration for Brigada SOS
+# Documentation: https://decapcms.org/docs/configuration-options/
+
+backend:
+  name: github
+  repo: BrigadaSOS/brigadasos.xyz
+  branch: main
+  base_url: https://brigadasos.xyz
+  auth_endpoint: /api/auth
+
+# Locale settings
+locale: "es"
+
+# Media files configuration
+media_folder: "assets"
+public_folder: "/assets"
+
+# Editorial workflow (optional - enables draft/review/ready states)
+publish_mode: editorial_workflow
+
+# Collections define the structure of content types
+collections:
+  # Página de inicio
+  - name: "intro"
+    label: "Página de Inicio"
+    files:
+      - label: "Inicio"
+        name: "intro"
+        file: "docs/intro.mdx"
+        fields:
+          - { label: "Título", name: "title", widget: "string" }
+          - { label: "Slug", name: "slug", widget: "string", default: "/" }
+          - {
+              label: "Posición en Sidebar",
+              name: "sidebar_position",
+              widget: "number",
+            }
+          - { label: "Contenido", name: "body", widget: "markdown" }
+
+  # Guía Principal
+  - name: "guia-principal"
+    label: "Guía Principal"
+    folder: "docs/guia-principal"
+    create: true
+    slug: "{{slug}}"
+    extension: "mdx"
+    format: "frontmatter"
+    editor:
+      preview: true
+    fields:
+      - { label: "Título", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string", required: false }
+      - {
+          label: "Posición en Sidebar",
+          name: "sidebar_position",
+          widget: "number",
+          required: false,
+        }
+      - {
+          label: "Etiqueta del Sidebar",
+          name: "sidebar_label",
+          widget: "string",
+          required: false,
+        }
+      - { label: "Contenido", name: "body", widget: "markdown" }
+
+  # Configuración
+  - name: "configuracion"
+    label: "Configuración"
+    folder: "docs/configuracion"
+    create: true
+    slug: "{{slug}}"
+    extension: "mdx"
+    format: "frontmatter"
+    editor:
+      preview: true
+    fields:
+      - { label: "Título", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string", required: false }
+      - {
+          label: "Posición en Sidebar",
+          name: "sidebar_position",
+          widget: "number",
+          required: false,
+        }
+      - {
+          label: "Etiqueta del Sidebar",
+          name: "sidebar_label",
+          widget: "string",
+          required: false,
+        }
+      - { label: "Contenido", name: "body", widget: "markdown" }
+
+  # Otras Guías
+  - name: "otras-guias"
+    label: "Otras Guías"
+    folder: "docs/otras-guias"
+    create: true
+    slug: "{{slug}}"
+    extension: "mdx"
+    format: "frontmatter"
+    editor:
+      preview: true
+    fields:
+      - { label: "Título", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string", required: false }
+      - {
+          label: "Posición en Sidebar",
+          name: "sidebar_position",
+          widget: "number",
+          required: false,
+        }
+      - {
+          label: "Etiqueta del Sidebar",
+          name: "sidebar_label",
+          widget: "string",
+          required: false,
+        }
+      - { label: "Contenido", name: "body", widget: "markdown" }
+
+  # Utilidad
+  - name: "utilidad"
+    label: "Utilidad"
+    folder: "docs/utilidad"
+    create: true
+    slug: "{{slug}}"
+    extension: "mdx"
+    format: "frontmatter"
+    editor:
+      preview: true
+    fields:
+      - { label: "Título", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string", required: false }
+      - {
+          label: "Posición en Sidebar",
+          name: "sidebar_position",
+          widget: "number",
+          required: false,
+        }
+      - {
+          label: "Etiqueta del Sidebar",
+          name: "sidebar_label",
+          widget: "string",
+          required: false,
+        }
+      - { label: "Contenido", name: "body", widget: "markdown" }
+
+  # Misceláneo
+  - name: "miscelaneo"
+    label: "Misceláneo"
+    folder: "docs/miscelaneo"
+    create: true
+    slug: "{{slug}}"
+    extension: "mdx"
+    format: "frontmatter"
+    editor:
+      preview: true
+    fields:
+      - { label: "Título", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string", required: false }
+      - {
+          label: "Posición en Sidebar",
+          name: "sidebar_position",
+          widget: "number",
+          required: false,
+        }
+      - {
+          label: "Etiqueta del Sidebar",
+          name: "sidebar_label",
+          widget: "string",
+          required: false,
+        }
+      - { label: "Contenido", name: "body", widget: "markdown" }
