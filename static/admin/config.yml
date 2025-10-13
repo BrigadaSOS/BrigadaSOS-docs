@@ -12,8 +12,10 @@ backend:
 locale: "es"
 
 # Media files configuration
-media_folder: "assets"
-public_folder: "/assets"
+# Images uploaded via CMS will go to static/img/
+# Other files (JSON, PDFs, etc.) should go to static/files/
+media_folder: "static/img"
+public_folder: "/img"
 
 # Editorial workflow (optional - enables draft/review/ready states)
 publish_mode: editorial_workflow
