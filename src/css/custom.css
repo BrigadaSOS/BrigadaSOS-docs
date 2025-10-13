@@ -260,3 +260,206 @@ html[data-theme='dark'] {
 html[data-theme='dark'] .search-icon {
   color: var(--ifm-color-emphasis-500);
 }
+
+/* Expand doc content to use full width when there's no right sidebar */
+.docMainContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocPage-Layout-Main-styles-module {
+  max-width: 100% !important;
+}
+
+.theme-doc-markdown {
+  max-width: 100% !important;
+}
+
+/* Override the 75% max-width constraint on the doc item column */
+@media (min-width: 997px) {
+  [class*='docItemCol'][class*='docItemCol'] {
+    max-width: 100% !important;
+  }
+
+  /* Alternative with higher specificity */
+  .col[class*='docItemCol'] {
+    max-width: 100% !important;
+  }
+}
+/* Hide breadcrumbs only on homepage (/) */
+[data-page-id="intro"] .theme-doc-breadcrumbs,
+.docs-wrapper[class*="docs-doc-id-intro"] .theme-doc-breadcrumbs {
+  display: none !important;
+}
+
+/* Hero Component Styles */
+.hero-container {
+  margin-bottom: 3rem;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+}
+
+.hero-content {
+  display: flex;
+  align-items: stretch;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.hero-text {
+  flex: 1;
+  min-width: 320px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.hero-text .hero-cta {
+  align-self: flex-start;
+}
+
+.hero-title {
+  font-size: 3rem;
+  font-weight: 800;
+  margin-bottom: 1.5rem;
+  line-height: 1.1;
+  background: linear-gradient(120deg, #ef5552 0%, #f2726f 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.hero-subtitle {
+  font-size: 1.4rem;
+  color: var(--ifm-color-primary);
+  margin-bottom: 1.5rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+html[data-theme='dark'] .hero-subtitle {
+  color: var(--ifm-color-primary-light);
+}
+
+.hero-description {
+  font-size: 1.125rem;
+  line-height: 1.7;
+  margin-bottom: 2rem;
+  color: var(--ifm-color-emphasis-900);
+  font-weight: 400;
+}
+
+html[data-theme='dark'] .hero-description {
+  color: var(--ifm-color-emphasis-600);
+}
+
+.hero-cta {
+  font-size: 1.125rem;
+  padding: 1rem 2.5rem;
+  margin-top: 1rem;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.hero-cta:hover {
+  transform: translateY(-2px);
+}
+
+.hero-image {
+  flex: 0 0 auto;
+  display: flex;
+  align-self: center;
+}
+
+.hero-image img {
+  max-height: 390px;
+  /* height: auto; */
+  border-radius: 12px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+  margin: 0;
+}
+
+/* Keep mobile layout until 1200px to accommodate sidebar at 997px */
+@media (max-width: 1199px) {
+  .hero-content {
+    flex-direction: column-reverse;
+    text-align: center;
+    gap: 2.5rem;
+    align-items: center;
+  }
+
+  .hero-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .hero-image {
+    max-height: 300px;
+    justify-content: center;
+  }
+
+  .hero-title {
+    font-size: 2.5rem;
+  }
+
+  .hero-subtitle {
+    font-size: 1.25rem;
+  }
+
+  .hero-description {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .hero-title {
+    font-size: 2rem;
+  }
+
+  .hero-subtitle {
+    font-size: 1.125rem;
+  }
+
+  .hero-cta {
+    padding: 0.875rem 2rem;
+    font-size: 1rem;
+  }
+}
+
+/* Discord Card Styling */
+a.card.discord-card {
+  border-color: #5865f2;
+  background-color: rgba(88, 101, 242, 0.08);
+}
+
+html[data-theme='dark'] a.card.discord-card {
+  background-color: rgba(88, 101, 242, 0.12);
+}
+
+a.card.discord-card:hover {
+  border-color: #5865f2;
+  outline: 2px solid #5865f2;
+  outline-offset: 0px;
+  box-shadow: none !important;
+}
+
+a.card.discord-card .discord-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+a.card.discord-card .discord-icon {
+  width: 28px;
+  height: 28px;
+  flex-shrink: 0;
+}
+
+a.card.discord-card h4 {
+  margin-bottom: 0;
+}
+
+a.card.discord-card .discord-description {
+  margin-bottom: 0;
+}
+
+a.card.discord-card .discord-description p {
+  margin-bottom: 0;
+}

@@ -13,14 +13,13 @@
       return;
     }
 
-    // Helper function to create HTML elements
-    const h = CMS.h;
-
     /**
      * Preview component for MDX documents
      * This mimics the Docusaurus page structure and styling exactly
+     *
+     * Note: h and createClass are exposed as globals by Decap CMS
      */
-    const DocusaurusPreview = CMS.createClass({
+    const DocusaurusPreview = createClass({
       render: function() {
         const entry = this.props.entry;
         const widgetFor = this.props.widgetFor;
@@ -57,7 +56,7 @@
      * Enhanced preview for the intro page
      * Note: Cards and JSX components won't render in preview, but styling will match
      */
-    const IntroPreview = CMS.createClass({
+    const IntroPreview = createClass({
       render: function() {
         const entry = this.props.entry;
         const widgetFor = this.props.widgetFor;

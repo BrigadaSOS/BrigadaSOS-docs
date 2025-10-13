@@ -47,10 +47,7 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl:
-            process.env.NODE_ENV === 'production'
-              ? undefined
-              : 'https://github.com/BrigadaSOS/brigadasos.xyz/tree/main/',
+          editUrl: undefined,
         },
         blog: false,
         theme: {
@@ -94,12 +91,6 @@ const config = {
           src: 'img/favicon.ico',
         },
         items: [
-          {
-            href: 'https://github.com/BrigadaSOS/brigadasos.xyz',
-            position: 'right',
-            className: 'navbar-item-github',
-            'aria-label': 'GitHub repository',
-          },
           {
             href: 'https://discord.gg/ajWm26ADEj',
             className: 'navbar-item-discord',
