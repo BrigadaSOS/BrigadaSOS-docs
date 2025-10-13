@@ -7,6 +7,9 @@
     // MD013/line-length - Allow longer lines in markdown
     "MD013": false,
 
+    // MD029/ol-prefix - Allow inconsistent ordered list prefixes
+    "MD029": false,
+
     // MD033/no-inline-html - Allow inline HTML (common in documentation)
     "MD033": false,
 
